@@ -1,0 +1,17 @@
+Data Base: WoS Core Collection
+*Execution Date: March 15, 2026
+*Fields Evaluated: Topic (TS), Country/Region (CU)
+*Initial Yield: n = 302 registros recuperados
+*Executable Syntax:
+
+TS=(("student dropout" OR "student attrition"
+OR "student retention" OR "academic failure" OR
+"dropping out" OR "early departure" OR "academic
+performance" OR "student success") AND ("machine
+learning" OR "data mining" OR "deep learning" OR
+"artificial intelligence" OR "predictive model*"
+OR classification OR "educational data mining" OR
+"learning analytics")) AND CU=(Brazil OR Mexico OR
+Colombia OR Chile OR Peru OR Argentina OR Ecuador OR
+Venezuela OR Cuba OR "Costa Rica" OR Uruguay OR Bolivia
+OR Paraguay OR Panama OR "Dominican Republic")

@@ -1,0 +1,12 @@
+Data Base: ACM Digital Library
+*Execution Date: March 15, 2026
+*Fields Evaluated: Abstract
+*Initial Yield: n = 65 registros recuperados
+*Executable Syntax:
+
+Abstract:("student dropout" OR "attrition"
+OR "retention" OR "academic failure") AND
+Abstract:("machine learning" OR "data mining" OR
+"predictive") AND Abstract:("Latin America" OR
+"Brazil" OR "Mexico" OR "Colombia" OR "Chile" OR
+"Peru")

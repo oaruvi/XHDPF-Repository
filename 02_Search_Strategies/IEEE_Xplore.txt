@@ -1,0 +1,16 @@
+Data Base: IEEE Xplore
+*Execution Date: March 15, 2026
+*Fields Evaluated: Document Title, Abstract
+*Initial Yield: n = 50 registros recuperados
+*Executable Syntax:
+
+("student dropout" OR "student attrition" OR "student
+retention" OR "academic failure") AND ("machine
+learning" OR "data mining" OR "predictive") AND
+("Latin America" OR "South America" OR "Brazil"
+OR "Mexico" OR "Colombia" OR "Chile" OR "Peru")
+AND ("Publication Year": 2020 OR "Publication Year":
+2021 OR "Publication Year": 2022 OR "Publication
+Year": 2023 OR "Publication Year": 2024 OR
+"Publication Year": 2025 OR "Publication Year":
+2026)

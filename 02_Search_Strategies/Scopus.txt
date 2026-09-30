@@ -1,0 +1,29 @@
+Data Base: scopus
+*Execution Date: March 15, 2026
+*Fields Evaluated: Title, Abstract, Keywords (TITLE-ABS-KEY)
+*Initial Yield: (n = 678) records retrieved
+*Executable Syntax:
+
+(TITLE-ABS-KEY(("student dropout" OR "student
+attrition" OR "student retention" OR "academic
+failure" OR "dropping out" OR "early departure"
+OR "academic performance" OR "student success")
+AND ("machine learning" OR "data mining" OR
+"deep learning" OR "artificial intelligence"
+OR "predictive model" OR classification OR
+"educational data mining" OR "learning analytics"
+OR "random forest" OR "neural network*" OR
+"decision tree"))) AND (LIMIT-TO(AFFILCOUNTRY,
+"Brazil") OR LIMIT-TO(AFFILCOUNTRY, "Mexico")
+OR LIMIT-TO(AFFILCOUNTRY, "Colombia")
+OR LIMIT-TO(AFFILCOUNTRY, "Chile") OR
+LIMIT-TO(AFFILCOUNTRY, "Peru") OR LIMIT-TO(AFFILCOUNTRY,
+"Argentina") OR LIMIT-TO(AFFILCOUNTRY, "Ecuador") OR
+LIMIT-TO(AFFILCOUNTRY, "Cuba") OR LIMIT-TO(AFFILCOUNTRY,
+"Venezuela") OR LIMIT-TO(AFFILCOUNTRY, "Costa
+Rica") OR LIMIT-TO(AFFILCOUNTRY, "Uruguay")
+OR LIMIT-TO(AFFILCOUNTRY, "Bolivia")
+OR LIMIT-TO(AFFILCOUNTRY, "Paraguay")
+OR LIMIT-TO(AFFILCOUNTRY, "Panama") OR
+LIMIT-TO(AFFILCOUNTRY, "Dominican Republic")) AND
+PUBYEAR > 2019 AND PUBYEAR < 2027
