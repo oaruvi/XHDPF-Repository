@@ -1,0 +1,1593 @@
+﻿title;author;journal;year;source;pages;volume;abstract;document_type;doi;url;affiliation;author_keywords;keywords;publisher;issn;language;note;reason_for_exclusion
+A predictive model for academic risk in medicine students;Mccoll-Calvo, Peter and Goset-Poblete, Jessica and Martinez-Lomakin,Felipe and Searle-Solar, Mariana and Silva-Orrego, Veronica;Predictive model to reduce the dropout rate of;2021;Web of Science (WoS);1787-1794;149.0;"Background: Academic performance is an important issue for universities.
+Andres Bello University's academic risk factors identification system
+focuses on performance variables, such as scores on university entrance
+examinations and scores in high school. Since medical students have high
+entrance scores, their academic risk is not detected. Aim: To create an
+academic risk predictive model for medical students using neuro-didactic
+variables. Material and Methods: Prospective cohort study with 189
+first-year medical students. After signing the informed consent,
+questionnaires were applied to measure variables related to executive
+functions and reward system. These were analyzed with logistic
+regression models and classification trees. Results: The variables that
+modified the probability of academic risk were identified by the
+logistic regression model with a global accuracy of 0.74 and by the
+algorithm of the classification tree, with a sensitivity and specificity
+of 68 and 79\% respectively. The identified variables for executive
+functions, were the scores obtained in the science, mathematics, and
+emotional intelligence tests of the university entrance examination.
+Family pressure and who they live with, were variables associated with
+the reward system. Conclusions: A low score in the science test of the
+university entrance examination is the variable that initially
+determines the probability of academic risk. It is modulated by
+variables related to reward system. In the most complex branch, the
+terminal node is represented by the emotional intelligence variable of
+executive functions.";Article;;;"Mccoll-Calvo, P (Corresponding Author), Univ Andres Bello, Sede Vina del Mar, Fac Med, Carrera Med, Vina Del Mar, Chile.Mccoll-Calvo, Peter; Goset-Poblete, Jessica; Martinez-Lomakin, Felipe; Searle-Solar, Mariana; Silva-Orrego, Veronica, Univ Andres Bello, Sede Vina del Mar, Fac Med, Carrera Med, Vina Del Mar, Chile.";;"Academic Performance; Executive Function; Logistic Models; Reward;Students; Medical";SOC MEDICA SANTIAGO;0034-9887;Spanish;;Artículos Retractados
+Influence of classroom motivational climate and teaching style onuniversity students' self-regulation and performance;Abello, Diana M. and Alonso-Tapia, Jesus and Panadero, Ernesto;REVISTA COMPLUTENSE DE EDUCACION;2022;Web of Science (WoS);399-412;33.0;"The teacher actions in classroom has important effects on students'
+educational processes and performance, thus it is crucial to train
+teachers so that they implement the most efficient instructional
+strategies. This study explores the influence of the university
+instructional environment, defined by the Teaching Styles and the
+Classroom Motivational Climate, on the perception of motivational
+changes, emotion, and motivation self-regulation, academic performance,
+and how students' initial motivational orientations mediate this
+influence. A total of 214 students from the faculty of Education of a
+Colombian university participated in the study. Three predictive models
+were analyzed. Results indicate, first, that motivational orientation
+mediates the perception of the instructional environment: avoidance
+orientation is associated with negative perception; second, both the
+Classroom Motivational Climate and the Teaching Style favor learning
+oriented motivation, learning-oriented emotion self-regulation style,
+and the students' attribution of motivational changes to the teacher;
+third, Classroom Motivational Climate seems to mitigate avoidance
+oriented self-regulation style. Finally, the Teaching Style is the only
+variable that positively and significantly predicts academic
+performance.";Article;10.5209/rced.74455;;Abello, DM (Corresponding Author), Univ Pedag Nacl, Bogota, Colombia.Abello, Diana M., Univ Pedag Nacl, Bogota, Colombia.Alonso-Tapia, Jesus, Univ Aut6noma Madrid, Madrid, Spain.Panadero, Ernesto, Univ Deusto, Bilbao, Spain.Panadero, Ernesto, Ikerbasque, Basque Fdn Sci, Bilbao, Spain.;;"teaching style; classroom motivational climate; motivation; achievementgoal orientations; emotion self-regu-lation; motivation self-regulation";UNIV COMPLUTENSE MADRID, SERVICIO PUBLICACIONES;1130-2496;English;;Variable objetivo no es Deserción
+First year seminars: Their contribution to student persistence andretention;Laya, Marisol Silva and Melgar, Norma Nelida Resendiz;REVISTA DE PEDAGOGIA UNIVERSITARIA Y DIDACTICA DEL DERECHO;2023;Web of Science (WoS);;10.0;"The objective of this article is to analyze a set of evidence on the
+effectiveness of first-year university seminars, based on documentary
+research on their origin, characteristics, development and theoretical
+models on which they are based. Useful knowledge is generated for higher
+education institutions on how to accompany their student populations in
+the transition process from high school to university, and facilitate
+their incorporation into the university community and culture. It is
+concluded that first-year seminars, as long as they meet certain
+requirements, can contribute to student persistence and retention,
+within a framework of social justice and equity from a Latin American
+vision.";Article;10.5354/0719-5885.2023.71285;;"Laya, MS (Corresponding Author), Univ Iberoamericana Ciudad Mexico, Mexico City, Mexico.Laya, Marisol Silva; Melgar, Norma Nelida Resendiz, Univ Iberoamericana Ciudad Mexico, Mexico City, Mexico.";;"University students; access to education; dropping out; schoolintegration";UNIV CHILE, FAC DERECHO;0719-5885;English;;No pertenece a Educación Superior
+An explainable machine learning approach for student dropout prediction;Krueger, Joao Gabriel Correa and Britto Jr, Alceu de Souza and Barddal,Jean Paul;EXPERT SYSTEMS WITH APPLICATIONS;2023;Web of Science (WoS);;233.0;"School dropout is a relevant socio-economic problem across the globe.
+Predictive models have been developed to determine the likelihood of
+students dropping out of their studies precociously to overcome such a
+problem. Academic systems, which gather data from many students, are
+potential sources for datasets that feed dropout prediction algorithms,
+thus leading to general improvements in education quality. Despite
+successful past attempts to predict dropout, several works depict small
+datasets with features that are hard to reproduce. Furthermore,
+predicting whether a student will drop out is not enough to diagnose and
+prevent the problem as it is also necessary to provide potential
+justifications for the dropout. This paper proposes an approach for
+creating and enriching a dataset for dropout prediction, which has been
+applied for dropout prediction using data from 19 schools in Brazil.
+With this dataset and using classifiers and model explaining techniques,
+our experiments achieved Area Under the Precision-Recall Curve (AUC-PR)
+scores of up to 89.5\%, Precision up to 95\%, Recall up to 93\%, and
+Kolmogorov-Smirnov (KS) rates up to 97\% when predicting dropout at
+different year moments. This study also shows differences when
+predicting dropouts in different educational stages, such as preschool
+and secondary education, with the former being more complex than the
+latter. In addition to the high recognition rates, our proposal
+identifies potential reasons for student dropout, which are relevant for
+educational institutions to take preemptive actions.";Article;10.1016/j.eswa.2023.120933;;"Barddal, JP (Corresponding Author), Pontificia Univ Catol Parana PUCPR, Grad Program Informat PPGIa, Rua Imaculada Conceicao,1155, Curitiba, PR, Brazil.Krueger, Joao Gabriel Correa; Britto Jr, Alceu de Souza; Barddal, Jean Paul, Pontificia Univ Catol Parana PUCPR, Grad Program Informat PPGIa, Rua Imaculada Conceicao,1155, Curitiba, PR, Brazil.";;"Dropout prediction; Machine learning; Explainable model";PERGAMON-ELSEVIER SCIENCE LTD;0957-4174;English;;No pertenece a Educación Superior
+Using the Belbin method and models for predicting the academicperformance of engineering students;Gutierrez, Luis and Flores, Victor and Keith, Brian and Quelopana, Aldo;COMPUTER APPLICATIONS IN ENGINEERING EDUCATION;2019;Web of Science (WoS);500-509;27.0;"This paper describes the process of generating a predictive model of
+students' academic performance in different engineering subjects at
+Universidad Catolica del Norte (UCN). It aims to analyze the importance
+of variables influencing the final average grade of the UCN students in
+projects related to different subjects, focusing on the dimensions
+resulting from the Belbin test. The main objective of this work is to
+provide evidence of the real impact of the Belbin test outcomes on the
+final performance of a team of students, using as a metric of variable
+importance the one provided by a Random Forest model, supplied by the
+scikit-learn library. As a result, the final classifier presented an
+accuracy of 80\%, and one of the most influential variables according to
+this model was Covered Roles 2, which represents the number of roles
+covered in each group. Future research lines are proposed to validate
+these outcomes, mostly concerned with the acquisition of more data
+across several future semesters.";Article;10.1002/cae.22092;;"Flores, V (Corresponding Author), Univ Catolica Norte, Dept Comp \& Syst Engn, 0610 Angamos Av, Antofagasta, Chile.Gutierrez, Luis; Flores, Victor; Keith, Brian; Quelopana, Aldo, Univ Catolica Norte, Dept Comp \& Syst Engn, 0610 Angamos Av, Antofagasta, Chile.";;"active methodologies; belbin questionnaire; random forest; variableimportance";WILEY;1061-3773;English;;Variable objetivo no es Deserción
+A PREDICTIVE MODEL OF ACADEMIC FAILURE/SUCCESS FROM ENTRY INDICATORS, INSTUDENTS OF A STATE UNIVERSITY OF NORTHERN CHILE;Ferrer-Urbina, Rodrigo and Karmelic-Pavlov, Vesna and Beck-Fernandez,Hector and Valdivia-Pinto, Ricardo;INTERCIENCIA;2019;Web of Science (WoS);23-29;44.0;"Extensive evidence supports the social and economic benefits generated
+at the individual and social levels by the academic success in higher
+education, as well as the costs of academic failure for people and their
+impact on countries' growth and development. Therefore, it is essential
+to have models that allow early identification of potential risk
+profiles to develop focused prevention. The objective of this study was
+to develop an empirical proposal for the prediction of academic
+failure/success in university students, based on early entry indicators,
+academic and sociodemographic, considering the mediating effect of the
+first year approval rate. An expost-facto correlation study was
+conducted, with the cohorts enrolled in the first year between the years
+2001 and 2016 in a state university in northern Chile. The final sample
+was made up of 4012 graduates and 3393 students who defected or Jailed
+their undergraduate programs. Route analyzes were performed, estimating
+direct and indirect effects, differentiated by fields of study. Although
+each area of knowledge presented differential behaviors in the generated
+models, the results show that the predictors of entry were better
+proximal predictors (i.e., approval rates in the first year) than distal
+ones (failure/success). Although the best predictor of failure/success
+corresponds to the first year approval rate, the grades obtained in
+middle school turned out to be the best transversal predictor of
+performance at the lime of entry, except in the engineering area.";Article;;;Ferrer-Urbina, R (Corresponding Author), Univ Tarapaca, Psicol Social, Arica, Chile.Ferrer-Urbina, R (Corresponding Author), Univ Tarapaci, Escuela Psicol \& Filosofia, Avda 18 Septiembre 2222, Arica, Chile.Ferrer-Urbina, Rodrigo, Univ Tarapaca, Psicol Social, Arica, Chile.Ferrer-Urbina, Rodrigo, Univ Tarapaci, Escuela Psicol \& Filosofia, Avda 18 Septiembre 2222, Arica, Chile.Karmelic-Pavlov, Vesna, Pontificia Univ Catel Chile PUC, Psicol, Santiago, Chile.Karmelic-Pavlov, Vesna, Univ Tarap;;;INTERCIENCIA;0378-1844;Spanish;;No pertenece a Educación Superior
+Learning Analytics and Student Retention: A Longitudinal Study inVirtual Higher Education;Alamo, Ester Martin Caro and Segovia-Garcia, Nuria;REVISTA FUENTES;2025;Web of Science (WoS);314-325;27.0;"Learning analytics (LA) has emerged as an effective tool to address
+challenges such as student retention and academic performance in virtual
+higher education programs. This study aims to analyze the relationship
+between participation patterns in digital academic activities and the
+academic performance of online postgraduate students, as well as their
+connection to student persistence. Three key dimensions are examined:
+participation trends and clusters over time; the factors that predict
+academic performance and retention; and the potential of predictive
+models to personalize pedagogical strategies. A quantitative,
+longitudinal, and exploratory design was employed, using a sample of 393
+students enrolled at a Colombian university in 2024. Data was collected
+from institutional systems and analyzed through mixed linear models,
+machine learning algorithms, and time series analysis. The academic
+activities evaluated included application projects, practical cases,
+exams, discussion forums, and overall participation. Results indicate
+that practical activities, such as application projects and case
+studies, yield the highest levels of engagement and have a significant
+impact on academic performance. In contrast, forums and exams show lower
+levels of interaction. The clustering analysis identified three distinct
+student groups based on participation patterns, enabling more
+personalized pedagogical strategies. The findings suggest that LA
+provides a solid foundation for designing targeted interventions aimed
+at improving student retention and optimizing academic performance in
+virtual higher education. This approach reinforces the value of
+data-driven educational personalization.";Article;10.12795/revistafuentes.2025.27592;;Alamo, EMC (Corresponding Author), Inst Europeo Posgrad, Madrid, Spain.Alamo, Ester Martin Caro, Inst Europeo Posgrad, Madrid, Spain.Segovia-Garcia, Nuria, Corp Univ Asturias, Bogota, Colombia.;;"Higher education; Learning analytics; student assessment; Distanceeducation; Student engagement; Academic performance metrics; Educationaltechnology; Student dropout";UNIV SEVILLA, FAC CIENCIAS EDUCACION;2172-7775;Spanish;;Variable objetivo no es Deserción
+Learning Analytics to Determine Profile Dimensions of StudentsAssociated with Their Academic Performance;Gonzalez-Nucamendi, Andres and Noguez, Julieta and Neri, Luis andRobledo-Rella, Victor and Guadalupe Garcia-Castelan, Rosa Maria andEscobar-Castillejos, David;APPLIED SCIENCES-BASEL;2022;Web of Science (WoS);;12.0;"With the recent advancements of learning analytics techniques, it is
+possible to build predictive models of student academic performance at
+an early stage of a course, using student's self-regulation learning and
+affective strategies (SRLAS), and their multiple intelligences (MI).
+This process can be conducted to determine the most important factors
+that lead to good academic performance. A quasi-experimental study on
+618 undergraduate students was performed to determine student profiles
+based on these two constructs: MI and SRLAS. After calibrating the
+students' profiles, learning analytics techniques were used to study the
+relationships among the dimensions defined by these constructs and
+student academic performance using principal component analysis,
+clustering patterns, and regression and correlation analyses. The
+results indicate that the logical-mathematical intelligence, intrinsic
+motivation, and self-regulation have a positive impact on academic
+performance. In contrast, anxiety and dependence on external motivation
+have a negative effect on academic performance. A priori knowledge of
+the characteristics of a student sample and its likely behavior
+predicted by the models may provide both students and teachers with an
+early-awareness alert that can help the teachers in designing enhanced
+proactive and strategic decisions aimed to improve academic performance
+and reduce dropout rates. From the student side, knowledge about their
+main academic profile will sharpen their metacognition, which may
+improve their academic performance.";Article;10.3390/app122010560;;"Noguez, J (Corresponding Author), Tecnol Monterrey, Sch Engn \& Sci, Ave Eugenio Garza Sada 2501, Monterrey 64849, Mexico.Gonzalez-Nucamendi, Andres; Noguez, Julieta; Neri, Luis; Robledo-Rella, Victor; Guadalupe Garcia-Castelan, Rosa Maria, Tecnol Monterrey, Sch Engn \& Sci, Ave Eugenio Garza Sada 2501, Monterrey 64849, Mexico.Escobar-Castillejos, David, Univ Panamer, Fac Ingn, Augusto Rodin 498, Mexico City 03920, DF, Mexico.";;"educational innovation; higher education; academic performance; multipleintelligence; self-regulation skills; affective strategies";MDPI;;English;;Variable objetivo no es Deserción
+PREDICTING STUDENT RETENTION IN A MEDICAL SCIENCES DISCIPLINE;Lescano, Luis Rafael Freire and Torres, Edwin Fabricio Lozada and Pico,Maria Angelica Pico and Vergara, Alexandra del Rocio Laguapillo;REVISTA CONRADO;2025;Web of Science (WoS);;21.0;"This research analyzed the factors that influence student retention in a
+medical science discipline, using the Hierarchical Analysis Process as
+the main methodological tool. This approach allowed for the hierarchical
+and weighting of multiple relevant criteria, identified from an
+exhaustive review of the literature and consultations with experts in
+the educational field. The data were collected through surveys applied
+to students and teachers, complemented by institutional statistics
+related to academic permanence. The objective of the study was to
+develop a predictive model that would identify the key factors for
+student retention, providing tools for strategic decision- making in the
+design of educational policies. Among the main findings, it was
+highlighted that academic and psychological support, together with
+curricular flexibility, were the factors with the greatest weight in
+student retention. Likewise, significant barriers were identified, such
+as excessive academic workload and lack of social integration in the
+university environment. The conclusions pointed out the importance of
+implementing personalized support and guidance programs, as well as
+adjusting the curricular load to improve the student experience.
+Furthermore, the application of the developed model in other disciplines
+was recommended to validate its usefulness and replicability. This study
+provides an innovative approach by combining multi-criteria
+decision-making techniques with the analysis of educational factors,
+offering a systematic and objective perspective to address the problem
+of student dropout in medical sciences.";Article;;;"Lescano, LRF (Corresponding Author), Univ Reg Autonoma Los Andes, Ambato, Ecuador.Lescano, Luis Rafael Freire; Torres, Edwin Fabricio Lozada; Pico, Maria Angelica Pico; Vergara, Alexandra del Rocio Laguapillo, Univ Reg Autonoma Los Andes, Ambato, Ecuador.";;"Publicaci \& oacute;n continua; Student Retention; Educational Policies;Academic Load; Academic Support; Curricular Flexibility; SocialIntegration";UNIV CIENFUEGOS;1990-8644;English;;Revisiones / Meta-análisis
+Predicting Academic Performance using a Multiclassification Model: CaseStudy;Vergaray, Alfredo Daza and Guerra, Carlos and Cervera, Noemi and Burgos,Erwin;INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS;2022;Web of Science (WoS);881-889;13.0;"predicting the academic performance of students is increasingly
+possible, thanks to the constant use of computer systems that store a
+large amount of student information. Machine learning uses this
+information to achieve big goals, such as predicting whether or not a
+student will pass a course. The main purpose of the work was to make a
+multiclassifier model that exceeds the results obtained from the machine
+learning models used independently. For the development of our proposed
+predictive model, the methodology was used, which consists of several
+phases. For the first step, 557 records with 25 characteristics related
+to academic performance were selected, then the preprocessing was
+applied to said data set, eliminating the attributes with the lowest
+correlation and those records with inconsistencies, leaving 500 records
+and 9 attributes. For the transformation, it was necessary to convert
+categorical to numerical data of four attributes, being the following:
+SEX, ESTATUS\_lab\_padre, ESTATUS\_lab\_madre and CONDITION. Having the
+data set clean, we proceeded to balance the data, where 1,167 data were
+generated, using the 2/3 for training and the remaining 1/3 for
+validation, then the following techniques were applied: Extra Tree,
+Random Forest, Decision Tree, Ada Boost and XGBoost, each obtained an
+accuracy of 57.41\%, 61.96\%, 91.44\%, 59.65\% and 83.3\% respectively.
+Then the proposed model was applied, combining the five algorithms
+mentioned above, which reached an accuracy of 92.86\%, concluding that
+the proposed model provides better accuracy than when the models are
+used independently meaning that it was the one that obtained the best
+result.";Article;;;"Vergaray, AD (Corresponding Author), Univ Nacl Santa, Sch Syst \& Comp Engn, Ancash, Peru.Vergaray, Alfredo Daza; Guerra, Carlos; Cervera, Noemi; Burgos, Erwin, Univ Nacl Santa, Sch Syst \& Comp Engn, Ancash, Peru.";;"Learning machine; prediction; academic performance; hybrid model;classification techniques; multiclassification; python";SCIENCE \& INFORMATION SAI ORGANIZATION LTD;2158-107X;English;;Variable objetivo no es Deserción
+Is it possible to predict academic performance? An analysis fromeducational technology;Estrada Molina, Odiel and Fuentes Cancel, Dieter Reynaldo;REVISTA FUENTES;2021;Web of Science (WoS);363-375;23.0;"Predicting academic performance is a key element in education, allowing
+teachers to design preventive didactic actions. Various computational
+disciplines are involved in this predictive process, with learning
+analytics, machine learning, educational data mining, artificial neural
+networks, and fuzzy theories being the most frequently used. A
+systematic review of the scientific literature (2010-March 2020) indexed
+in Scopus, IEEE Xplore, ACM Digital Library and Springer is presented,
+with the aim of evaluating how academic performance prediction has
+behaved in two scenarios: (1) studies online (online) and blended; and
+(2) technological support for the face-to-face modality. The article
+concludes with the determination of the trends between the disciplines
+of educational technologies and the variables of academic performance.";Article;10.12795/revistafuentes.2021.14278;;"Molina, OE (Corresponding Author), Univ Ciencias Informat, Havana, Cuba.Estrada Molina, Odiel; Fuentes Cancel, Dieter Reynaldo, Univ Ciencias Informat, Havana, Cuba.";;"Academic achievement; education; educational technology; educationalcomputing; educational evaluation; higher education; learning;literature reviews";UNIV SEVILLA, FAC CIENCIAS EDUCACION;2172-7775;Spanish;;Revisiones / Meta-análisis
+Student Dataset from Tecnologico de Monterrey in Mexico to PredictDropout in Higher Education;Alvarado-Uribe, Joanna and Mejia-Almada, Paola and Masetto Herrera, AnaLuisa and Molontay, Roland and Hilliger, Isabel and Hegde, Vinayak andMontemayor Gallegos, Jose Enrique and Ramirez Diaz, Renato Armando andCeballos, Hector G.;DATA;2022;Web of Science (WoS);;7.0;"High dropout rates and delayed completion in higher education are
+associated with considerable personal and social costs. In Latin
+America, 50\% of students drop out, and only 50\% of the remaining ones
+graduate on time. Therefore, there is an urgent need to identify
+students at risk and understand the main factors of dropping out.
+Together with the emergence of efficient computational methods, the rich
+data accumulated in educational administrative systems have opened novel
+approaches to promote student persistence. In order to support research
+related to preventing student dropout, a dataset has been gathered and
+curated from Tecnologico de Monterrey students, consisting of 50
+variables and 143,326 records. The dataset contains non-identifiable
+information of 121,584 High School and Undergraduate students belonging
+to the seven admission cohorts from August-December 2014 to 2020,
+covering two educational models. The variables included in this dataset
+consider factors mentioned in the literature, such as sociodemographic
+and academic information related to the student, as well as
+institution-specific variables, such as student life. This dataset
+provides researchers with the opportunity to test different types of
+models for dropout prediction, so as to inform timely interventions to
+support at-risk students.";"Article; Data Paper";10.3390/data7090119;;"Alvarado-Uribe, J (Corresponding Author), Tecnol Monterrey, Inst Future Educ, Monterrey 64849, Mexico.Alvarado-Uribe, J (Corresponding Author), Tecnol Monterrey, Sch Engn \& Sci, Monterrey 64849, Mexico.Alvarado-Uribe, Joanna; Mejia-Almada, Paola; Ceballos, Hector G., Tecnol Monterrey, Inst Future Educ, Monterrey 64849, Mexico.Alvarado-Uribe, Joanna; Ceballos, Hector G., Tecnol Monterrey, Sch Engn \& Sci, Monterrey 64849, Mexico.Masetto Herrera, Ana Luisa; Montemayor Gallegos, Jose Enrique; ";;"dropout prediction; student attrition; machine learning; educationaldata mining; learning analytics; educational innovation; highereducation";MDPI;;English;;Revisiones / Meta-análisis
+Toward Educational Sustainability: An AI System for Identifying andPreventing Student Dropout;Brand, C. Erika J. and Ramirez, V. Gabriel M. and Diaz, Jaime andMoreira, Fernando;IEEE REVISTA IBEROAMERICANA DE TECNOLOGIAS DEL APRENDIZAJE-IEEE RITA;2024;Web of Science (WoS);100-110;19.0;"The design and development of a web application to identify a high or
+low probability of student dropout at the National Learning Service
+(SENA) in Colombia, aiming to streamline the process of identifying and
+supporting potential candidates for assistance provided by the
+institution through the student welfare department. Throughout the
+development, socioeconomic variables with the highest impact on
+characterized academic dropout processes to create a dataset. This
+dataset was then utilized with various artificial intelligence
+techniques explored in Machine Learning (Decision Trees, K-means, and
+Regression), ultimately determining the most effective algorithm for
+integration into the Software. The decision tree classification
+technique emerged as the most effective, achieving an impressive
+accuracy of 91\% and a minimal error rate of 9\%, substantiating its
+state-of-the-art standing. As a result, this Software has optimized
+processes within the Student Welfare Department at SENA and is adaptable
+for use in any higher education institution.";Article;10.1109/RITA.2024.3381850;;Ramírez, VGM (Corresponding Author), Univ Medellin, Fac Ingn, Medellin 050010, Colombia.Moreira, F (Corresponding Author), Univ Aveiro, IEETA, P-3810193 Aveiro, Portugal.Brand, C. Erika J., Serv Nacl Aprendizaje SENA, Bogota 111051, Colombia.Ramirez, V. Gabriel M., Univ Medellin, Fac Ingn, Medellin 050010, Colombia.Diaz, Jaime, Univ La Frontera, Dept Ciencias Comp \& Informat, Temuco 1145, Chile.Moreira, Fernando, Univ Portucalense, REMIT, IJP, P-4200072 Porto, Portugal.Moreira, Fernando, ;;"Education; Training; Decision trees; Classification algorithms;Prediction algorithms; Biological system modeling; Data mining;Artificial intelligence; machine learning school dropout; highereducation; Colombia";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;;English;;Revisiones / Meta-análisis
+Student clustering procedure according to dropout risk to improvestudent management in higher education;Hinojosa, Mauricio and Derpich, Ivan and Alfaro, Miguel and Ruete, Davidand Caroca, Alejandro and Gatica, Gustavo;TEXTO LIVRE-LINGUAGEM E TECNOLOGIA;2022;Web of Science (WoS);;15.0;"The complex problem of student dropout represents an opportunity for the
+application of data mining technology and methods in higher education.
+The objective of this research is to obtain the profile of students at
+risk of dropping out and thus generate student management plans that
+impact on the variables that explain this situation. For this, it is
+proposed to use a CRISP-DM methodological structure, applying
+statistical tools and unsupervised machine learning. The cross-sectional
+analysis was carried out on a universe of freshmen day students at a
+private Chilean university. The sociodemographic and behavioural
+variables used were based on attrition theory and expert judgment, and
+the data were obtained from the historical records available at the
+Institution. To obtain the variables that most influenced dropout,
+correlation and principal component analyses were performed. The
+application of agglomerative hierarchical clustering and rough sets
+technique produced four profiles of students with their respective
+association rules and five academic variables that allowed the design of
+a support system to reduce dropout and promote retention.";Article;10.35699/1983-3652.2022.37275;;"Hinojosa, M (Corresponding Author), Univ Santiago Chile, Fac Ingn, Dept Ingn Ind, Santiago, Region Metropol, Chile.Hinojosa, Mauricio; Derpich, Ivan; Alfaro, Miguel, Univ Santiago Chile, Fac Ingn, Dept Ingn Ind, Santiago, Region Metropol, Chile.Ruete, David; Caroca, Alejandro; Gatica, Gustavo, Univ Andres Bello, Fac Ingn, Santiago, Region Metropol, Chile.";;"Student dropout; CRISP-DM; Principal component analysis; Agglomerativehierarchical clustering; Rough sets";UNIV FED MINAS GERAIS, FAC LETRAS;1983-3652;Spanish;;No pertenece a Educación Superior
+Teaching through Learning Analytics: Predicting Student LearningProfiles in a Physics Course at a Higher Education Institution;Rincon-Flores, Elvira G. and Lopez-Camacho, Eunice and Mena, Juanjo andOlmos, Omar;INTERNATIONAL JOURNAL OF INTERACTIVE MULTIMEDIA AND ARTIFICIALINTELLIGENCE;2022;Web of Science (WoS);82-89;7.0;"Learning Analytics (LA) is increasingly used in Education to set
+prediction models from artificial intelligence to determine learning
+profiles. This study aims to determining to what extent K-nearest
+neighbor and random forest algorithms could become a useful tool for
+improving the teaching-learning process and reducing academic failure in
+two Physics courses at the Technological Institute of Monterrey, Mexico
+(n = 268). A quasi-experimental and mixed method approach was conducted.
+The main results showed significant differences between the first and
+second term evaluations in the two groups. One of the main findings of
+the study is that the predictions were not very accurate for each
+student in the first term evaluation. However, the predictions became
+more accurate as the algorithm was fed with larger datasets from the
+second term evaluation. This result indicates how predictive algorithms
+based on decision trees, can offer a close approximation to the academic
+performance that will occur in the class, and this information could be
+use along with the personal impressions coming from the teacher.";Article;10.9781/ijimai.2022.01.005;;"Olmos, O (Corresponding Author), Tecnol Monterrey, Sch Engn \& Sci, Monterrey, Mexico.Rincon-Flores, Elvira G., Tecnol Monterrey, Inst Future Educ, Monterrey, Mexico.Rincon-Flores, Elvira G., Tecnol Monterrey, Sch Humanities \& Educ, Monterrey, Mexico.Rincon-Flores, Elvira G., Univ Salamanca, GRIAL Res Grp, Salamanca, Spain.Mena, Juanjo, Salamanca Univ, Educ Dept, Salamanca, Spain.Mena, Juanjo, Kazan Fed Univ, Inst Psychol \& Educ, Kazan, Russia.Rincon-Flores, Elvira G.; Olmos, Omar, Tecno";;"Adaptive Learning; Educational Innovation; Higher Education; LearningAnalytics; Predictive Algorithms";UNIV INT RIOJA-UNIR;1989-1660;English;;No pertenece a Educación Superior
+Student Performance Prediction by Multiple Regression;Novaes, Adenilson A. and Piton-Goncalves, Jean;SIGMAE;2021;Web of Science (WoS);82-98;10.0;"In the context of Educational Data Science, Student Academic Performance
+Predic-tion can follow Educational Data Mining, which seeks to make
+student performance quantitative, guiding teachers and educational
+institutions. Multiple Linear Regression is a forecasting metho-dology
+that can be applied to educational data, as is the case of data from the
+Exame Nacional do Ensino Medio (ENEM). Based on data from the ENEM 2019
+edition, this research proposed, tested and analyzed seven multiple
+regression models based on a sample of 18.908 candidates. Such models
+considered the scores of the tests of (i) Languages, Codes and their
+Technologies, (ii) Mathematics and their Technologies, (iii) Natural
+Sciences and their Technologies and (iv) Human Sciences and their
+Technologies and (v) Writing; and personal data (iv) age, (v) sex and
+(vi) completed high school in a public or private school. Six models
+showed independence, cons-tant variance, absence of influential and
+significant outliers, allowing for an excellent predictive capacity of
+student performance.";Article;;;Piton-Gonçalves, J (Corresponding Author), Univ Fed Sao Carlos UFSCar, Dept Matemat, Sao Carlos, Brazil.Novaes, Adenilson A., Raccoon Publicidade Ltda, Sao Carlos, Brazil.Piton-Goncalves, Jean, Univ Fed Sao Carlos UFSCar, Dept Matemat, Sao Carlos, Brazil.;;"Performance prediction; Multiple Linear Regression; Data Science;Educational Data Mining; Exame Nacional do Ensino M?dio";UNIV FEDERAL ALFENAS;2317-0840;Portuguese;;No pertenece a Educación Superior
+Early Detection of At-Risk Students in Physics Through Remediated OnlineFormative Assessments and Machine Learning;Sarmiento, Charlie V. and Penello, Germano Maioli and Sigaud, Lucas;JOURNAL OF FORMATIVE DESIGN IN LEARNING;2025;Web of Science (WoS);101-113;9.0;"Traditional distance learning evaluations often fail to diagnose
+students' deficiencies in the early stages. This research tackles this
+challenge by implementing online formative assessments and analyzing the
+records of an introductory physics course, aiming to predict at-risk
+students. These online assessments go beyond mere evaluation, offering
+valuable benefits for students, such as immediate feedback, the
+opportunity to retake assessments, and learn from mistakes, all
+fostering deeper understanding. Three machine learning algorithms were
+used to predict students' final situation. All algorithms demonstrated
+good classification performance. However, the support vector machine
+(SVM) algorithm surpassed the others. This result allows us to predict
+potential failure during the very first formative assessment. This
+method empowers instructors to intervene early and improve student
+success, potentially leading to higher retention rates. These findings
+pave the way for personalized learning interventions in distance
+learning education. Potentially transforming students' outcomes and
+fostering a more engaging learning experience.";Article;10.1007/s41686-025-00104-7;;"Sarmiento, CV (Corresponding Author), Univ Fed Rio De Janeiro, Inst Fis, Rio De Janeiro, Brazil.Sarmiento, Charlie V.; Penello, Germano Maioli, Univ Fed Rio De Janeiro, Inst Fis, Rio De Janeiro, Brazil.Penello, Germano Maioli, Univ Sao Paulo, Inst Fis, Sao Paulo, Brazil.Sigaud, Lucas, Univ Fed Fluminense, Inst Fis, Niteroi, RJ, Brazil.";;"Teaching physics; Higher education; Online learning; Data mining;Learning strategies; Formative assessments";SPRINGER INT PUBL AG;;English;;No pertenece a Educación Superior
+Backpack Process Model (BPPM): A Process Mining Approach for CurricularAnalytics;Salazar-Fernandez, Juan Pablo and Munoz-Gama, Jorge andMaldonado-Mahauad, Jorge and Bustamante, Diego and Sepulveda, Marcos;APPLIED SCIENCES-BASEL;2021;Web of Science (WoS);;11.0;"Featured Application
+In this work, Process Mining techniques are used with a curricular
+analytics approach, to model the educational trajectories of engineering
+students during their first courses.
+Curricular analytics is the area of learning analytics that looks for
+insights and evidence on the relationship between curricular elements
+and the degree of achievement of curricular outcomes. For higher
+education institutions, curricular analytics can be useful for
+identifying the strengths and weaknesses of the curricula and for
+justifying changes in learning pathways for students. This work presents
+the study of curricular trajectories as processes (i.e., sequence of
+events) using process mining techniques. Specifically, the Backpack
+Process Model (BPPM) is defined as a novel model to unveil student
+trajectories, not by the courses that they take, but according to the
+courses that they have failed and have yet to pass. The usefulness of
+the proposed model is validated through the analysis of the curricular
+trajectories of N = 4466 engineering students considering the first
+courses in their program. We found differences between backpack
+trajectories that resulted in retention or in dropout; specific courses
+in the backpack and a larger initial backpack sizes were associated with
+a higher proportion of dropout. BPPM can contribute to understanding how
+students handle failed courses they must retake, providing information
+that could contribute to designing and implementing timely interventions
+in higher education institutions.";Article;10.3390/app11094265;;"Salazar-Fernandez, JP (Corresponding Author), Pontificia Univ Catolica Chile, Sch Engn, Dept Comp Sci, Santiago 7820436, Chile.Salazar-Fernandez, JP (Corresponding Author), Univ Austral Chile, Inst Informat, Valdivia 5110701, Chile.Salazar-Fernandez, Juan Pablo; Munoz-Gama, Jorge; Bustamante, Diego; Sepulveda, Marcos, Pontificia Univ Catolica Chile, Sch Engn, Dept Comp Sci, Santiago 7820436, Chile.Salazar-Fernandez, Juan Pablo, Univ Austral Chile, Inst Informat, Valdivia 5110701, Chile.Maldo";;"learning analytics; curricular analytics; process mining; curriculartrajectories; higher education";MDPI;;English;;No pertenece a Educación Superior
+A data mining approach to guide students through the enrollment processbased on academic performance;Vialardi, Cesar and Chue, Jorge and Pablo Peche, Juan and Alvarado,Gustavo and Vinatea, Bruno and Estrella, Jhonny and Ortigosa, Alvaro;USER MODELING AND USER-ADAPTED INTERACTION;2011;Web of Science (WoS);217-248;21.0;"Student academic performance at universities is crucial for education
+management systems. Many actions and decisions are made based on it,
+specifically the enrollment process. During enrollment, students have to
+decide which courses to sign up for. This research presents the
+rationale behind the design of a recommender system to support the
+enrollment process using the students' academic performance record. To
+build this system, the CRISP-DM methodology was applied to data from
+students of the Computer Science Department at University of Lima,
+PerA(0). One of the main contributions of this work is the use of two
+synthetic attributes to improve the relevance of the recommendations
+made. The first attribute estimates the inherent difficulty of a given
+course. The second attribute, named potential, is a measure of the
+competence of a student for a given course based on the grades obtained
+in related courses. Data was mined using C4.5, KNN (K-nearest neighbor),
+Na < ve Bayes, Bagging and Boosting, and a set of experiments was
+developed in order to determine the best algorithm for this application
+domain. Results indicate that Bagging is the best method regarding
+predictive accuracy. Based on these results, the ``Student Performance
+Recommender System{''} (SPRS) was developed, including a learning
+engine. SPRS was tested with a sample group of 39 students during the
+enrollment process. Results showed that the system had a very good
+performance under real-life conditions.";Article;10.1007/s11257-011-9098-4;;"Vialardi, C (Corresponding Author), Univ Lima, Fac Ingn Sistemas, Lima, Peru.Vialardi, Cesar; Chue, Jorge; Pablo Peche, Juan; Alvarado, Gustavo; Vinatea, Bruno; Estrella, Jhonny, Univ Lima, Fac Ingn Sistemas, Lima, Peru.Ortigosa, Alvaro, Univ Autonoma Madrid, Escuela Politecn Super, Madrid, Spain.";;"Data mining; Enrollment process; Supervised classification; Machinelearning; Recommender systems; Predictive accuracy";SPRINGER;0924-1868;English;;No pertenece a Educación Superior
+Using machine learning techniques to predict academic performance inmathematics;da Silva, Joao Batista and da Costa, Luis Carlos Assis and dos Santos,Jose Nilson and Batista, Raquel Oliveira da Silva;EDUWEB-REVISTA DE TECNOLOGIA DE INFORMACION Y COMUNICACION EN EDUCACION;2025;Web of Science (WoS);sep-19;19.0;"The purpose of this study was to investigate the predictive power of the
+SAEF exams in estimating the schools' performance in Mathematics on the
+SPAECE exam. To achieve this, we developed a predictive machine learning
+model. The model was trained using data from 133 schools that
+participated in the exams in 2022, and subsequently tested with data
+from 140 schools that took part in the exams in 2023. The results showed
+that the random forest (RF) model demonstrated moderate predictive power
+(R2 = 0.397), which was superior to the linear model (R2 = 0.384). This
+means that approximately 39.7\% of the variance in schools' Mathematics
+performance on the SPAECE can be explained by the results of the SAEF
+exams. The first SAEF exam, administered at the beginning of the
+academic year, demonstrated the highest predictive power among the
+three, indicating that students' initial performance in Mathematics is a
+strong indicator of their future performance. These findings underscore
+the importance of early identification of learning difficulties to
+enable strategic pedagogical interventions throughout the year. Although
+this study was conducted within the Brazilian educational context, other
+countries can also utilize machine learning techniques to monitor
+students' academic trajectories and predict their outcomes in
+standardized assessments.";Article;10.46502/issn.1856-7576/2025.19.02.1;;da Silva, JB (Corresponding Author), Univ Estadual Ceara, Educ, Fortaleza, Brazil.da Silva, Joao Batista, Univ Estadual Ceara, Educ, Fortaleza, Brazil.da Costa, Luis Carlos Assis, Univ Fed Ceara, Sci \& Math Teaching, Fortaleza, Brazil.dos Santos, Jose Nilson, Univ Fed Ceara, Pharm, Fortaleza, Brazil.Batista, Raquel Oliveira da Silva, Fametro Univ Ctr, Human Resources, Fortaleza, Brazil.;;"artificial intelligence; assessment; large-scale; machine learning;random forest";UNIV CARABOBO;1856-7576;English;;No pertenece a Educación Superior
+Limitaci?n funcional y rendimiento acad?mico en universitarios dePopay?n, Colombia Functional limitation and academic performance inuniversity students from Popayan, Colombia;Janneth Molano-Tobar, Nancy and Ximena Molano-Tobar, Dolly and PortillaFernandez, Emnanuel Fernando;RETOS-NUEVAS TENDENCIAS EN EDUCACION FISICA DEPORTE Y RECREACION;2022;Web of Science (WoS);1038-1045;;"Objective: To identify the relationship between academic performance and
+functional limitations in university students from a public institution
+in Popayan, Colombia. Material and methods. Descriptive-correlational
+study of a cross-sectional cohort with 115 university students to whom
+the CIF instrument (classification system of functional health and
+disease outcomes) was applied, as well as the evaluation of academic
+performance measured through the general career average, the normal
+distribution of the population according to age was verified, to obtain
+measures of central tendency and dispersion as a Pearson statistic (p <
+0.05). Results. It was found that the population in general did not
+present functional limitations, but those that do appear are related to
+academic performance corresponding to cognitive, visual, voice and
+speech functions, with statistical significance (p=0.000). Conclusion.
+The functional limitations stand for a barrier for the academic
+development of the university student, which can lead to retention and
+desertion, it was appreciated how the socio-economic status of the
+students is related to the cognitive-mental function with a high
+correlation and significance (R =0.721 p=0.002).";Article;;;"Molano-Tobar, NJ (Corresponding Author), Univ Cauca, Popayan, Cauca, Colombia.Janneth Molano-Tobar, Nancy; Portilla Fernandez, Emnanuel Fernando, Univ Cauca, Popayan, Cauca, Colombia.Ximena Molano-Tobar, Dolly, Univ Cooperat Colombia, Medellin, Antioquia, Colombia.";;"Education; students; disability; limitation; functionality";FEDERACION ESPANOLA ASOC DOCENTES EDUCACION FISICA-FEADEF;1579-1726;English;;No pertenece a Educación Superior
+Academic Performance Profiles: The Importance of Family Expectations;Bravo Sanzana, Monica and Salvo, Sonia and Mieres, Manuel and Mansilla,Juan and Hederich, Christian;PERFILES LATINOAMERICANOS;2017;Web of Science (WoS);361-386;25.0;"This study explored some of the factors that explain school performance.
+To attain this, Chilean students' profiles of eighth year of primary
+school were identified and characterized (13.65 year old mean/DS 0.74).
+This was done according to their academic performance in the History,
+Geography and Social Sciences test, and the context variables. The
+database was provided by the Sistema de Medicion de la Calidad de la
+Educacion de Chile (Simce). The study was conducted by means of a
+predictive correlational quantitative design, using a classification and
+regression tree (cart). Parents' high educational expectations are the
+most important distinguishing factor in school performance. The results
+are discussed in relation to previous research about these topics.";Article;10.18504/pl2550-016-2017;;"Sanzana, MB (Corresponding Author), Univ La Frontera, Nucleo Cient Tecnol Ciencias Sociales Aplicades, Educ, Temuco, Chile.Bravo Sanzana, Monica, Univ La Frontera, Nucleo Cient Tecnol Ciencias Sociales Aplicades, Educ, Temuco, Chile.Salvo, Sonia, Univ Salamanca, Estadist Multivariante, Salamanca, Spain.Salvo, Sonia, Univ La Frontera, Dept Matemat \& Estadist, Temuco, Chile.Mieres, Manuel, Univ La Frontera, Ciencias Soci Aplicadas, Temuco, Chile.Mieres, Manuel; Mansilla, Juan, Univ Catolica ";;"School performance; primary school; role of the family; educationalexpectations of parents; regression analysis; student profiles; cart";FLACSO-MEXICO;0188-7653;Spanish;;No pertenece a Educación Superior
+Incidence of socioeconomic school segregation on academic performance Astudy from Peru;Javier Murillo, F. and Carrillo, Sandra;EDUCATION POLICY ANALYSIS ARCHIVES;2021;Web of Science (WoS);;29.0;"The objective of this research is to estimate the incidence of
+socioeconomic school segregation in the academic performance of
+students. For this purpose, data mining was carried out using the data
+of the Census Evaluation of Students (ECE) of the Ministry of Education
+of Peru, through Multilevel Models with three levels of analysis
+(region, school and student). The Hutchens' Square Root Index was used
+to estimate the magnitude of segregation in each school. The sample
+consisted of 502,521 2nd grade secondary students from 12,862 schools in
+the country. The results show that school segregation has a direct and
+measurable impact on performance in the three areas analyzed, and even
+helps to explain more than the average socioeconomic level of the
+school. Likewise, the concentration of students from families with lower
+socioeconomic levels in the school makes performance lower in the three
+areas; while the concentration of students from families with higher
+socioeconomic levels makes performance better, also in the three areas.
+This study provides solid evidence of how school socioeconomic
+segregation affects the efficiency of the educational system, as well as
+the equality of educational opportunities for all.";Article;10.14507/epaa.29.5129;;Murillo, FJ (Corresponding Author), Univ Autonoma Madrid, Madrid, Spain.Javier Murillo, F., Univ Autonoma Madrid, Madrid, Spain.Carrillo, Sandra, Pontificia Univ Catolica Peru, Lima, Peru.;;"School segregation; Socio-economic level; Academic performance;Secondary education; Peru; Educational equity";ARIZONA STATE UNIV, MARY LOU FULTON TEACHERS COLL;;Spanish;;Variable objetivo no es Deserción
+Linear Relationship between Resilience, Learning Approaches, and CopingStrategies to Predict Achievement in Undergraduate Students;de la Fuente, Jesus and Fernandez-Cabezas, Maria and Cambil, Matilde andVera, Manuel M. and Carmen Gonzalez-Torres, Maria and Artuch-Garde,Raquel;FRONTIERS IN PSYCHOLOGY;2017;Web of Science (WoS);;8.0;"The aim of the present research was to analyze the linear relationship
+between resilience (meta-motivational variable), learning approaches
+(meta-cognitive variables), strategies for coping with academic stress
+(meta-emotional variable) and academic achievement, necessary in the
+context of university academic stress. A total of 656 students from a
+southern university in Spain completed different questionnaires: a
+resiliency scale, a coping strategies scale, and a study process
+questionnaire. Correlations and structural modeling were used for data
+analyses. There was a positive and significant linear association
+showing a relationship of association and prediction of resilience to
+the deep learning approach, and problem-centered coping strategies. In a
+complementary way, these variables positively and significantly
+predicted the academic achievement of university students. These results
+enabled a linear relationship of association and consistent and
+differential prediction to be established among the variables studied.
+Implications for future research are set out.";Article;10.3389/fpsyg.2017.01039;;de la Fuente, J (Corresponding Author), Univ Almeria, Dept Psychol, Almeria, Spain.de la Fuente, J (Corresponding Author), Univ Autonoma Chile, Santiago, Chile.de la Fuente, Jesus, Univ Almeria, Dept Psychol, Almeria, Spain.de la Fuente, Jesus, Univ Autonoma Chile, Santiago, Chile.Fernandez-Cabezas, Maria, Univ Granada, Dept Dev \& Educ Psychol, Granada, Spain.Cambil, Matilde, Ilustre Colegio Oficial Psicol Andalucia Oriental, Granada, Spain.Vera, Manuel M., Univ Granada, Maria Inmaculada ;;"resilience; learning approaches; coping strategies; academicperformance; university stress";FRONTIERS MEDIA SA;1664-1078;English;;Variable objetivo no es Deserción
+A quantitative assessment model for students' sustainability: evidencefrom a Peruvian university;Giannetti, B. F. and Agostinho, Feni and Almeida, C. M. V. B. and PintoJr, Marcos Jose Alves and Marroquin, Maritza Chirinos and Paredes,Medardo Delgado;INTERNATIONAL JOURNAL OF SUSTAINABILITY IN HIGHER EDUCATION;2023;Web of Science (WoS);1745-1768;24.0;"PurposeThe study of sustainability within universities is recognized as
+essential for debates and research; in the long term, the ``sustainable
+university{''} concepts can contribute to sustainability from a larger
+perspective. This study aims to propose a conceptual model for
+evaluating the students' sustainability considering their interactions
+with the university and the environment. The proposed model is titled
+Sunshine model. It is applied to students of the La Salle University,
+Peru. Design/methodology/approachThe model combines academic
+performance, happiness and the ecological footprint to quantify
+university students' sustainability. A structured questionnaire survey
+was elaborated and applied to get the raw data that feeds the three
+methods. The students' average grades evaluate academic performance.
+Happiness is quantified by the happiness index method, and the
+ecological footprint is measured by the demand for food, paper,
+electricity, transport and built-up areas. Results are evaluated under
+both approaches, overall group performance and clusters. FindingsThe
+proposed model avoids misleading interpretations of a single indicator
+or discussions on sustainability that lack a conceptual model, bringing
+robustness in assessing students' sustainability in universities. To
+have a low ecological footprint, the student needs to need up to 1
+planet for their lifestyle, be considered happy with at least 0.8 (of 1)
+for happiness index, and have good academic performance with at least a
+grade of 7 (of 10) in their course. Regarding the case study, La Salle
+students show a high academic grade degree of 7, a high level for
+happiness index of 0.8 and low performance for ecological footprint by
+demanding 1.8 Earth planets, resulting in an ``environmentally
+distracted{''} overall classification for students with 2019 data. From
+a cluster approach, 81\% of evaluated students (n = 603) have low
+performance for ecological footprint, whereas 31\% have low performance
+for indicators of recreational activities of happiness. Changing
+lifestyles and making more recreational activities available play
+crucial roles in achieving higher sustainability for the La Salle
+students. Research limitations/implicationsThe happiness assessment
+questionnaire can be subject to criticism, as it was created as a
+specific method for this type of audience based on existing
+questionnaires in the literature. Although it can be seen as an
+important approach for diagnoses, the proposed model does not consider
+the cause-effect aspect. The decision-maker must consider the
+sociocultural aspects before implementing plan actions. Practical
+implicationsUniversity managers can better understand why university
+students have high or low sustainability performance and provide more
+effective actions toward higher levels of students' sustainability.
+Originality/valueThe proposed model, Sunshine model, overcomes the
+single-criteria existing tools that access the sustainability of
+universities. Rather than focusing on university infrastructure, the
+proposed model focuses on the students and their relationship with the
+university.";Article;10.1108/IJSHE-07-2022-0234;;"Giannetti, BF (Corresponding Author), Univ Paulista, Lab Prod \& Meio Ambiente, Programa Posgrad Engn Prod, Sao Paulo, Brazil.Giannetti, BF (Corresponding Author), Beijing Normal Univ, Sch Environm, State KeyJoint Lab Environm Simulat \& Pollut Contr, Beijing, Peoples R China.Giannetti, B. F.; Agostinho, Feni; Almeida, C. M. V. B., Univ Paulista, Lab Prod \& Meio Ambiente, Programa Posgrad Engn Prod, Sao Paulo, Brazil.Giannetti, B. F.; Agostinho, Feni; Almeida, C. M. V. B., Beijing Normal Uni";;"Academic performance; Ecological footprint; Happiness; Sunshine model;Sustainable university";EMERALD GROUP PUBLISHING LTD;1467-6370;English;;Revisiones / Meta-análisis
+Determination of Dropout Student Profile Based on CorrespondenceAnalysis Technique;Barros, T. and Silva, I. and Affonso, L.;IEEE LATIN AMERICA TRANSACTIONS;2019;Web of Science (WoS);1517-1523;17.0;"The purpose of this paper is to analize how the Correspondence Analysis
+Techinique can be used to enhance the Exploratory Data Analysis on the
+drop-out for a set of educational data with a majority of the
+categorical type. In order to do these analisys, the independence
+calculation was implemented from the chi-square test, and the heatmap
+and perceptual map were generated with the indexes on the socioeconomic
+data of students and academic performance in Portuguese and Mathematics
+subjects. As a result of this paper is presented the relations of
+attraction and repulsion between socioeconomic attributes and drop-out,
+and the profile of the student most vulnerable to evasion is drawn. Some
+characteristics are: students who have already failed at least once, who
+do not live with their parents, elementary school in public school, low
+level of education of the financial responsible. The studies were carry
+out using a real academic database of students of the secondary
+education with training in professional education through technical
+courses with duration of four years, in the face-to-face modality of the
+Federal Institute of Rio Grande do Norte (IFRN) in Brazil.";Article;10.1109/tla.2019.8931146;;Barros, T (Corresponding Author), Inst Fed Rio Grande Norte IFRN, Campus EaD, Natal, RN, Brazil.Barros, T., Inst Fed Rio Grande Norte IFRN, Campus EaD, Natal, RN, Brazil.Silva, I., Univ Fed Rio Grande Norte UFRN, Inst Metropole Digital, Natal, RN, Brazil.Affonso, L., Univ Fed Rio Grande Norte UFRN, Dept Engn Comp \& Automacao, Natal, RN, Brazil.;;"Correspondence analysis; Education data mining; Data visualization";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;1548-0992;Portuguese;;No pertenece a Educación Superior
+Causes of student abandonment, where, how and how many: the case of theUniversity of Atacama;Videla, Carmen Burgos and Prieto, Veronica Aliaga and Orellana, VivianaTesmer and Bravo, Katherine Pavez;INTERNATIONAL JOURNAL OF EDUCATIONAL RESEARCH AND INNOVATION;2022;Web of Science (WoS);ene-17;;"The following research has the objective of establish reasons of
+academic desertion, which expose differences statistically meaningful
+for their presentation levels in order to achieve the characterization
+of the reasons that put in danger the continuity of enrolled students
+from 2013 in observation until the year 2016 in Atacama University. From
+819 students who did not renew their enrolment, the study considered a
+sample of 326 students, from whom specific information is considered. It
+was done a statistic to analysis using a mixed method approach, which
+gave the result of the following reasons for the academic desertion
+academic efficiency, statistically meaningful and outstanding among the
+other considered variables; economic, personal and health problems
+appear as well. It is highlighted the denial of renewal of enrolment as
+an important reason about the stated problem. The analysis of this first
+researcher determined the factors that are part of the problem of the
+academic's desertion and, with that in mind; it is possible to establish
+reasons as well as its classification in order to determine that there
+exists a problem or reason for students to abandon their university with
+that careers, and it is possible to present the design of a proposal
+that helps in the progressive improvement of the topics that cause the
+academic desertion of university students.";Article;10.46661/ijeri.4484;;"Videla, CB (Corresponding Author), Univ Atacama, Copiapo, Chile.Videla, Carmen Burgos; Prieto, Veronica Aliaga; Orellana, Viviana Tesmer; Bravo, Katherine Pavez, Univ Atacama, Copiapo, Chile.";;"Desertion; abandonment; academic performance; university student;economic problems";UNIV PABLO OLAVIDE, FAC CIENCIAS SOCIALES;2386-4303;Spanish;;Variable objetivo no es Deserción
+Typology of Teaching Profiles: A Model for Improving the Quality ofUniversity Education in the Context of Sustainable Development Goal 4;Lopez-Hernandez, Carlos and Martinez-Orozco, Elizabeth and Soto-Perez,Manuel;SUSTAINABILITY;2025;Web of Science (WoS);;17.0;"Developing tools to assess university lecturers on the quality of their
+teaching practice is a priority for achieving Sustainable Development
+Goal (SDG) 4. The aim of this research is therefore to propose a
+typology of teaching profiles and analyse the factors that influence
+each of them, with a view to proposing a model for identifying lecturers
+who need support. Based on 10,938 observations made between August 2021
+and June 2025, a heuristic method was used to classify all observations
+into six quadrants according to student academic performance and student
+evaluations of their teachers. Based on the classification of all
+observations into six quadrants, called teacher profiles, logistic
+regressions were performed in Gretl software version 2024c to identify
+which characteristics inherent to the teacher, the educational context,
+and the curricular stage explain the classification of the teacher into
+a particular profile. The results indicate that full-time teachers and
+those with higher academic qualifications tend to obtain higher scores
+on the SET, while online or hybrid modalities are associated with lower
+scores on the SET. In addition, the six teaching profiles obtained an
+accuracy of over 80\% in the logit models, highlighting significant
+effects of age, modality, and curricular level (p < 0.05) on the
+probability of belonging to each quadrant. It is concluded that factors
+related to curricular advancement, the educational context, and those
+inherent to the teacher can explain the proposed typology. This typology
+could serve as a management tool to identify teachers who need specific
+support to move towards profiles that are ideal for the university
+institution. Among the main limitations of this study are the heuristic
+methodology and the fact that the data were obtained from a single
+educational institution.";Article;10.3390/su172411066;;"Martínez-Orozco, E (Corresponding Author), Univ Panamericana, Fac Ciencias Econ \& Empresariales, Alvaro Portillo 49, Zapopan 45010, Jalisco, Mexico.Lopez-Hernandez, Carlos; Martinez-Orozco, Elizabeth; Soto-Perez, Manuel, Univ Panamericana, Fac Ciencias Econ \& Empresariales, Alvaro Portillo 49, Zapopan 45010, Jalisco, Mexico.";;"student performance; teaching profiles; SET; private university; qualityeducation";MDPI;;English;;Variable objetivo no es Deserción
+Profiles of University Students Who Graduate on Time: A Cohort Studyfrom the Chilean Context;Moraga-Pumarino, Ana and Salvo-Garrido, Sonia and Polanco-Levican,Karina;BEHAVIORAL SCIENCES;2023;Web of Science (WoS);;13.0;"Graduating from higher education on time is an important topic, given
+its relation to students' academic success and the efficiency of the
+institutions. However, a low percentage of university students finish
+their studies on time, which poses a challenge that requires the
+identification of the factors that account for this phenomenon. This
+study aimed to identify and characterize profiles of students who
+graduate on time. The population is 514 university students (45\% men,
+55\% women), with an average age of 19.5 years (SD= 1.9) studying
+business at a university in Chile who belong to four cohorts entering
+between 2011 and 2014. The results obtained from the Classification and
+Regression Tree (CART) technique demonstrate eight student profiles
+constructed considering different variables at the pre-university,
+transition-motivation, and university levels. As the primary outcome,
+the profile of the student who graduates on time is characterized by a
+good performance in the first year of university, enters university
+right after high school, and takes advantage of institutional support by
+participating in academic tutoring. These findings suggest that
+institutions can implement specific strategies from the beginning of the
+university journey to promote on-time graduation.";Article;10.3390/bs13070582;;Moraga-Pumarino, A (Corresponding Author), Univ La Frontera, Dept Adm \& Econ, Temuco 4780000, Chile.Moraga-Pumarino, Ana, Univ La Frontera, Dept Adm \& Econ, Temuco 4780000, Chile.Salvo-Garrido, Sonia, Univ La Frontera, Dept Matemat \& Estadist, Temuco 4780000, Chile.Polanco-Levican, Karina, Univ La Frontera, Programa Doctorado Ciencias Sociales, Temuco 4780000, Chile.Polanco-Levican, Karina, Univ Catolica Temuco, Dept Psicol, Temuco 4780000, Chile.;;"academic achievement; CART profiles; higher education; terminalefficiency; timely graduation";MDPI;;English;;No pertenece a Educación Superior
+The mediating role of work stress and the performance expectations in the effect of academic overload on the use of AI models among preservice teachers: a cross-sectional study;Acosta-Enriquez, Benicio Gonzalo and Huamaní-Jordan, Olger and Morales-Angaspilco, Jahaira Eulalia and Heredia-Pérez, Oscar and Ruiz-Carrillo, Jonathan Ruiz and Blanco-García, Luz Elvira and Veliz Palacios de Villalobos, Sonia Mercedes;BMC Psychology;2025;Scopus;;;;;10.1186/s40359-025-03367-8;;;;;;;;;Fuera de América Latina
+Learning Approaches of First-Year University Students: A mixed-method study in Chile;Parra-Díaz, Joel Alfonso and Muñoz-Vidal, Fabián Andrés and Alves, Regina F. and Rodriguez-Garcia, Nelia Margarita;International Journal of Learning, Teaching and Educational Research;2024;Scopus;;;;;10.26803/ijlter.23.10.24;;;;;;;;;Variable objetivo no es Deserción
+"Learning approaches in students of the areas of Health Sciences belonging to a regional university in Chile; [Enfoques de aprendizaje en estudiantes de las áreas de Ciencias de la Salud pertenecientes a una universidad regional en Chile]";Cardona-V, Mónica and Henríquez-Melgarejo, Aurora and Cifuentes Muñoz, Trinidad and Luengo, Carolina and Roco-Videla, Ángel;Salud, Ciencia y Tecnologia;2024;Scopus;;;;;10.56294/saludcyt2024.1317;;;;;;;;;Variable objetivo no es Deserción
+Variables that influence the performance of graduate students: Aperspective from the learning analytics;Urbina-Najera, Argelia B.;TELOS-REVISTA DE ESTUDIOS INTERDISCIPLINARIOS EN CIENCIAS SOCIALES;2021;Web of Science (WoS);36-50;23.0;"In the last decade, the use of learning analytics and the management of
+large volumes of data have contributed substantially to the way higher
+education institutions track, analyze information and predict student
+performance (Clow, 2013). The objective of this work was to identify the
+variables that influence the academic performance of graduate students,
+through the application of learning analytics techniques (Chatti, et
+al., 2012). The algorithms selection of attributes and decision trees
+(Witten, Frank, Hall, Pal, 2016) were applied to a sample of data
+collected from 136 graduate students in a simple random way. It was
+identified that in general they prefer to study in the afternoon and
+that they invest 43.83\% of their time in the review of the course
+content while they are active in the platform; 10.92\% of the time they
+participate in forums and 31.10\% of the time they carry out activities.
+Through the algorithm of attribute selection, the four most important
+variables that influence performance are defined, namely: total time
+invested in the course of course consultation, elaboration of tasks,
+participation in forums and teamwork. Also, applying decision trees, 6
+patterns are established that determine some final note, whose most
+important variable is the total time spent on the platform. Finally, it
+is determined that the variables: time invested in the platform in the
+consultation of content, teamwork, tasks and forum activity, positively
+influence the satisfactory performance of the graduate student and those
+variables related to the consultations, time and day of study do not
+intervene in such performance, these findings give the guideline to
+focus efforts on building meaningful content and tasks focused on
+achieving the desired learning supported by team activities.";Article;10.36390/telos231.04;;Urbina-Nájera, AB (Corresponding Author), UPAEP, Fac Tecnol Informat, Puebla, Mexico.Urbina-Najera, Argelia B., UPAEP, Fac Tecnol Informat, Puebla, Mexico.;;"learning analytics; academic performance; usage patterns; postgraduatestudents";UNIV DR RAFAEL BELLOSO CHACIN;2343-5763;Spanish;;Revisiones / Meta-análisis
+Data-mining techniques in detecting factors linked to academicachievement;Martinez Abad, Fernando and Caso Lopez, Alicia A. Chaparro;SCHOOL EFFECTIVENESS AND SCHOOL IMPROVEMENT;2017;Web of Science (WoS);39-55;28.0;"In light of the emergence of statistical analysis techniques based on
+data mining in education sciences, and the potential they offer to
+detect non-trivial information in large databases, this paper presents a
+procedure used to detect factors linked to academic achievement in
+large-scale assessments. The study is based on a non-experimental,
+cross-sectional design and a sample of 18,935 high school students from
+99 educational institutions in Baja California state (Mexico). The
+information was collected from ENLACE tests and context surveys given to
+students in Baja Caclifornia. Decision trees were used to apply
+classification techniques, and the results indicate that personal
+factors are most indicative of academic performance, followed by
+school-related and social factors. In conclusion, the paper discusses
+the similarities between the results obtained and those shown in
+literature, highlighting how simple decision trees allow a greater
+explanation and interpretation than other models and techniques.";Article;10.1080/09243453.2016.1235591;;Abad, FM (Corresponding Author), Univ Salamanca, Univ Inst Educ Sci, Salamanca, Spain.Martinez Abad, Fernando, Univ Salamanca, Univ Inst Educ Sci, Salamanca, Spain.Caso Lopez, Alicia A. Chaparro, Univ Autonoma Baja California, Inst Educ Res \& Dev, Ensenada, Baja California, Mexico.;;"Data mining; academic achievement; large-scale assessment; contextualfactors; context surveys";ROUTLEDGE JOURNALS, TAYLOR \& FRANCIS LTD;0924-3453;English;;Revisiones / Meta-análisis
+Data analytics and Artificial Neural Network framework to profileacademic success: case study;Quintero-Gamez, Lorena and Tariq, Rasikh and Sanchez-Escobedo, Pedro andSanabria-Z, Jorge;COGENT EDUCATION;2024;Web of Science (WoS);;11.0;"Academic success in higher education has attracted interest from the
+scientific community because of its implications for personal
+development and societal progress. Programmes such as Tecnologico de
+Monterrey's Leaders of Tomorrow aim to nurture students' potential and
+promote academic success. This study examines the attributes from
+participating students associated with academic success. The focus is on
+personality and socio-demographic factors that influence academic
+excellence. The research contribution of this work is data analysis
+supported by artificial neural networks to establish the relationship
+between personality tests and background information with academic
+performance. The findings were: (a) high school GPA predicts university
+success; (b) first-generation degree status is associated with higher
+GPA; (c) gender differences in academic performance vary by context; and
+(d) personality profiles are not associated with academic performance.
+The role of socio-demographic and personality factors in predicting the
+academic success of prospective students is discussed.";Article;10.1080/2331186X.2024.2433807;;"Sanabria-Z, J (Corresponding Author), Tecnol Monterrey, Inst Future Educ, Ave Eugenio Garza Sada 250, Monterrey, Mexico.Sanabria-Z, J (Corresponding Author), Tecnol Monterrey, Sch Architecture Art \& Design, Guadalajara, Mexico.Quintero-Gamez, Lorena, Tecnol Monterrey, Sch Humanities \& Educ, Monterrey, Mexico.Tariq, Rasikh; Sanabria-Z, Jorge, Tecnol Monterrey, Inst Future Educ, Ave Eugenio Garza Sada 250, Monterrey, Mexico.Sanchez-Escobedo, Pedro, Univ Autonoma Yucatan, Sch Educ, Yucatan, M";;"High performing students; higher education; educational innovation;Leaders of Tomorrow; artificial intelligence; data analytics; artificialneural network";TAYLOR \& FRANCIS LTD;2331-186X;English;;No pertenece a Educación Superior
+The prediction of academic performance using engineering student'sprofiles;Gonzalez-Nucamendi, Andres and Noguez, Julieta and Neri, Luis andRobledo-Rella, Victor and Guadalupe Garcia-Castelan, Rosa Maria andEscobar-Castillejos, David;COMPUTERS \& ELECTRICAL ENGINEERING;2021;Web of Science (WoS);;93.0;"This article describes the determination of student profiles based on
+the constructs of multiple intelligences and on learning and affective
+strategies, in order to identify the most important characteristics for
+ensuring the academic success of engineering students. The two
+constructs were organized in terms of eight dimensions each: the basis
+for developing two questionnaires that were completed by 618
+undergraduate engineering students, in an attempt to define their
+student profile. Three alternative measures were designed to determine
+numerical values for each dimension, according to their capacity to
+predict academic performance in terms of final grades, using regression
+analysis. According to the study's findings, the logical/mathematical
+dimension plays an important role in student performance, while anxiety
+has a negative effect on final grades. The definition of appropriate
+measures to determine students' cognitive, affective, and
+self-regulatory profiles can provide instructors with timely information
+to implement appropriate teaching strategies in their groups.";Article;10.1016/j.compeleceng.2021.107288;;"Noguez, J (Corresponding Author), Tecnol Monterrey, Sch Engn \& Sci, Calle Puente 222, Mexico City 14380, DF, Mexico.Gonzalez-Nucamendi, Andres; Noguez, Julieta; Neri, Luis; Robledo-Rella, Victor; Guadalupe Garcia-Castelan, Rosa Maria, Tecnol Monterrey, Sch Engn \& Sci, Ave Eugenio Garza Sada 2501, Monterrey 64849, Nuevo Leon, Mexico.Escobar-Castillejos, David, Univ Panamer, Fac Ingn, Augusto Rodin 498, Ciudad De Mexico 03920, Mexico.";;"Educational innovation; Higher education; Engineering students; Academicperformance; Multiple intelligence; Self-regulation skills; Learningstrategies; Affective strategies; Student profiles; Learning analytics";PERGAMON-ELSEVIER SCIENCE LTD;0045-7906;English;;Variable objetivo no es Deserción
+Application of Knowledge Discovery in Data Bases Analysis to Predict the Academic Performance of University Students Based on Their Admissions Test;Uvidia Fassler, María Isabel and Cisneros Barahona, Andrés Santiago and Dumancela Nina, Gabriela Jimena and Samaniego Erazo, Gonzalo Nicolay and Villacrés Cevallos, Edison Patricio;Advances in Intelligent Systems and Computing;2020;Scopus;;;;;10.1007/978-3-030-32022-5_45;;;;;;;;;Fuera de América Latina
+PREDICTING STUDENT DROPOUT RISK IN HIGHER EDUCATION: A MACHINE LEARNINGAPPROACH;Peralta-Fragozo, Andres and Hoyos-Sanchez, Juan-Pablo;REVISTA FACULTAD DE INGENIERIA, UNIVERSIDAD PEDAGOGICA Y TECNOLOGICA DECOLOMBIA;2025;Web of Science (WoS);;34.0;"Recently, student dropout has been a major challenge for higher
+education institutions, since high dropout rates generate negative
+consequences, both academic and social, as well as economic losses for
+all involved. For these reasons, this study proposes a machine
+learning-based approach for the early prediction of dropout risk, based
+on academic, socioeconomic, and demographic variables. The methodology
+started with an exploratory data analysis, followed by a class balancing
+of the dataset using the SMOTE technique. Subsequently, supervised
+classification algorithms such as Support Vector Machines (SVM),
+XGBoost, Random Forest, and Balanced Random Forest Classifier were
+trained to build the prediction models. GridSearchCV was used to search
+for the best hyperparameters. The models were evaluated using metrics
+robust to class imbalance, such as recall, ROC-AUC curve, geometric mean
+(G-Mean), precision, and F1-Score. The best-performing models were
+Random Forest and its Balanced Random Forest Classifier variant, without
+hyperparameter optimization, with AUC values of 0.94 and recall values
+greater than 0.8 in the positive class (at-risk students). In addition,
+model explanation with SHAP values was used to identify and analyze the
+most influential risk factors (academic and socioeconomic
+characteristics).";Article;10.19053/01211129.v34.n73.2025.20107;;"Peralta-Fragozo, A (Corresponding Author), Univ Nacl Colombia, Valledupar, Colombia.Peralta-Fragozo, Andres; Hoyos-Sanchez, Juan-Pablo, Univ Nacl Colombia, Valledupar, Colombia.";;"Balanced Random Forest Classifier; classification; higher education;machine learning; Random Forest; SMOTE; student dropout; SVM; XGBoost";UNIV PEDAGOGICA \& TECNOLOGICA COLOMBIA;0121-1129;English;;Variable objetivo no es Deserción
+Artificial Intelligence in Higher Education: A Predictive Model forAcademic Performance;Pacheco-Mendoza, Silvia and Guevara, Cesar and Mayorga-Alban, Amalin andFernandez-Escobar, Juan;EDUCATION SCIENCES;2023;Web of Science (WoS);;13.0;"This research work evaluates the use of artificial intelligence and its
+impact on student's academic performance at the University of Guayaquil
+(UG). The objective was to design and implement a predictive model to
+predict academic performance to anticipate student performance. This
+research presents a quantitative, non-experimental, projective, and
+predictive approach. A questionnaire was developed with the factors
+involved in academic performance, and the criterion of expert judgment
+was used to validate the questionnaire. The questionnaire and the Google
+Forms platform were used for data collection. In total, 1100 copies of
+the questionnaire were distributed, and 1012 responses were received,
+representing a response rate of 92\%. The prediction model was designed
+in Gretl software, and the model fit was performed considering the mean
+square error (0.26), the mean absolute error (0.16), and a coefficient
+of determination of 0.9075. The results show the statistical
+significance of age, hours, days, and AI-based tools or applications,
+presenting p-values < 0.001 and positive coefficients close to zero,
+demonstrating a significant and direct effect on students' academic
+performance. It was concluded that it is possible to implement a
+predictive model with theoretical support to adapt the variables based
+on artificial intelligence, thus generating an artificial
+intelligence-based mode.";Article;10.3390/educsci13100990;;"Pacheco-Mendoza, S (Corresponding Author), Univ Estatal Bolivar, Fac Ciencias Educ Sociales Filosof \& Humanist, Guaranda 020103, Ecuador.Pacheco-Mendoza, Silvia, Univ Estatal Bolivar, Fac Ciencias Educ Sociales Filosof \& Humanist, Guaranda 020103, Ecuador.Guevara, Cesar, Univ Tecnol Indoamer, Ctr Mecatron \& Sist Interact MIST, Quito 180150, Ecuador.Mayorga-Alban, Amalin; Fernandez-Escobar, Juan, Univ Guayaquil, Fac Filosofia Letras \& Ciencias Educ, Guayaquil 090150, Ecuador.";;"higher education; artificial intelligence; predictive model; academicperformance";MDPI;;English;;Variable objetivo no es Deserción
+A Predictive Model for the Early Identification of Student Dropout UsingData Classification, Clustering, and Association Methods;Chicon, Patricia Mariotto Mozzaquatro and Paschoal, Leo Natan andSawicki, Sandro and Roos-Frantz, Fabricia and Frantz, Rafael Z.;IEEE REVISTA IBEROAMERICANA DE TECNOLOGIAS DEL APRENDIZAJE-IEEE RITA;2025;Web of Science (WoS);dic-21;20.0;"Technology development has led to increased data generated in education,
+sparking interest in information extraction to support educational
+management through automated data analysis. Using such data to create
+models identifying students likely to drop out has drawn research
+interest. A crucial factor in reducing dropout rates is the systematic
+and early identification of the level of student engagement, especially
+by detecting the students' behavior profile in the virtual environment,
+such as grades in assessments. There are predictive models based on data
+mining processes that identify students prone to dropping out.
+Unfortunately, the predictive models do not characterize the profiles of
+these students or the specific trends associated with these profiles.
+This article aims to fill a gap by presenting a study that identifies
+and tracks the profiles of undergraduate students likely to drop out,
+starting with an analysis of academic performance. We propose a
+predictive model beyond classification by combining data mining
+techniques such as decision trees, clustering, and frequent pattern
+analysis. Decision trees, a data mining technique that uses a tree-like
+graph to represent decisions and their possible consequences, identify
+students at risk of failure from the entire dataset. Clustering
+analysis, a data mining technique that groups similar data points
+together, groups students based on similar characteristics (e.g.,
+students who scored between 0 and 30 points on a specific activity).
+Frequent pattern analysis, a data mining technique that identifies
+patterns that occur frequently in a dataset, uncovers the underlying
+factors contributing to low performance (e.g., identify which activities
+had the most significant influence on a specific group's low
+performance). This integrated approach predicts dropout risk with 93.9\%
+precision and provides a deeper understanding of student profiles and
+the trends associated with academic failure. The model's practical
+application is demonstrated through a study.";Article;10.1109/RITA.2025.3528369;;"Chicon, PMM (Corresponding Author), Univ Cruz Alta UNICRUZ, Distance Educ Ctr, Cruz Alta, Rio Grande Do S, Brazil.Chicon, Patricia Mariotto Mozzaquatro, Univ Cruz Alta UNICRUZ, Distance Educ Ctr, Cruz Alta, Rio Grande Do S, Brazil.Paschoal, Leo Natan, Paulista Univ UNIP, Inst Exact Sci \& Technol, Araraquara, SP, Brazil.Sawicki, Sandro; Roos-Frantz, Fabricia; Frantz, Rafael Z., Reg Univ Northwestern Rio do Grande UNIJUI, Dept Exact Sci \& Engn, Ijui, Rio Grande do S, Brazil.";;"Predictive models; Data models; Data mining; Random forests; Predictionalgorithms; Decision trees; Analytical models; Market research;Clustering algorithms; Classification algorithms; Data analysis; datamining; performance prediction";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;;English;;Variable objetivo no es Deserción
+Key Determinants of University Student Dropout: Insights from a PrivateInstitution in Ecuador;Aviles-Gonzalez, Jonnatan and Cordova-Leon, Fernando and Duque-Espinoza,Gabriela and Mosquera-Gutierres, Julio;JOURNAL OF LATINOS AND EDUCATION;2025;Web of Science (WoS);;;"The objective of this study is to analyze the variables that influence
+dropout rates and the characteristics of students who drop out of a
+private university in Ecuador. It proposes a classification system based
+on academic, socioeconomic, and demographic factors. Using logistic
+regression models, the research analyzed a dataset from 7,306 students
+enrolled in a private Ecuadorian university. The study found that
+receiving a student scholarship does not significantly affect the
+likelihood of dropping out. The findings offer valuable insights for
+designing targeted strategies aimed at improving student retention by
+addressing both academic and socioeconomic challenges in higher
+education.";"Article; Early Access";10.1080/15348431.2025.2566917;;"Mosquera-Gutierres, J (Corresponding Author), Univ del Azuay, Stat Ctr, Cuenca 010204, Ecuador.Aviles-Gonzalez, Jonnatan; Cordova-Leon, Fernando; Duque-Espinoza, Gabriela; Mosquera-Gutierres, Julio, Univ del Azuay, Stat Ctr, Cuenca 010204, Ecuador.";;"Higher education dropout; Latin America; logit regression; privateuniversity; socioeconomics";ROUTLEDGE JOURNALS, TAYLOR \& FRANCIS LTD;1534-8431;English;;Variable objetivo no es Deserción
+"Academic performance assessment through data mining techniques; [Estimación de rendimiento académico a través de técnicas para minería de datos]";Alayon, Ricardo A. and Moncada, Diego A. and Medina, Victor H. and Rodríguez, Jorge E.;CICIC 2020 - Decima Conferencia Iberoamericana de Complejidad, Informatica y Cibernetica, Memorias;2020;Scopus;;;;;;;;;;;;;;Fuera de América Latina
+Model for Predicting Academic Performance in Virtual Courses Through Supervised Learning;Silva, Jesús and Cervantes, Evereldys Garcia and Cabrera, Danelys and García, Silvia and Binda, María Alejandra and Lezama, Omar Bonerge Pineda and Lamby, Juan and Mercado, Carlos Vargas;Advances in Intelligent Systems and Computing;2021;Scopus;;;;;10.1007/978-981-15-7234-0_92;;;;;;;;;Fuera de América Latina
+Factors associated to academic performance in university students;Gutiérrez-Monsalve, Jaime A. and Garzón2, Juan and Segura-Cardona, Angela M.;Formacion Universitaria;2021;Scopus;;;;;10.4067/S0718-50062021000100013;;;;;;;;;Fuera de América Latina
+"Decision Trees as a Methodology to Determine Academic Performance in Higher Education; [Árvores de Decisão como Metodologia para Determinar o Desempenho Acadêmico no Ensino Superior]; [Árboles de Decisión como Metodología para Determinar el Rendimiento Académico en Educación Superior]";Martínez, Marco Antonio Díaz and de los Angeles Ahumada Cervantes, María and Morín, Julia Patricia Melo;Revista Lasallista de Investigacion;2021;Scopus;;;;;10.22507/rli.v18n2a8;;;;;;;;;Fuera de América Latina
+Proposal for the Design and Evaluation of a Dashboard for the Analysis of Learner Behavior and Dropout Prediction in Moodle;Sigua, Edisson and Aguilar, Bryan and Pesantez-Cabrera, Paola and Maldonado-Mahauad, Jorge;Proceedings of the 15th Latin American Conference on Learning Technologies, LACLO 2020;2020;Scopus;;;;;10.1109/LACLO50806.2020.9381148;;;;;;;;;Fuera de América Latina
+"Vulnerability and academic performance of pedagogy students: Perspectives from trainers in Chilean universities; [Vulnerabilidad y rendimiento académico de estudiantes de pedagogía: Perspectivas desde formadores en universidades chilenas*]";Emilio, Rodríguez-Ponce and Cristhian, Cerna and Liliana, Pedraja-Rejas;Revista de Ciencias Sociales;2022;Scopus;;;;;10.31876/rcs.v28i.38818;;;;;;;;;Variable objetivo no es Deserción
+Decision trees for predicting dropout in Engineering Course students in Brazil;Mariano, Ari Melo and De Magalhães Lelis Ferreira, Arthur Bandeira and Santos, Maíra Rocha and Castilho, Mara Lucia and Bastos, Anna Carla Freire Luna Campêlo;Procedia Computer Science;2022;Scopus;;;;;10.1016/j.procs.2022.11.285;;;;;;;;;Variable objetivo no es Deserción
+Classification models for determining types of academic risk and predicting dropout in university students;Bedregal-Alpaca, Norka and Cornejo-Aparicio, Victor and Zarate-Valderrama, Joshua and Yanque-Churo, Pedro;International Journal of Advanced Computer Science and Applications;2020;Scopus;;;;;10.14569/ijacsa.2020.0110133;;;;;;;;;Variable objetivo no es Deserción
+"Factors associated to student success in online learning: a data mining analysis; [Factores asociados al éxito de los estudiantes en modalidad de aprendizaje en línea: un análisis en minería de datos]";Mancilla-Vela, Gabriela and Leal-Gatica, Paola and Sánchez-Ortiz, Aurora and Vidal-Silva, Cristian;Formacion Universitaria;2020;Scopus;;;;;10.4067/S0718-50062020000600023;;;;;;;;;Variable objetivo no es Deserción
+"Prediction of academic performance using artificial intelligence techniques; [Predicción del rendimiento académico por medio de técnicas de inteligencia artificial]";Castrillón, Omar D. and Sarache, William and Ruiz-Herrera, Santiago;Formacion Universitaria;2020;Scopus;;;;;10.4067/S0718-50062020000100093;;;;;;;;;Variable objetivo no es Deserción
+"Prediction of main variables that lead to student dropout by using data mining techniques; [Predicción de las principales variables que conllevan al abandono estudiantil por medio de técnicas de minería de datos]";Castrillón-Gómez, Omar D. and Sarache, William and Ruiz-Herrera, Santiago;Formacion Universitaria;2020;Scopus;;;;;10.4067/S0718-50062020000600217;;;;;;;;;Variable objetivo no es Deserción
+Automation of an Educational Data Mining Model Applying Interpretable Machine Learning and Auto Machine Learning;Novillo Rangone, Gabriel and Pizarro, Carlos and Montejano, German;Smart Innovation, Systems and Technologies;2022;Scopus;;;;;10.1007/978-981-16-5792-4_3;;;;;;;;;Variable objetivo no es Deserción
+Student Dropout Model Based on Logistic Regression;Cuji Chacha, Blanca Rocio and Gavilanes López, Wilma Lorena and Vicente Guerrero, Víctor Xavier and Villacis Villacis, Wilma Guadalupe;Communications in Computer and Information Science;2020;Scopus;;;;;10.1007/978-3-030-42520-3_26;;;;;;;;;Variable objetivo no es Deserción
+An Overview on the Use of Educational Data Mining for Constructing Recommendation Systems to Mitigate Retention in Higher Education;De Oliveira, Thiago Nazareth and Bernardini, Flavia and Viterbo, Jose;Proceedings - Frontiers in Education Conference, FIE;2021;Scopus;;;;;10.1109/FIE49875.2021.9637207;;;;;;;;;Revisiones / Meta-análisis
+"MIC MAC method applied to the identification of key variables for reducing student dropout, case of the Business Administration program – UNAD, Colombia; [Método MIC MAC aplicado a la identificación de variables clave para reducir el abandono estudiantil, caso programa Administración de empresas – UNAD, Colombia]";Narváez-Ferrín, María Erika and Cervantes Muñoz, Maria Angélica;Revista Academia and Negocios;2021;Scopus;;;;;10.29393/RAN6-6MMMN20006;;;;;;;;;Variable objetivo no es Deserción
+A Moodle Component for Data Visualization with Applied Learning Analytics for Students;Barbachano-Chiu, M. and Menéndez-Domínguez, V. and Curi-Quintal, L.;International Conference on Computer Supported Education, CSEDU - Proceedings;2022;Scopus;;;;;10.5220/0011125500003182;;;;;;;;;Variable objetivo no es Deserción
+Virtual Education: Impact of Socio-emotional and Pedagogical Factors on Academic Performance based on Neural Networks and Stepwise Regression;Rocha, José Luis Morales and Zela, Mario Aurelio Coyla and Torres, Nakaday Irazema Vargas and Rojas, Jarol Teófilo Ramos and Valderrama, Santos Octavio Morillos and Medina, Genciana Serruto;Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology;2021;Scopus;;;;;10.18687/LACCEI2021.1.1.459;;;;;;;;;Fuera de América Latina
+"Construction of a model based on neural networks to determine the duration of Engineering studies in a public university in Peru; [Construcción de un modelo basado en redes neuronales para determinar la duración de los estudios de Ingeniería en una universidad pública en el Perú]";Tocto, Paul and Huamaní, Gloria Teresita and Zuloaga, Luis;Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology;2021;Scopus;;;;;10.18687/LACCEI2021.1.1.397;;;;;;;;;Variable objetivo no es Deserción
+Role of absence in academic success: an analysis using visualization tools;Etemadpour, Ronak and Zhu, Yongcheng and Zhao, Qizhi and Hu, Yilun and Chen, Bohan and Sharier, Mohammed Asif and Zheng, Shirong and S. Paiva, Jose Gustavo;Smart Learning Environments;2020;Scopus;;;;;10.1186/s40561-019-0112-3;;;;;;;;;Fuera de América Latina
+"Students’ Perceptions About Professors Feedback and Academic Achievement; [Percepções de estudantes do ensino superior sobre o feedback docente e desempenho acadêmico]; [Percepciones de Los Estudiantes de Educación Superior Sobre el Feedback Y el Desempeño Académico]";Silva de Carvalho Ramos, Juana and Carvalho, Carolina Fernandes;Revista Brasileira de Educacao;2021;Scopus;;;;;10.1590/S1413-24782021260081;;;;;;;;;Variable objetivo no es Deserción
+"A proposal of Machine Learning model to improve learning process and reduce dropout rate at technical training institutes; [Propuesta de un modelo Machine Learning para mejorar el proceso de aprendizaje y disminuir la deserción de estudiantes en el nivel superior tecnológico]";Apaza, Libia Aurora Ventura and Huamani, Jimmy Aurelio Rosales and Bernedo, Juan Oswaldo Alfaro and Chauca, Abraham Gerardo Zamudio;Iberian Conference on Information Systems and Technologies, CISTI;2021;Scopus;;;;;10.23919/CISTI52073.2021.9476370;;;;;;;;;Fuera de América Latina
+Undergraduate Students' Effectiveness in an Institution with High Dropout Index;Oliveira, Joao Lucas and Paula Ambrosio, Ana and Silva, Uyara and Brancher, Jacques and Franco, Jacinto Jose;Proceedings - Frontiers in Education Conference, FIE;2020;Scopus;;;;;10.1109/FIE44824.2020.9274108;;;;;;;;;Fuera de América Latina
+Educators in the loop: Using scenario simulation as a tool to understand and investigate predictive models of student dropout risk in distance learning;Freitas, Rômulo and Salgado, Luciana;Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics);2020;Scopus;;;;;10.1007/978-3-030-50334-5_17;;;;;;;;;Fuera de América Latina
+Prediction of academic dropout in university students using data mining: Engineering case;Silva, Jesús and Matos, Luisa Fernanda Arrieta and Mosquera, Claudia Medina and Mercado, Carlos Vargas and González, Rosio Barrios and Llinás, Nataly Orellano and Lezama, Omar Bonerge Pineda;Lecture Notes in Electrical Engineering;2020;Scopus;;;;;10.1007/978-981-15-3125-5_49;;;;;;;;;Fuera de América Latina
+A predictive model implemented in knime based on learning analytics for timely decision making in virtual learning environments;Maraza-Quispe, Benjamín and Valderrama-Chauca, Enrique Damián and Cari-Mogrovejo, Lenin Henry and Apaza-Huanca, Jorge Milton and Sanchez-Ilabaca, Jaime;International Journal of Information and Education Technology;2022;Scopus;;;;;10.18178/ijiet.2022.12.2.1591;;;;;;;;;Fuera de América Latina
+Investigating the Importance of Student Location and Time Spent Online in Academic Performance and Self-regulation;Ocaña, Mauro and Mejía, Rebeca and Larrea, Carolina and Cruz, Estefanía and Santana, Leonardo and Empinotti, Marina;Advances in Intelligent Systems and Computing;2021;Scopus;;;;;10.1007/978-3-030-68083-1_31;;;;;;;;;Fuera de América Latina
+Estimating expected student academic performance;Orozco, Walter and Rodríguez-García, Miguel Ángel and Fernández, Alberto;Advances in Intelligent Systems and Computing;2021;Scopus;;;;;10.1007/978-3-030-57799-5_13;;;;;;;;;Fuera de América Latina
+Identifying the features of graduated students of the Computer Science degree of the National University of Asuncion;Roman Mancuello, Jesus Gabriel and Rios Alvarez, Luis Fernando and Paciello Coronel, Julio Manuel and Mendez Xavier, Ellen Lujan and von Lucken Martinez, Christian Daniel;Proceedings IMCIC - International Multi-Conference on Complexity, Informatics and Cybernetics;2024;Scopus;;;;;10.54808/IMCIC2024.01.89;;;;;;;;;Variable objetivo no es Deserción
+Academic Performance Predicting Model based on Machine Learning and Keller's Motivation Measure;Laurens, Luis and Hernández-García, Ruber;Proceedings - International Conference of the Chilean Computer Science Society, SCCC;2022;Scopus;;;;;10.1109/SCCC57464.2022.10000282;;;;;;;;;Variable objetivo no es Deserción
+"Smart leveling: An AI-driven adaptive learning strategy in higher education; [Nivelación inteligente: Estrategia de aprendizaje adaptativo con IA en educación superior]";Aldape-Valdes, Patricia and Rincon-Flores, Elvira G. and Castano, Leticia and Guerrero, Sadie;RIED-Revista Iberoamericana de Educacion a Distancia;2026;Scopus;;;;;10.5944/ried.45482;;;;;;;;;Variable objetivo no es Deserción
+"University research with artificial intelligence; [Investigación universitaria con inteligencia artificial]";Meza, Cedeño and Guillermo, Jorge and Rosado, Maitta and Solange, Inger and Zambrano, Vélez and Liliana, Mónica and Zambrano, Palomeque and Yadira, Jeniffer;Revista Venezolana de Gerencia;2024;Scopus;;;;;10.52080/rvgluz.29.106.23;;;;;;;;;Variable objetivo no es Deserción
+Influence of the Entry Profile for the Software Engineering Bachelor Degree on a Successful Academic Trajectory: Case Study;Rebolledo, Isabel Vega and Sanchez-Garcia, Angel J. and Munoz Leon, Jose Juan and Cortes-Verdin, Karen and Ocharan-Hernandez, Jorge Octavio;Proceedings - 2024 12th International Conference in Software Engineering Research and Innovation, CONISOFT 2024;2024;Scopus;;;;;10.1109/CONISOFT63288.2024.00051;;;;;;;;;Variable objetivo no es Deserción
+Geographic Patterns of Academic Dropout and Socioeconomic Characteristics Using Clustering;Choque-Soto, Vanessa Maribel and Sosa-Jauregui, Victor Dario and Ibarra, Waldo;Lecture Notes in Networks and Systems;2023;Scopus;;;;;10.1007/978-3-031-33258-6_47;;;;;;;;;Variable objetivo no es Deserción
+"Classification Tree for the Identification of Symptoms Associated with Depression in Students of a Public University; [Árbol de clasificación para la identificación de síntomas asociados a la depresión en estudiantes de una universidad pública]";Ruiz, Francisco Antonio Amú and Bustamante, David Alejandro Gonzalez and González, Kevin Ortiz and Sandoval, Karol Michelle;Retos;2024;Scopus;;;;;10.47197/RETOS.V52.100138;;;;;;;;;Variable objetivo no es Deserción
+Insights into Factors Influencing Academic Success: An Application of Classification Models in Higher Education;Balderrama, Liliana Terrazas and Lima, Danielli Araújo;Artificial Intelligence and Applications;2024;Scopus;;;;;10.47852/bonviewAIA32021465;;;;;;;;;Variable objetivo no es Deserción
+Validation of the GAEU-1 Acale to Assess the Learning Management of University Students;Ramos-Galarza, Carlos and García-Cruz, Patricia and Lepe-Martínez, Nancy and Del Valle, Milenko and Bolaños-Pasquel, Mónica and Cruz-Cárdenas, Jorge;Emerging Science Journal;2023;Scopus;;;;;10.28991/ESJ-2023-SIED2-019;;;;;;;;;Variable objetivo no es Deserción
+"Classification model for student attrition in a Peru public university; [Modelo de clasificación para la deserción estudiantil en una universidad pública del Perú]";Torres, Henry Villarreal and Rodriguez, William Marín and Morales, Julio Ángeles and Mejía, Jenny Cano and Murillo, Carmen Mejía;Salud, Ciencia y Tecnologia - Serie de Conferencias;2023;Scopus;;;;;10.56294/sctconf2023175;;;;;;;;;Variable objetivo no es Deserción
+Academic risk model through the analytical hierarchical process;Oña, Ana and Burgos, Carmen and Castillo, Jorge and Molina, Manuel and Murillo, Milena;Frontiers in Education;2025;Scopus;;;;;10.3389/feduc.2025.1515877;;;;;;;;;Variable objetivo no es Deserción
+"Learning styles and academic performance in the digital era in Peruvian engineering students; [Estilos de aprendizaje y rendimiento académico en la era digital en estudiantes peruanos de ingeniería]";Arias-Pittman, José Augusto and Manrique-Quiñonez, Javier Alberto and Espinoza-Morimoto, Manuel and Barrera-Loza, Ana Doris Magdalena;Revista de Ciencias Sociales;2023;Scopus;;;;;10.31876/rcs.v29i4.41235;;;;;;;;;Variable objetivo no es Deserción
+Unveiling Success: An Analysis of Academic Performance Predictors in a Private High School in Mexico Through Learning Analytics;Velarde-Camaqui, Davis and Peláez-Sánchez, Iris Cristina and Viehmann, Cristina;Lecture Notes in Educational Technology;2024;Scopus;;;;;10.1007/978-981-97-1814-6_82;;;;;;;;;No pertenece a Educación Superior
+"Main influential factors in academic performance. Analysis from data mining; [Principales factores influyentes en el rendimiento académico. Análisis desde la minería de datos]";Danilo Castrillón, Omar and Antero Arango, Jaime and Castillo-Ossa, Luis Fernando;Ingeniare;2024;Scopus;;;;;10.4067/s0718-33052024000100245;;;;;;;;;Variable objetivo no es Deserción
+Corrigendum: Artificial neural network model to predict student performance using nonpersonal information (Front. Educ., (2023), 8, (1106679), 10.3389/feduc.2023.1106679);Chavez, Heyul and Chavez-Arias, Bill and Contreras-Rosas, Sebastian and Alvarez-Rodríguez, Jose María and Raymundo, Carlos;Frontiers in Education;2023;Scopus;;;;;10.3389/feduc.2023.1171995;;;;;;;;;Variable objetivo no es Deserción
+Support System to Predict Student Dropout in Universities;Rivero-Albarrán, D. and Guerra Torrealba, L. and Arciniegas Aguirre, S. and Alexander, Ortiz;Smart Innovation, Systems and Technologies;2023;Scopus;;;;;10.1007/978-981-19-6347-6_1;;;;;;;;;Variable objetivo no es Deserción
+A New Institutional Dataset Proposal for Timely Graduation in Chilean Higher Education;Yáñez, Andres and Crawford, Broderick and Monfroy, Eric and Paz, Álex and Soto, Ricardo and Barrera-García, José and Cisternas-Caneo, Felipe and López Cortés, Benjamín;Communications in Computer and Information Science;2026;Scopus;;;;;10.1007/978-3-032-08206-0_29;;;;;;;;;Variable objetivo no es Deserción
+"A Gender Gap Analysis on Academic Performance in Engineering Students on Admission and Exit Standardized Tests; [Análisis de brechas de género en el desempeño académico en pruebas de admisión y egreso en programas de Ingeniería]";Gallego, Luis E. and Casadiego, María A.;Ingenieria e Investigacion;2023;Scopus;;;;;10.15446/ing.investig.103276;;;;;;;;;Variable objetivo no es Deserción
+Research Plan on the Effects of Interventions on Dropout Predictions for Higher Education Institutions;Talamás-Carvajal, Juan Andrés;Lecture Notes in Educational Technology;2024;Scopus;;;;;10.1007/978-981-97-1814-6_77;;;;;;;;;Variable objetivo no es Deserción
+Towards a Learning Analytics Model in Higher Education Applied to a LMS in Virtual Education Based on Motivation Indicators for Permanence;Salas-Martinez, Angel and Ramirez-Martinell, Alberto and Martinez-Ramos, Samuel;Proceedings - 2024 12th International Conference in Software Engineering Research and Innovation, CONISOFT 2024;2024;Scopus;;;;;10.1109/CONISOFT63288.2024.00052;;;;;;;;;Variable objetivo no es Deserción
+"Factors influencing the academic performance of first-year medical students; [Factores que influyen en el rendimiento académico de estudiantes del primer curso de la carrera de Medicina]";Alba Zayas, Lázaro Elier and Fernández Regalado, Raúl and Vicedo Tomey, Agustín and Díaz Suárez, Rosa and Candia Guada, Blanca and Tárano Cartaya, Gilberto and Bacallao Gallestey, Jorge and Cardero García, Josefa;Salud, Ciencia y Tecnologia - Serie de Conferencias;2025;Scopus;;;;;10.56294/SCTCONF2025662;;;;;;;;;Variable objetivo no es Deserción
+Predictive Validity of Performance-Based Metacognitive Testing is Superior to Self-report: Evidence from Undergraduate Freshman Students;Castillo-Diaz, Marcio Alexander and Gomes, Cristiano Mauro Assis;Trends in Psychology;2025;Scopus;;;;;10.1007/s43076-023-00290-y;;;;;;;;;Variable objetivo no es Deserción
+The Importance of Motivation in the Collaborative Learning Process in Pandemic and Post-pandemic Undergraduate Students;Martínez-Lazcano, Verónica and Martínez-Alcalá, Claudia Isabel and Prieto-Barboza, Edgar Alexander;Lecture Notes in Networks and Systems;2024;Scopus;;;;;10.1007/978-3-031-73128-0_27;;;;;;;;;Variable objetivo no es Deserción
+Higher Education Students Dropout Prediction;Guarda, Teresa and Barrionuevo, Oscar and Victor, José Avelino;Smart Innovation, Systems and Technologies;2023;Scopus;;;;;10.1007/978-981-19-7689-6_11;;;;;;;;;Variable objetivo no es Deserción
+CSDA-Vis: A (What-If-and-When) visual system for early dropout detection using counterfactual and survival analysis interactions;Garcia-Zanabria, Germain and Gutierrez-Pachas, Daniel A. and Poco, Jorge and Gomez-Nieto, Erick;Computers and Graphics;2026;Scopus;;;;;10.1016/j.cag.2025.104489;;;;;;;;;Variable objetivo no es Deserción
+Monitoring Collaborative Interactions in Online Learning: Insights from Moodle Log Records;Peramunugamage, Anuradha and Ratnayake, Uditha W. and Karunanayaka, Shironica P. and Barbosa, Ellen Francine and Deus, William Simão de and Jayawardena, Chulantha L. and Silva, R.K.J.;Journal of Learning for Development;2025;Scopus;;;;;10.56059/jl4d.v12i2.1554;;;;;;;;;Variable objetivo no es Deserción
+A Data-centric Approach to Tracking Student Academic Performance and Progression;Ibarra-Esquer, Jorge E. and Flores-Rios, Brenda L. and Astorga-Vargas, Maria A. and González-Ramírez, Maria L. and Justo-López, Araceli C. and Chávez-Valenzuela, Gloria E.;IAENG International Journal of Computer Science;2024;Scopus;;;;;;;;;;;;;;Variable objetivo no es Deserción
+Predicting School Dropout and Simulating Educational Scenarios in Colombia Using Machine Learning;Fernandez, Mairely Narvaez and Morales Nunez, Fernando Rafael and Serrezuela, Ruthber Rodriguez and Bermeo Cuenca, Daniel Felipe;8th Congreso Internacional en Inteligencia Ambiental, Ingenieria de Software y Salud Electronica y Movil, AmITIC 2025;2025;Scopus;;;;;10.1109/AmITIC68284.2025.11214605;;;;;;;;;No pertenece a Educación Superior
+Tailored analysis of dropout in UBA distance postgraduate courses: first results;Anaya, Antonio R. and Gomez, Pablo M. and Lutenberg, Ariel;Proceedings of the International Conference on Educational Data Mining;2024;Scopus;;;;;10.5281/zenodo.12729984;;;;;;;;;Variable objetivo no es Deserción
+"Predictive Model Based on Machine Learning for Student Retention in Higher Education; [Modelo Predictivo basado en Aprendizaje Automático para la retención Estudiantil en Educación Superior]";Núñez Villalobos, David Alejandro;European Public and Social Innovation Review;2025;Scopus;;;;;10.31637/epsir-2025-1307;;;;;;;;;Fuera de América Latina
+"Endogenous and exogenous factors for the modeling and prediction of the academic performance of university students; [Factores endógenos y exógenos para el modelado y predicción del rendimiento académico de estudiantes universitarios]";Incio Flores, Fernando Alain and Capuñay Sanchez, Dulce Lucero;Revista Electronica Interuniversitaria de Formacion del Profesorado;2023;Scopus;;;;;10.6018/reifop.557911;;;;;;;;;Variable objetivo no es Deserción
+Relationship between Entrance Exam Scores, Academic Performance, and Student Dropout Rates: A Longitudinal Case Study;Chaparro-Cruz, Israel N. and Huertas-Condori, Luciana N. and Cabana-Yupanqui, Silvana B. and Chaparro-Guerra, Americo;International Journal of Learning, Teaching and Educational Research;2025;Scopus;;;;;10.26803/ijlter.24.3.11;;;;;;;;;Variable objetivo no es Deserción
+Analysis of Categorical and Numerical Variables for Dropout Intervention in Educational Settings;Gonzalez-Nucamendi, Andres and Noguez, Julieta and Neri, Luis and Robledo-Rella, Victor and Guadalupe García-Castelán, Rosa Maria;Proceedings - Frontiers in Education Conference, FIE;2023;Scopus;;;;;10.1109/FIE58773.2023.10343519;;;;;;;;;Variable objetivo no es Deserción
+"Artificial Neural Network Model to Predict Academic Results in Mathematics II; [Modelo de rede neural artificial para prever resultados acadêmicos em Matemática II]; [Modelo de red neuronal artificial para predecir resultados académicos en la asignatura Matemática II]";Incio-Flores, Fernando Alain and Capuñay-Sanchez, Dulce Lucero and Estela-Urbina, Ronald Omar;Revista Electronica Educare;2023;Scopus;;;;;10.15359/ree.27-1.14516;;;;;;;;;Variable objetivo no es Deserción
+Application of the performance of machine learning techniques as support in the prediction of school dropout;Jiménez-Gutiérrez, Auria Lucia and Mota-Hernández, Cinthya Ivonne and Mezura-Montes, Efrén and Alvarado-Corona, Rafael;Scientific Reports;2024;Scopus;;;;;10.1038/s41598-024-53576-1;;;;;;;;;No pertenece a Educación Superior
+"Machine learning for the improvement of adaptive learning in university education; [Machine learning para la mejora del aprendizaje adaptativo en la educación Universitaria]";Jara-Abanto, Fabrizzio and Velasquez-Medina, Luis and Meneses-Claudio, Brian;Salud, Ciencia y Tecnologia - Serie de Conferencias;2023;Scopus;;;;;10.56294/sctconf2023473;;;;;;;;;Variable objetivo no es Deserción
+Educational Data Mining: A Predictive Model to Reduce Student Dropout;Redroban, Carlos and Saavedra, Jorge and Leon, Marcelo and Nuñez, Sergio and Echeverria, Fabricio;Lecture Notes in Networks and Systems;2023;Scopus;;;;;10.1007/978-981-19-9331-2_61;;;;;;;;;Variable objetivo no es Deserción
+Machine Learning Model for Predicting Academic Success Through Multi-Criteria Admissions;Arana, Maglioni and Arana, Maribel and Camborda, Maria and Gamarra, Abraham;Proceedings - 9th International Symposium on Accreditation of Engineering and Computing Education, ICACIT 2023;2023;Scopus;;;;;10.1109/ICACIT59946.2023.10403678;;;;;;;;;Variable objetivo no es Deserción
+"Application of Artificial Intelligence Models in Standardized Tests for Optimizing Academic Performance in Higher Education; [Aplicación de Modelos de Inteligencia Artificial en Pruebas Estandarizadas para la Optimización del Rendimiento Académico en Educación Superior]";Morales, Nathalia Orozco and García, Pável Andrei Osorio;European Public and Social Innovation Review;2024;Scopus;;;;;10.31637/epsir-2024-1605;;;;;;;;;Fuera de América Latina
+Applying Multiple Regression to Evaluate Academic Performance of Students in E-Learning;Esponda-Pérez, Jorge Alberto and Mousse, Mikaël A. and Almufti, Saman M. and Haris, Ikhfan and Erdanova, Sevara and Tsarev, Roman;Lecture Notes in Networks and Systems;2024;Scopus;;;;;10.1007/978-3-031-70595-3_24;;;;;;;;;Variable objetivo no es Deserción
+Academic performance forecasting model based on artificial intelligence at the Faculty of Engineering - Systems and Informatics of the Continental University;Elena and Paula, Sonia and Ríos, Espinoza and Felipe and Néstor and Meza, Gutarra and José and Porfirio and Farías, González;ACM International Conference Proceeding Series;2023;Scopus;;;;;10.1145/3638264.3638283;;;;;;;;;Variable objetivo no es Deserción
+"Predictive model of academic performance and learning based on methodological strategies in a Peruvian public university; [Modelo predictivo del rendimiento académico y el aprendizaje basado en estrategias metodológicas en una universidad pública peruana]";Alfredo Herrera Farfán, José and Jiménez Chinga, Regina and Zeta Vite, Adolfo and Antenor Jurado Rosas, Adolfo and Abanto Cerna, Lemin;Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology;2024;Scopus;;;;;10.18687/LACCEI2024.1.1.604;;;;;;;;;Variable objetivo no es Deserción
+Identification of Factors and Teacher Profile Associated with Student Performance Using Fuzzy Techniques and Data Mining;Barba-Guaman, Luis and Valdiviezo-Diaz, Priscila;Communications in Computer and Information Science;2024;Scopus;;;;;10.1007/978-3-031-58956-0_17;;;;;;;;;Variable objetivo no es Deserción
+Predictive model of the dropout intention of Chilean university students;López-Angulo, Yaranay and Sáez-Delgado, Fabiola and Mella-Norambuena, Javier and Bernardo, Ana B. and Díaz-Mujica, Alejandro;Frontiers in Psychology;2023;Scopus;;;;;10.3389/fpsyg.2022.893894;;;;;;;;;Variable objetivo no es Deserción
+"Adaptation and academic success among first-year students of higher education in Brazil; [Adaptação e sucesso acadêmico em estudantes brasileiros do primeiro ano da educação superior]";Farias, Rebeca V. and Gouveia, Valdiney V. and Almeida, Leandro S.;Revista de Estudios e Investigacion en Psicologia y Educacion;2022;Scopus;;;;;10.17979/reipe.2022.9.1.8830;;;;;;;;;Variable objetivo no es Deserción
+"The teacher-student relationship as a predictive variable of school engagement: The mediating role of subjective well-being in a structural equation model with indigenous students aged 10 to 14 years old; [La relación docente-estudiante como una variable predictora del compromiso escolar: el rol mediador del bienestar subjetivo en un modelo de ecuaciones estructurales en estudiantes indígenas de entre 10 y 14 años]";Brieba-Fuenzalida, Joaquín and Pérez-Salas, Claudia;Revista Espanola de Pedagogia;2025;Scopus;;;;;10.22550/2174-0909.4509;;;;;;;;;No pertenece a Educación Superior
+"Collegiate examination and predictors of success in linear algebra students; [Examen colegiado y predictores de éxito en los estudiantes de álgebra lineal]";Aguilar-Salinas, Wendolyn Elizabeth and De Las Fuentes Lara, Maximiliano;Bolema - Mathematics Education Bulletin;2023;Scopus;;;;;10.1590/1980-4415v37n76a20;;;;;;;;;Variable objetivo no es Deserción
+Complexities of student dropout in higher education: a multidimensional analysis;Barragán Moreno, Sandra Patricia and González Támara, Leandro;Frontiers in Education;2024;Scopus;;;;;10.3389/feduc.2024.1461650;;;;;;;;;Variable objetivo no es Deserción
+Application of Non-Supervised Learning Tools and Visualization Techniques to Understand the Intrinsic Freshmen Enrollment Segmentation: An application to freshmen engineering students.;Salas, Patricio and De la Fuente, Rodrigo and Sáez, Patricio and Riquelme, Andrés;Research in Statistics;2025;Scopus;;;;;10.1080/27684520.2024.2433290;;;;;;;;;Variable objetivo no es Deserción
+Sociocultural factors, academic performance, and intercultural university education in the Peruvian Amazon;Morales Rocha, José Luis and Coyla Zela, Mario Aurelio and Serruto Medina, Genciana and Vargas Torres, Nakaday Irazema and Asencios Tarazona, Vitelio and Arroyo Japura, Gregorio and Huanca Frias, José Oscar;Frontiers in Education;2023;Scopus;;;;;10.3389/feduc.2023.1278717;;;;;;;;;Variable objetivo no es Deserción
+Examining the Impact of ChatGPT on Mexican Students’ Performance in Higher Education;Velázquez-García, Lydia and Cedillo-Hernández, Antonio and Colón-Vallejo, Alejandra and Longar-Blanco, María Del Pilar;International Journal of Information and Education Technology;2025;Scopus;;;;;10.18178/ijiet.2025.15.7.2338;;;;;;;;;Variable objetivo no es Deserción
+Comparative Analysis of the Prediction of the Academic Performance of Entering University Students Using Decision Tree and Random Forest;Aguilar-Ruiz, Jesús and Taya-Acosta, Edgar and Taya-Osorio, Edgar;Lecture Notes in Networks and Systems;2023;Scopus;;;;;10.1007/978-3-031-33258-6_43;;;;;;;;;Variable objetivo no es Deserción
+Information Competences and Academic Achievement: A Dataset;Köhler, Jacqueline and González-Ibáñez, Roberto;Data;2023;Scopus;;;;;10.3390/data8110164;;;;;;;;;Variable objetivo no es Deserción
+"Learning Assisted by Artificial Intelligence Tools in College Students; [Aprendizaje asistido por herramientas de inteligencia artificial en estudiantes universitarios]";Cisneros Basurto, Wilson Edmundo and Chapaca Tituaña, Xiomara Maribel and Pesantez García, Favio Manolo and Maldonado Beltrán, Alexis Hernán;Health Leadership and Quality of Life;2024;Scopus;;;;;10.56294/hl2024.363;;;;;;;;;Variable objetivo no es Deserción
+Enhancing well-being in modern education: A comprehensive eHealthproposal for managing stress and anxiety based on machine learning;Sergio, Wagno Ledo and Stroele, Victor and Dantas, Mario and Braga,Regina and Macedo, Douglas Dyllon;INTERNET OF THINGS;2024;Web of Science (WoS);;25.0;"In the evolving education landscape, institutions are transitioning to a
+hybrid model encompassing physical and virtual classes. In this
+scenario, as working hours and exhausting routines increase, individuals
+accumulate psychological and physical challenges over time. This change
+requires students and educators to adjust to changes in teaching and
+learning routines, leading to moments of stress and anxiety. Cultivating
+self-awareness about unhealthy habits emerges as a pragmatic strategy to
+address this issue. In this work, a comprehensive eHealth proposal is
+developed to provide individuals with pertinent health information,
+assisting educational agents (students and teachers) in identifying and
+managing these stressful instances during their daily activities. This
+proposal acquires, processes, and disseminates vital sign data using IoT
+devices, supported by a Fog Computing architecture for scalability and
+adaptability. IoT plays a pivotal role in this eHealth proposal,
+facilitating the seamless collection and transmission of real-time data
+from various devices. Connected wearables and sensors enable the
+continuous monitoring of vital signs, enhancing the accuracy and
+responsiveness of the system. Heart rate data from educational agents
+were collected for implementation, allowing the evaluation of system
+performance. Machine learning models were leveraged to discern
+behavioral profiles and predict possible irregularities in vital signs.
+The results confirm the system's ability to perform its intended
+functions, giving users quick and accurate insights into their evolving
+behavioral patterns. Integrating these research perspectives underscores
+the importance of adaptive systems in navigating the challenges of
+modern education environments. The incorporation of IoT technology not
+only enhances data collection but also opens avenues for real-time
+interventions and personalized feedback, ultimately contributing to a
+more proactive approach in addressing health-related concerns within the
+educational context.";Article;10.1016/j.iot.2023.101055;;"Ströele, V (Corresponding Author), Univ Fed Juiz de Fora, Dept Comp Sci, Juiz De Fora, MG, Brazil.Sergio, Wagno Ledo; Stroele, Victor; Dantas, Mario; Braga, Regina, Univ Fed Juiz de Fora, Dept Comp Sci, Juiz De Fora, MG, Brazil.Macedo, Douglas Dyllon, Univ Fed Santa Catarina, Florianopolis, SC, Brazil.";;"eHealth; Internet of things; Machine learning; Education; Fog-cloudcomputing";ELSEVIER;2543-1536;English;;Variable objetivo no es Deserción
+Group Counterfactual Explanations: A Use Case to Support Students atRisk of Dropping Out in Online Education;Bunay-Guisnan, Pamela and Cano, Alberto and Anguera, Aurea and Lara,Juan A. and Romero, Cristobal;ELECTRONICS;2025;Web of Science (WoS);;15.0;"This paper proposes the novel application of group counterfactual
+explanations to the problem of predicting students at risk of dropout.
+Our objective is to explain how to recover the largest possible number
+of students while minimizing effort and cost. Using group
+counterfactuals, instructors and institutions could recover large groups
+of students with minimal remedial actions. For testing, we used the
+well-known public educational Open University Learning Analytics Dataset
+(OULAD), which contains students' clicks made throughout interactions
+with online courses. We modified and adapted the only existing algorithm
+for the generation of group counterfactuals, named GROUP-CF. We also
+used the Diverse Counterfactual Explanations (DiCE) individual
+counterfactual algorithm with the K-means clustering method and new
+options in discovering the most representative counterfactuals for a
+group of students. The results obtained are very promising; our approach
+can be successfully applied to recover 99.3\% of students at risk of
+failing in a shorter time in comparison to traditional individual
+counterfactuals. Moreover, although a group counterfactual proposes to
+change a greater number of students' features, the values are lighter
+and therefore seem easier to apply than the ones obtained with
+individual counterfactuals. This work opens up a new line of research in
+education.";Article;10.3390/electronics15010051;;"Romero, C (Corresponding Author), Univ Cordoba, Dept Ciencias Comp \& Inteligencia Artif, Cordoba 14071, Spain.Bunay-Guisnan, Pamela, Univ Nacl Chimborazo, Fac Ingn, Riobamba 060101, Ecuador.Cano, Alberto; Lara, Juan A.; Romero, Cristobal, Univ Cordoba, Dept Ciencias Comp \& Inteligencia Artif, Cordoba 14071, Spain.Anguera, Aurea, Univ Politecn Madrid, Comp Syst Dept, Madrid 28031, Spain.";;"XAI; counterfactual explanations; group explanations; at risk of failure";MDPI;2079-9292;English;;Variable objetivo no es Deserción
+Identification of the Factors That Influence University Learning withLow-Code/No-Code Artificial Intelligence Techniques;Villegas-Ch., William and Garcia-Ortiz, Joselin and Sanchez-Viteri,Santiago;ELECTRONICS;2021;Web of Science (WoS);;10.0;"Education is one of the sectors that improves the future of societies;
+unfortunately, the pandemic generated by coronavirus disease 2019 has
+caused a variety of problems that directly affect learning. Universities
+have found it necessary to begin a transition towards remote or online
+educational models. To do so, the only method that guarantees the
+continuity of classes is using information and communication
+technologies. The transition in the foreground points to the use of
+technological platforms that allow interaction and the development of
+classes through synchronous sessions. In this way, it has been possible
+to continue developing both administrative and academic activities.
+However, in effective education, there are factors that create an ideal
+environment where the generation of knowledge is possible. By moving
+from traditional educational models to remote models, this environment
+has been disrupted, significantly affecting student learning.
+Identifying the factors that influence academic performance has become
+the priority of universities. This work proposes the use of intelligent
+techniques that allow the identification of the factors that affect
+learning and allow effective decision-making that allows improving the
+educational model.";Article;10.3390/electronics10101192;;"Villegas-Ch, W (Corresponding Author), Univ Amer, FICA, Escuela Ingn Tecnol Informac, Quito 170125, Ecuador.Villegas-Ch., William; Garcia-Ortiz, Joselin, Univ Amer, FICA, Escuela Ingn Tecnol Informac, Quito 170125, Ecuador.Sanchez-Viteri, Santiago, Univ Int Ecuador, Dept Sistemas, Quito 170411, Ecuador.";;"artificial intelligence; remote education; WEKA";MDPI;2079-9292;English;;Variable objetivo no es Deserción
+Understanding the role of study strategies and learning disabilities onstudent academic performance to enhance educational approaches: Aproposal using artificial intelligence;Bressane, Adriano and Zwirn, Daniel and Essiptchouk, Alexei and Saraiva,Antonio Carlos Varela and Carvalho, Fernando Luiz De Campos and Formiga,Jorge Kennety Silva and Medeiros, Liliam Cesar De Castro and Negri,Rogerio Galante;COMPUTERS AND EDUCATION: ARTIFICIAL INTELLIGENCE;2024;Web of Science (WoS);;6.0;"Statement of problem: The students' academic performance is influenced
+by a complex interplay among several factors. Traditional educational
+approaches often struggle to accommodate the diverse needs of students,
+leading to suboptimal learning outcomes. Purpose: This article aims to
+comprehensively understand the role of study strategies and learning
+disabilities in shaping academic performance. Through the integration of
+artificial intelligence (AI) tools, the purpose is to propose a decision
+support system (DSS) for recommendations to improve the educational
+approach. Method: To identify features with higher explanatory power
+based on empirical data, we employed an artificial neural network (ANN)
+to recognize patterns of association between study strategies, learning
+disabilities, and academic performance. Using the pondered features, a
+Fuzzy-based AI was built for offering recommendations into effective
+educational interventions. Conclusions: The findings underscore the
+significance of study strategies in mitigating the negative impact of
+learning disabilities on academic performance. By leveraging the
+proposed AI tools framework, educators can make informed decisions to
+tailor educational approaches, catering to the unique cognitive profiles
+of students. Personalized interventions based on identified patterns can
+lead to improved academic outcomes and greater inclusivity in the
+learning environment. Practical implications: Educators and policymakers
+can adopt the proposed data-driven strategies to enhance teaching
+methodologies, thereby accommodating the varying needs of students with
+learning disabilities. This approach fosters a more inclusive and
+equitable educational landscape, promoting academic success for all
+learners.";Article;10.1016/j.caeai.2023.100196;;"Bressane, A (Corresponding Author), Sao Paulo State Univ, Presidente Dutra Highway,Km 137,8, BR-12247004 Sao Jose Dos Campos, SP, Brazil.Bressane, Adriano; Zwirn, Daniel; Essiptchouk, Alexei; Saraiva, Antonio Carlos Varela; Carvalho, Fernando Luiz De Campos; Formiga, Jorge Kennety Silva; Medeiros, Liliam Cesar De Castro; Negri, Rogerio Galante, Sao Paulo State Univ, Presidente Dutra Highway,Km 137,8, BR-12247004 Sao Jose Dos Campos, SP, Brazil.Bressane, Adriano, Sao Paulo State Univ, Grad Prog";;"Study strategies; Learning limitation and potential; Educationalapproach";ELSEVIER;2666-920X;English;;Variable objetivo no es Deserción
+The Mediating Role of Learning Analytics: Insights into StudentApproaches to Learning and Academic Achievement in Latin America;Villalobos, Esteban and Hilliger, Isabel and Gonzalez, Carlos and Celis,Sergio and Perez-Sanagustin, Mar and Broisin, Julien;JOURNAL OF LEARNING ANALYTICS;2024;Web of Science (WoS);jun-20;11.0;"Researchers in learning analytics have created indicators with learners'
+trace data as a proxy for studying learner behaviour in a college
+course. Student Approaches to Learning (SAL) is one of the theories used
+to explain these behaviours, distinguishing between deep, surface, and
+organized study. In Latin America, researchers have demonstrated that
+organized approaches to learning could be more effective in higher
+education, leading to better performance and course approval. However,
+further analysis of student behavioural data is needed to understand
+this relationship and inform interventions targeting study habits and
+academic performance. In this study, we analyzed the relationship
+between student approaches to learning and their final grade in six
+college courses, using behavioural trace data as a mediator variable.
+Specifically, we conducted a quantitative study in two Latin American
+institutions where data of different granularity was collected from
+their Learning Management Systems. We observed that most learning
+analytics indicators do not mediate the effect between approaches to
+learning and course performance. However, there was evidence for
+fine-grained indicators acting as total mediators. Implications are
+discussed at methodological and pedagogical levels, aiming to inform the
+advancement of learning analytics in the region and its use for
+supporting student learning.";Article;10.18608/jla.2024.8149;;"Villalobos, E (Corresponding Author), Univ Toulouse III Paul Sabatier, IRIT, 118 Route Narbonne, F-31062 Toulouse, France.Villalobos, Esteban; Perez-Sanagustin, Mar; Broisin, Julien, Univ Toulouse III Paul Sabatier, IRIT, 118 Route Narbonne, F-31062 Toulouse, France.Hilliger, Isabel; Gonzalez, Carlos, Pontificia Univ Catolica Chile, Ave Vicuna Mackenna 4860, Santiago, Chile.Celis, Sergio, Univ Chile, Ave Beauchef 851, Santiago, Chile.";;"Student approaches to learning (SAL); mediation analysis; learninganalytics (LA); Latin America";SOC LEARNING ANALYTICS RESEARCH-SOLAR;;English;;Variable objetivo no es Deserción
+Identifying Students at Risk of Failing a Subject by Using LearningAnalytics for Subsequent Customised Tutoring;Simanca, Fredys and Gonzalez Crespo, Ruben and Rodriguez-Baena, Luis andBurgos, Daniel;APPLIED SCIENCES-BASEL;2019;Web of Science (WoS);;9.0;"Learning analytics (LA) has become a key area of study in educology,
+where it could assist in customising teaching and learning. Accordingly,
+it is precisely this data analysis technique that is used in a
+sensor-AnalyTIC-designed to identify students who are at risk of failing
+a course, and to prompt subsequent tutoring. This instrument provides
+the teacher and the student with the necessary information to evaluate
+academic performance by using a risk assessment matrix; the teacher can
+then customise any tutoring for a student having problems, as well as
+adapt the course contents. The sensor was validated in a study involving
+39 students in the first term of the Environmental Engineering program
+at the Cooperative University of Colombia. Participants were all
+enrolled in an Algorithms course. Our findings led us to assert that it
+is vital to identify struggling students so that teachers can take
+corrective measures. The sensor was initially created based on the
+theoretical structure of the processes and/or phases of LA. A virtual
+classroom was built after these phases were identified, and the tool for
+applying the phases was then developed. After the tool was validated, it
+was established that students' educational experiences are more dynamic
+when teachers have sufficient information for decision-making, and that
+tutoring and content adaptation boost the students' academic
+performance.";Article;10.3390/app9030448;;"Crespo, RG (Corresponding Author), Univ Int La Rioja, Sch Engn \& Technol, Logrono 26006, Spain.Simanca, Fredys, Cooperat Univ Colombia, Sch Engn Syst Engn Program, Bogota 110231, Colombia.Gonzalez Crespo, Ruben; Rodriguez-Baena, Luis, Univ Int La Rioja, Sch Engn \& Technol, Logrono 26006, Spain.Burgos, Daniel, Univ Int La Rioja, Res Inst Innovat \& Technol Educ ITED, Logrono 26006, Spain.";;"learning analytics; customised tutoring; learning adaptation; virtualclassroom";MDPI;2076-3417;English;;Variable objetivo no es Deserción
+Study of academic performance through comparison of regression modelsand classification trees;Aguilar-Reyes, Johanna Enith and Mejia-Penafiel, Edwin Fernando andMorocho-Barrionuevo, Tania Paulina and Castelo, Geoconda-MariselaVelasco;TELOS-REVISTA DE ESTUDIOS INTERDISCIPLINARIOS EN CIENCIAS SOCIALES;2025;Web of Science (WoS);94-115;27.0;"This article aims to identify the factors that affect academic
+performance by comparing regression models and decision trees to
+determine the factors involved. The methodology adopted is quantitative
+in nature, focused on the collection of numerical data and its
+statistical analysis, in order to evaluate the relationships between
+different variables and determine those factors that influence academic
+performance. The population studied includes remedial students in the
+statistics career, who underwent an exploratory and descriptive
+analysis, using two statistical methods. Two modeling techniques were
+used: multinomial logistic regression and classification trees. The
+variables evaluated included sociodemographic factors, previous academic
+performance, and characteristics of the educational environment. The
+results showed that the logistic regression model achieved 100\%
+accuracy with an AUC of 1, indicating perfect classification ability. In
+comparison, the classification tree model had an accuracy of 70.83\%
+with an AUC of 0.7042, reflecting moderate classification ability. From
+these results, key factors that affect academic performance were
+identified, such as study habits, interest in the career and
+psychological aspects. In conclusion, multinomial logistic regression
+was more effective and accurate in analyzing the quantitative
+relationships between the variables that affect academic performance,
+outperforming the classification tree method.";Article;10.36390/telos271.08;;"Aguilar-Reyes, JE (Corresponding Author), Escuela Super Politecn Chimborazo, Riobamba Canton, Ecuador.Aguilar-Reyes, Johanna Enith; Mejia-Penafiel, Edwin Fernando; Morocho-Barrionuevo, Tania Paulina; Castelo, Geoconda-Marisela Velasco, Escuela Super Politecn Chimborazo, Riobamba Canton, Ecuador.";;"Academic Performance; Logistic Regression; Classification Trees;Confusion Matrix";UNIV DR RAFAEL BELLOSO CHACIN;2343-5763;Spanish;;Variable objetivo no es Deserción
+Metaheuristics Method for Classification and Prediction of StudentPerformance Using Machine Learning Predictors;Kamal, Mustafa and Chakrabarti, Sudakshina and Ramirez-Asis, Edwin andAsis-Lopez, Maximiliano and Allauca-Castillo, Wendy and Kumar, Tribhuwanand Sanchez, Domenic T. and Rahmani, Abdul Wahab;MATHEMATICAL PROBLEMS IN ENGINEERING;2022;Web of Science (WoS);;2022.0;"Over the last few decades, there has been a gradual deterioration in
+higher education in all three areas: the academic setting (both staff
+and students), as well as research and development output (including
+graduates). All colleges and universities are essentially focused on
+improving management decision-making and educating pupils. High-quality
+higher education can be obtained through a variety of methods. One
+method is to accurately forecast pupils' achievement in their chosen
+educational context. There are numerous prediction models from which to
+pick. While it is unclear whether there are any markers that can predict
+whether a kid will be an academic genius, a dropout, or an average
+performer, the researcher reports student achievement. This article
+presents a metaheuristics and machine learning-based method for the
+classification and prediction of student performance. Firstly, features
+are selected using a relief algorithm. Machine learning classifiers such
+as BPNN, RF, and NB are used to classify student academic performance
+data. BPNN is having better accuracy for classification and prediction
+of student academic performance.";Article;10.1155/2022/2581951;;"Rahmani, AW (Corresponding Author), Isteqlal Inst Higher Educ, Kabul, Afghanistan.Kamal, Mustafa, Saudi Elect Univ, Coll Sci \& Theoret Studies, Dept Basic Sci, Dammam 32256, Saudi Arabia.Chakrabarti, Sudakshina, Chettinad Acad Res \& Educ, Chettinad Hosp \& Res Inst, Kelambakkam, Tamil Nadu, India.Ramirez-Asis, Edwin, Univ Senor Sipan, Chiclayo, Peru.Asis-Lopez, Maximiliano; Allauca-Castillo, Wendy, Univ Nacl Santiago Antunez DeMayolo, Huaraz, Peru.Kumar, Tribhuwan, Prince Sattam Bin Abdul";;;HINDAWI LTD;1024-123X;English;;Variable objetivo no es Deserción
+Centralized student performance prediction in large courses based onlow-cost variables in an institutional context;Sandoval, Augusto and Gonzalez, Carlos and Alarcon, Rosa and Pichara,Karim and Montenegro, Maximiliano;INTERNET AND HIGHER EDUCATION;2018;Web of Science (WoS);76-89;37.0;"An increasing number of higher education institutions have deployed
+learning management systems (LMSs) to support learning and teaching
+processes. Accordingly, data-driven research has been conducted to
+understand the impact of student participation within these systems on
+student outcomes. However, most research has focused on small samples or
+has used variables that are expensive to measure, which limits its
+generalizability. This article presents a prediction model based on
+low-cost variables and a sophisticated algorithm, to predict early which
+students attending large classes (with more than 50 enrollments) who are
+at risk of failing a course. Therefore, it will enable instructors and
+educational managers to carry out early interventions to prevent course
+failure. The results overperform other approaches in terms of accuracy,
+cost, and generalization. Moreover, LMS usage information improved the
+model by up to 12.28\% in terms of root-mean-square error, enabling
+better early identification of at-risk students.";Article;10.1016/j.iheduc.2018.02.002;;"Sandoval, A (Corresponding Author), Pontificia Univ Catolica Chile, Santiago 4860, Chile.Sandoval, Augusto; Gonzalez, Carlos; Alarcon, Rosa; Pichara, Karim; Montenegro, Maximiliano, Pontificia Univ Catolica Chile, Santiago 4860, Chile.";;"Learning management systems; Prediction of academic performance;Educational data mining; Postsecondary education";ELSEVIER SCIENCE INC;1096-7516;English;;Variable objetivo no es Deserción
+ADHE: A tool to characterize higher education dropout phenomenon;Rivera-Baena, Oscar Daniel and Patino-Rodriguez, Carmen Elena andUsuga-Manco, Olga Cecilia and Hernandez-Barajas, Freddy;REVISTA FACULTAD DE INGENIERIA-UNIVERSIDAD DE ANTIOQUIA;2024;Web of Science (WoS);64-75;;"The field of academic analytics emerged in higher education institutions
+(HEI) because of developments in database technologies and the
+generalization of data -mining practices and business intelligence
+tools. We have designed and implemented a dashboard called ADHE
+(Academic Analytical Dashboard in Higher Education) for a Colombian
+higher education institution. The purpose of ADHE is to help
+administrators of academic programs in their decision -making process
+regarding the analysis of the phenomenon of student dropout. We used the
+pipeline methodology for processing large volumes of data was used,
+which is based on five phases: data acquisition, integration, cleaning,
+transformation, and visualization. All phases were carried out in the R
+programming language using academic information sources from the Faculty
+of Engineering of the Universidad de Antioquia and the Colombian
+Institute for the Evaluation of Education. The dashboard ADHE is open
+for free and can be consulted at:
+https://fhernanb.shinyapps.io/AppPermanencia/. The main findings were
+that social stratum, gender, and type of high school are associated with
+the student dropout phenomenon. Furthermore, in social stratum 1, male
+students and public high schools tend to have a higher student dropout
+proportion. Additionally, we conclude that admission to engineering
+programs requires a balance of qualitative and quantitative abilities.
+The dashboard ADHE should be used to help students, parents, teachers,
+and administrators understand student dropout dynamics.";Article;10.17533/udea.redin.20230519;;"Patiño-Rodríguez, CE (Corresponding Author), Univ Antioquia, Dept Ingn Ind, Calle 67 5 3-108, Medellin 050010, Colombia.Rivera-Baena, Oscar Daniel; Patino-Rodriguez, Carmen Elena; Usuga-Manco, Olga Cecilia, Univ Antioquia, Dept Ingn Ind, Calle 67 5 3-108, Medellin 050010, Colombia.Hernandez-Barajas, Freddy, Univ Nacl Colombia, Escuela Estadist, Fac Ciencias, Medellin, Colombia.";;"Student dropout proportion; academic analytic; dashboard; Datavisualization; higher education";IMPRENTA UNIV ANTIOQUIA;0120-6230;English;;No pertenece a Educación Superior
+Transforming education with artificial intelligence: innovations toenhance learning experiences and academic performance;Bolano-Garcia, Matilde;PRAXIS-COLOMBIA;2024;Web of Science (WoS);456-459;20.0;;Editorial Material;10.21676/23897856.6245;;Bolano-Garcia, M (Corresponding Author), Univ Magdalena, Santa Marta, Colombia.Bolano-Garcia, Matilde, Univ Magdalena, Santa Marta, Colombia.;;;UNIV MAGDALENA;1657-4915;Spanish;;Variable objetivo no es Deserción
+Artificial intelligence for determining learning strategies inuniversity students;Sabando-Garcia, angel Ramon and Olguin-Martinez, Cynthia Michel andBenavides-Lara, Raul Marcelo and Salazar-Echeagaray, Teresa Irina andHuerta-Mora, Eduardo Alfonso and Bumbila-Garcia, Bibian Bibeca andCedeno-Barcia, Lizandro Agustin and Moreira-Choez, Jenniffer Sobeida;FRONTIERS IN EDUCATION;2025;Web of Science (WoS);;10.0;"Background University students employ various learning strategies that
+influence their academic success and retention in the educational
+system. However, those who fail to use these strategies effectively may
+be at risk of dropping out. In this context, the objective of this study
+was to determine the learning strategies of students at the Pontifical
+Catholic University of Ecuador, Santo Domingo campus (PUCESD) using
+artificial intelligence.Methods The research followed a quantitative,
+correlational, and predictive approach, with a probabilistic sample of
+162 students aged 17-24, of whom 29\% were male and 71\% female, from
+public, private religious, private secular, and semi-private
+institutions. Through the ACRA questionnaire, three dimensions were
+evaluated: cognitive strategies, study habits, and learning
+support.Results The results revealed a structure with adequate internal
+consistency and structural validity, high-lighting a significant
+relationship between cognitive strategies and study habits, suggesting a
+positive interaction between the two to optimize learning.Conclusions
+Artificial intelligence proved effective in identifying patterns in
+learning strategies. However, it is recommended to adjust certain
+questionnaire items to enhance its precision and applicability in
+diverse contexts, thereby facilitating targeted interventions.";Article;10.3389/feduc.2025.1611189;;"Moreira-Choez, JS (Corresponding Author), Univ Estatal Milagro, Fac Posgrad, Milagro, Guayas, Ecuador.Sabando-Garcia, angel Ramon, Pontificia Univ Catol Ecuador Sede St Domingo, Dept Matemat \& Estadist, Santo Domingo, Ecuador.Olguin-Martinez, Cynthia Michel; Salazar-Echeagaray, Teresa Irina; Huerta-Mora, Eduardo Alfonso, Univ Autonoma Sinaloa, Mazatlan, Sinaloa, Mexico.Benavides-Lara, Raul Marcelo, Escuela Super Politecn Chimborazo, Riobamba, Ecuador.Bumbila-Garcia, Bibian Bibeca; Cedeno-Ba";;"factor analysis; university student; education evaluation; artificialintelligence; learning method";FRONTIERS MEDIA SA;;English;;Variable objetivo no es Deserción
+Explanatory Factors of University Dropout Explored Through ArtificialIntelligence;Parra-Sanchez, Juan Sebastian and Pardo, Ingrid Durley Torres and deMerino, Carmen Ysabel Martinez;REVISTA ELECTRONICA DE INVESTIGACION EDUCATIVA;2023;Web of Science (WoS);;25.0;"This paper identifies key research on the factors that help to explain
+university dropout and how these factors are being explored by means of
+artificial intelligence (AI). The study describes the methodology
+employed to select 31 papers from a repository of 2,745 reported in the
+literature. The analysis centered on the main AI methods used and four
+categories of explanatory factors of university dropout: academic
+factors; factors associated with motivation and study habits;
+institutional factors; and economic and sociodemographic factors. The
+conclusion drawn from this literature review is that AI is most commonly
+used for decision tree-based classification, and most studies focus on
+predicting university dropout on the basis of explanatory factors.";Article;10.24320/redie.2023.25.e18.4455;;"Parra-Sánchez, JS (Corresponding Author), Univ Catolico Luis Amigo, Medellin, Colombia.Parra-Sanchez, Juan Sebastian; Pardo, Ingrid Durley Torres; de Merino, Carmen Ysabel Martinez, Univ Catolico Luis Amigo, Medellin, Colombia.";;"dropping out; dropout rate; college students; artificial intelligence";UNIV AUTONOMA BAJA CALIFORNIA, INST INVESTIGACION \& DESARROLLOEDUCATIVO;;English;;Revisiones / Meta-análisis
+Classification of academic performance according to problematic internetuse in Latin American students of human medicine using the CHAID tree;Delor, Raul Real and Tirado, Alberto Guevara;EDUCACION MEDICA;2025;Web of Science (WoS);;26.0;"Introduction: Problematic internet use can impact the academic
+performance of medical students, but few studies in Latin America have
+explored this relationship using data mining. The objective was to
+classify academic performance according to problematic internet use in
+Latin American medical students. Material and methods: A cross-sectional
+analysis was conducted using the CHAID decision tree algorithm among
+medical students from Peru, Paraguay, and Cuba (n = 176). The model's
+predictive ability was assessed through a classification matrix,
+calculating sensitivity, specificity, positive and negative predictive
+values (PPV, NPV), likelihood ratios, and odds ratio (OR). Student's
+t-tests were used to compare academic self-assessment scores between
+students with and without problematic internet use, complemented by
+effect size calculations (Cohen's d). Results: The CHAID algorithm
+identified the frequency with which students perceived their academic
+performance to be affected by internet use as the main variable
+associated with performance (p < 0.001). The model correctly classified
+79.80\% of students with low performance and 59.60\% with good
+performance, with an overall accuracy of 73.30\%. Sensitivity was
+79.80\%, specificity 59.60\%, PPV = 80.50\%, and OR = 5.85 (95\% CI:
+2.66-12.87). Additionally, students not affected by problematic internet
+use reported significantly higher perceived academic performance scores
+(p < 0.001), with moderate to large effect sizes. Conclusions: The CHAID
+tree identified a strong association between the perception of academic
+performance being affected by problematic internet use and poor academic
+outcomes in medical students. (c) 2025 The Authors. Published by
+Elsevier Espana, S.L.U. This is an open access article under the";Article;10.1016/j.edumed.2025.101087;;Tirado, AG (Corresponding Author), Univ Cient Sur, Fac Med, Lima, Peru.Delor, Raul Real, Univ Autonoma San Sebastian, Fac Ciencias Salud, San Lorenzo, Paraguay.Tirado, Alberto Guevara, Univ Cient Sur, Fac Med, Lima, Peru.;;"Medical students; Academic performance; Internet use; Psychometrics;Decision trees; Data mining";ELSEVIER;1575-1813;Spanish;;Variable objetivo no es Deserción
+Application of Artificial Intelligence in Education: Models and tools topredict and improve academic performance towards an SDG perspective;Barrera-Camara, Ricardo A. and Fuentes-Penna, Alejandro andSanchez-Martinez, Fernando E. and Canepa-Saenz, Ana A. andTorres-Gonzalez, Miguel A.;INTERNATIONAL JOURNAL OF COMBINATORIAL OPTIMIZATION PROBLEMS ANDINFORMATICS;2025;Web of Science (WoS);64-72;16.0;"The application of artificial intelligence (AI) in education is
+analyzed, focusing on how various models and algorithms can predict and
+improve academic performance, in line with the Sustainable Development
+Goals (SDGs). A documentary and comparative approach was used to analyze
+recent research on machine learning techniques or algorithms, such as
+neural networks, SVM, KNN and decision trees, among others that are
+applied to the detection of underachievement and school failure. Tools
+that allow monitoring and anticipating academic performance were also
+reviewed. AI has a high potential to identify academic risk patterns,
+facilitating early interventions. If implemented ethically and
+strategically, it can contribute significantly to inclusive and quality
+education, supporting the achievement of the SDGs.";Article;10.61467/2007.1558.2025.v16i3.1131;;"Barrera-Cámara, RA (Corresponding Author), Univ Autonoma Carmen, Ciudad Del Carmen, Mexico.Barrera-Camara, Ricardo A.; Sanchez-Martinez, Fernando E.; Canepa-Saenz, Ana A., Univ Autonoma Carmen, Ciudad Del Carmen, Mexico.Fuentes-Penna, Alejandro, El Colegio Morelos, Cuernavaca, Mexico.Torres-Gonzalez, Miguel A., Univ Politecn Pachuca, Zempoala, Mexico.";;"Artificial Intelligence; education; academic performance; failure; ODS;Algorithms; model; techniques";INT JOURNAL COMBINATORIAL OPTIMIZATION PROBLEMS \& INFORMATICS;2007-1558;English;;Revisiones / Meta-análisis
+The analysis of emotions for academic performance prediction;Santos, William Marinho and Hedler, Helga Cristina and Ferneda, Edilsonand do Prado, Hercules Antonio and Adaid Castro, Breno Giovanni;NAVUS-REVISTA DE GESTAO E TECNOLOGIA;2022;Web of Science (WoS);;12.0;"Identification of emotions, especially in Distance Learning (DL)
+courses, can be relevant for managers who seek for improving the
+student's academic performance. This study aims to propose a
+computational tool for the identification of relationships between
+predominant emotions in the learning environment and the academic
+performance of students in the context of distance learning. For this,
+textual interactions in virtual learning environments (VLE) between
+teachers and students were used. Natural language processing techniques
+were used to analyze emotions in a corpus extracted from the databases
+of a VLE, complemented by identification and performance data obtained
+from the academic management system. The initial corpus consisted of
+1602 messages, with a levei of sentence granularity, exchanged in the
+context of a discipline offered in 2019. From these, 1347 (84.03\%) were
+selected, which could be classified according to the polarity of
+feelings (Positive, Negative or Neutral) and predominant emotions
+(Sadness, Joy, Fear, Aversion and Anger). The proposed tool was built
+over the APIs from IBM's Watson artificial intelligence environment.
+This tool has the potential to provide tutors and managers with useful
+information to make decisions to mitigate potential problems";Article;10.22279/navus.2022.v12.p01-15.1690;;"Santos, WM (Corresponding Author), Univ Catolica Brasilia UCB, Governanca Tecnol \& Inovacao, Brasilia, DF, Brazil.Santos, William Marinho, Univ Catolica Brasilia UCB, Governanca Tecnol \& Inovacao, Brasilia, DF, Brazil.Hedler, Helga Cristina, Univ Catolica Brasilia UCB, Psicol Social Trabalho \& Org, Brasilia, DF, Brazil.Ferneda, Edilson; do Prado, Hercules Antonio, Univ Catolica Brasilia UCB, Ciencia Comp, Brasilia, DF, Brazil.Adaid Castro, Breno Giovanni, Inst Educ Super Brasilia IESB, Ad";;"emotion analysis; educational data mining; academic performance";CENTRO UNIV SENAC;2237-4558;Portuguese;;Variable objetivo no es Deserción
+A review on the prediction of students' academic performance usingensemble methods;Contreras Bravo, Leonardo Emiro and Caro Silva, Joan Alejandro andMorales Rodriguez, Danna Lorena;INGENIERIA SOLIDARIA;2022;Web of Science (WoS);;18.0;"Introduction: This article is a product of the research ``Ensemble
+methods to estimate the academic performance of higher education
+students{''}, developed at the Universidad Distrital Francisco Jose de
+Caldas in the year 2021, focusing on the review of research work
+developed in the last five years related to the prediction of academic
+performance using ensemble algorithms.
+Objective: The literature review aims to identify the most used
+algorithms and the most relevant variables in the prediction of academic
+performance.
+Methodology: A systematic review of the literature was carried out in
+different academic databases (Science Direct, Scopus, SAGE Journals,
+EBSCO, ResearchGate, Google Scholar), using search equations built with
+keywords.
+Results: 54 related articles were found that meet the inclusion criteria
+of the review. Additionally, benefits were found in the application of
+ensemble methods in the prediction of academic performance.
+Conclusion: It was found that the most influential variables in academic
+performance correspond to the academic factor. The algorithm used that
+presents the best results is Random Forest; in addition to being the
+most used. The use of these algorithms is an accurate tool to predict
+academic performance at any stage of university life, and at the same
+time provide information to generate strategies to improve dropout and
+academic retention indicators.";Review;10.16925/2357-6014.2022.02.01;;"Bravo, LEC (Corresponding Author), Univ Dist Francisco Jose de Caldas, Fac Ingn, Bogota, Colombia.Contreras Bravo, Leonardo Emiro, Univ Dist Francisco Jose de Caldas, Fac Ingn, Bogota, Colombia.Caro Silva, Joan Alejandro; Morales Rodriguez, Danna Lorena, Univ Dist Francisco Jose de Caldas, Fac Ingn, Ingn Ind, Bogota, Colombia.";;"Educational Data Mining (EDM); Academic Performance; Machine Learning;Ensemble Methods";UNIV COOPERATIVE COLOMBIA, FAC ENGINEERING;1900-3102;English;;Revisiones / Meta-análisis
+Application of Machine Learning in Predicting Performance for ComputerEngineering Students: A Case Study;Buenano-Fernandez, Diego and Gil, David and Lujan-Mora, Sergio;SUSTAINABILITY;2019;Web of Science (WoS);;11.0;"The present work proposes the application of machine learning techniques
+to predict the final grades (FGs) of students based on their historical
+performance of grades. The proposal was applied to the historical
+academic information available for students enrolled in the computer
+engineering degree at an Ecuadorian university. One of the aims of the
+university's strategic plan is the development of a quality education
+that is intimately linked with sustainable development goals (SDGs). The
+application of technology in teaching-learning processes
+(Technology-enhanced learning) must become a key element to achieve the
+objective of academic quality and, as a consequence, enhance or benefit
+the common good. Today, both virtual and face-to-face educational models
+promote the application of information and communication technologies
+(ICT) in both teaching-learning processes and academic management
+processes. This implementation has generated an overload of data that
+needs to be processed properly in order to transform it into valuable
+information useful for all those involved in the field of education.
+Predicting a student's performance from their historical grades is one
+of the most popular applications of educational data mining and,
+therefore, it has become a valuable source of information that has been
+used for different purposes. Nevertheless, several studies related to
+the prediction of academic grades have been developed exclusively for
+the benefit of teachers and educational administrators. Little or
+nothing has been done to show the results of the prediction of the
+grades to the students. Consequently, there is very little research
+related to solutions that help students make decisions based on their
+own historical grades. This paper proposes a methodology in which the
+process of data collection and pre-processing is initially carried out,
+and then in a second stage, the grouping of students with similar
+patterns of academic performance was carried out. In the next phase,
+based on the identified patterns, the most appropriate supervised
+learning algorithm was selected, and then the experimental process was
+carried out. Finally, the results were presented and analyzed. The
+results showed the effectiveness of machine learning techniques to
+predict the performance of students.";Article;10.3390/su11102833;;Buenaño-Fernández, D (Corresponding Author), Univ Amer, Fac Ingn \& Ciencias Aplicadas, Av Granados E12-41 \& Colimes, EC-170125 Quito, Ecuador.Buenano-Fernandez, Diego, Univ Amer, Fac Ingn \& Ciencias Aplicadas, Av Granados E12-41 \& Colimes, EC-170125 Quito, Ecuador.Gil, David, Univ Alicante, Dept Tecnol Informat \& Comp, Alicante 03690, Spain.Lujan-Mora, Sergio, Univ Alicante, Dept Lenguajes \& Sistemas Informat, Alicante 03690, Spain.;;"educational data mining; learning analytics; machine learning; big data;prediction grades";MDPI;2071-1050;English;;Variable objetivo no es Deserción
+Evaluating the effectiveness of educational data mining techniques forearly prediction of students' academic failure in introductoryprogramming courses;Costa, Evandro B. and Fonseca, Baldoino and Santana, Marcelo Almeida andde Araujo, Fabrisia Ferreira and Rego, Joilson;COMPUTERS IN HUMAN BEHAVIOR;2017;Web of Science (WoS);247-256;73.0;"The data about high students' failure rates in introductory programming
+courses have been alarming many educators, raising a number of important
+questions regarding prediction aspects. In this paper, we present a
+comparative study on the effectiveness of educational data mining
+techniques to early predict students likely to fail in introductory
+programming courses. Although several works have analyzed these
+techniques to identify students' academic failures, our study differs
+from existing ones as follows: (i) we investigate the effectiveness of
+such techniques to identify students likely to fail at early enough
+stage for action to be taken to reduce the failure rate; (ii) we analyse
+the impact of data preprocessing and algorithms fine-tuning tasks, on
+the effectiveness of the mentioned techniques. In our study we evaluated
+the effectiveness of four prediction techniques on two different and
+independent data sources on introductory programming courses available
+from a Brazilian Public University: one comes from distance education
+and the other from on-campus. The results showed that the techniques
+analyzed in our study are able to early identify students likely to
+fail, the effectiveness of some of these techniques is improved after
+applying the data preprocessing and/or algorithms fine-tuning, and the
+support vector machine technique outperforms the other ones in a
+statistically significant way. (C) 2017 Elsevier Ltd. All rights
+reserved.";Article;10.1016/j.chb.2017.01.047;;"Costa, EB (Corresponding Author), Fed Univ Alagoas UFAL, Maceio, Brazil.Costa, Evandro B.; Fonseca, Baldoino; Santana, Marcelo Almeida, Fed Univ Alagoas UFAL, Maceio, Brazil.de Araujo, Fabrisia Ferreira, Fed Inst Alagoas IFAL, Palmeira Dos Indios, AL, Brazil.de Araujo, Fabrisia Ferreira, Univ Fed Campina Grande, Campina Grande, Brazil.Rego, Joilson, Fed Univ Rio Grande Norte UFRN, Natal, RN, Brazil.";;"Artificial intelligence in education; Automatic instructional planner;Automatic prediction; Educational data mining; Interactive learningenvironment; Learner modeling";PERGAMON-ELSEVIER SCIENCE LTD;0747-5632;English;;Variable objetivo no es Deserción
+Monte Carlo optimization for sampling selection in imbalanced dataapplied to student dropout prediction;Herrera, Dianela and Angel, Nicolas and Gonzalez, Diego and Curilef,Sergio;CHAOS;2025;Web of Science (WoS);;35.0;"University student completion rates vary among students who initially
+enroll in academic degrees and professional careers. Student dropout is
+a widespread global phenomenon that transcends both the type of degree
+pursued and the university attended. Traditionally, the greatest
+emphasis in corrective measures has been placed on improving academic
+performance and, to a lesser extent, on other variables that are
+overshadowed by the former but are equally impactful. Therefore, the
+current motivation is to develop an effective machine learning-based
+tool to identify students at a higher risk of dropping out early after
+1-3 years of study. We use a large dataset from the Universidad Cat \&
+oacute;lica del Norte to test the methodology. Machine learning specific
+tools are tested to verify their predictive capability, and their
+results are discussed to remark on their precise utility. Moreover, we
+address the class imbalance in the first-year data by implementing an
+innovative adjustment using the Monte Carlo methodology, improving model
+performance under imbalanced conditions. Indeed, the technique is mainly
+relevant to first-year dropout, where the dataset is more anomalous.
+Nevertheless, a level of improvement is observed in all cases studied.
+The ultimate goal is to identify at-risk students early to support the
+timely, effective, and proper implementation of preventive
+interventions.";Article;10.1063/5.0278602;;"Angel, N (Corresponding Author), Univ Catolica Norte, Dept Fis, Av Angamos 0610, Antofagasta 1240000, Chile.Herrera, Dianela; Angel, Nicolas; Gonzalez, Diego; Curilef, Sergio, Univ Catolica Norte, Dept Fis, Av Angamos 0610, Antofagasta 1240000, Chile.";;;AIP Publishing;1054-1500;English;;Variable objetivo no es Deserción
+A New Methodological Framework for Project Design to Analyse and PreventStudents from Dropping Out of Higher Education;Flores, Vaneza and Heras, Stella and Julian, Vicente;ELECTRONICS;2022;Web of Science (WoS);;11.0;"The problem of university dropout is a recurring issue in universities
+that affects students, especially in the first year of studies. The
+situation is aggravated by the COVID-19 pandemic, which has imposed a
+virtual education, generating a greater amount of data in addition to
+historical information, and thus, a greater demand for strategies to
+design projects based on Educational Data Mining (EDM). To deal with
+this situation, we present a framework for designing EDM projects based
+on the construction of a problem tree. The result is the proposal of a
+framework that merges the six phases of the CRISP-DM methodology with
+the first stage of the Logical Framework Methodology (LFM) to increase
+university retention. To illustrate this framework, we have considered
+the design of a project based on data mining to prevent students from
+dropping out of a Peruvian university.";Article;10.3390/electronics11182902;;"Julián, V (Corresponding Author), Univ Politecn Valencia UPV, Valencian Res Inst Artificial Intelligence VRAIN, Valencia 46022, Spain.Flores, Vaneza, Natl Univ Moquegua UNAM, Profess Sch Syst \& Comp Engn, Moquegua 18000, Peru.Flores, Vaneza; Heras, Stella; Julian, Vicente, Univ Politecn Valencia UPV, Valencian Res Inst Artificial Intelligence VRAIN, Valencia 46022, Spain.";;"CRISP-DM methodology; educational data mining; logical frameworkmethodology; designing projects; university dropout; universityretention";MDPI;2079-9292;English;;Variable objetivo no es Deserción
+Academic performance of higher education students: Predictions ofinfluencing factors from decision trees;Diaz-Landa, Brenda and Melean-Romero, Rosana and Marin-Rodriguez,William;TELOS-REVISTA DE ESTUDIOS INTERDISCIPLINARIOS EN CIENCIAS SOCIALES;2021;Web of Science (WoS);616-639;23.0;"The article aimed to predict the academic performance of students of
+master's degrees in education, having as main authors Camborda Zamudio
+(2014), Candia Oviedo (2019), Castrillon et al (2020), Hussain et al.
+(2018), Yarleque Wong (2019). The decision tree technique and data
+mining and tools provided by artificial intelligence were used to build
+a model with the J48 algorithm of the WEKA software, considering
+educational, family, socioeconomic, habits, and customs factors. The
+sample consisted of 237 students from a public university in Peru,
+obtaining a level of success through Cohen's Kappa coefficient of 66\%.
+The results show a methodology capable of training a system to classify
+a student based on one of the academic performance categories. This
+classification can a priori identify students with possible academic
+performance problems. As a result, accompanying and mitigation measures
+can be implemented immediately.";Article;10.36390/telos233.08;;Díaz-Landa, B (Corresponding Author), Univ Nacl Jose Faustino Sanchez Carrion, Sistemas, Huacho, Peru.Diaz-Landa, Brenda, Univ Nacl Jose Faustino Sanchez Carrion, Sistemas, Huacho, Peru.Melean-Romero, Rosana, Univ Zulia, Ctr Estudios Empresa CEE, Fac Ciencias Econ \& Sociales FCES, Maracaibo, Venezuela.Marin-Rodriguez, William, Univ Nacl Jose Faustino Sanchez Carrion, Lima, Peru.Marin-Rodriguez, William, Univ San Pedro, Lima, Peru.;;"decision tree; data mining; prediction; academic performance; WEKAsoftware";UNIV DR RAFAEL BELLOSO CHACIN;2343-5763;Spanish;;Variable objetivo no es Deserción
+Leveraging Artificial Intelligence for Sustainable Tutoring and DropoutPrevention in Higher Education: A Scoping Review on DigitalTransformation;Saltos, Washington Raul Fierro and Saltos, Fabian Eduardo Fierro andAlexandra, Veloz Segura Elizabeth and Guzman, Edgar Fabian Rivera;INFORMATION;2025;Web of Science (WoS);;16.0;"The increasing integration of artificial intelligence into educational
+processes offers new opportunities to address critical issues in higher
+education, such as student dropout, academic underperformance, and the
+need for personalized tutoring. This scoping review aims to map the
+scientific literature on the use of AI techniques to predict academic
+performance, risk of dropout, and the need for academic advising, with
+an emphasis on e-learning or technology-mediated environments. The study
+follows the Joanna Briggs Institute PCC strategy, and the review was
+reported following the PRISMA-ScR checklist for search reporting. A
+total of 63 peer-reviewed empirical studies (2019-2025) were included
+after systematic filtering from the Scopus and Web of Science databases.
+The findings reveal that supervised machine learning models, such as
+decision trees, random forests, and neural networks, dominate the field,
+with an emerging interest in deep learning, transfer learning, and
+explainable AI. Academic, behavioral, emotional, and contextual
+variables are integrated into increasingly complex and interpretable
+models. Most studies focus on undergraduate students in digital and
+hybrid learning contexts, particularly in regions with high dropout
+rates. The review highlights the potential of AI to enable early
+intervention and improve the effectiveness of tutoring systems, while
+noting limitations such as lack of model generalization and ethical
+concerns. Recommendations are provided for future research and
+institutional integration.";Review;10.3390/info16090819;;"Alexandra, VSE (Corresponding Author), Univ Estatal Bolivar, Fac Ciencias Educ Sociales Filosof \& Humanist, Guaranda 020150, Ecuador.Saltos, Washington Raul Fierro; Alexandra, Veloz Segura Elizabeth, Univ Estatal Bolivar, Fac Ciencias Educ Sociales Filosof \& Humanist, Guaranda 020150, Ecuador.Saltos, Fabian Eduardo Fierro, Univ Estatal Bolivar, Fac Ciencias Adm Gest Empresarial \& Informat, Guaranda 020150, Ecuador.Guzman, Edgar Fabian Rivera, Univ Estatal Bolivar, Ingn Agroind, Guaranda 02";;"artificial intelligence; academic performance; dropout prediction;tutoring systems; higher education; innovative learning; machinelearning";MDPI;;English;;Revisiones / Meta-análisis
+Lessons learned from the student dropout patterns on COVID-19 pandemic:An analysis supported by machine learning;Colpo, Miriam Pizzatto and Primo, Tiago Thompsen and de Aguiar, MariltonSanchotene;BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY;2024;Web of Science (WoS);560-585;55.0;"During the COVID-19 pandemic, the challenges associated with the
+transition from face-to-face to emergency remote education increased
+concerns about student dropout. Aligned with this concern, this study
+investigates the impact of the pandemic on the dropout patterns of 3371
+undergraduate students from a Brazilian institution. Using data mining
+and machine learning techniques, we developed predictive dropout models
+based on student data preceding and succeeding the onset of the
+pandemic. Through the interpretation and comparison of these models and
+with the support of statistical and graphical analyses, we identify that
+the patterns persistently indicate that young students in their initial
+semesters, characterized by lower income, academic performance, and
+interaction, remain most susceptible to dropping out. Despite the
+pandemic leading to an enhanced predictive capability of data regarding
+student interaction within the virtual learning environment, our
+analysis revealed a lack of significant variation in dropout patterns.
+Institutionally, this indicates that a considerable number of dropouts
+likely encountered challenges in adapting to higher education, both
+before and throughout the pandemic.";Article;10.1111/bjet.13380;;"Colpo, MP (Corresponding Author), Inst Fed Educ Ciencia \& Tecnol Farroupilha, Diretoria Tecnol Informacao, Alameda Santiago Chile 195, BR-97050685 Santa Maria, RS, Brazil.Colpo, Miriam Pizzatto; Primo, Tiago Thompsen; de Aguiar, Marilton Sanchotene, Univ Fed Pelotas UFPel, Programa Posgrad Computacao, Pelotas, Brazil.Colpo, Miriam Pizzatto, Inst Fed Educ Ciencia \& Tecnol Farroupilha IFFar, Diretoria Tecnol Informacao, Santa Maria, Brazil.Colpo, Miriam Pizzatto, Inst Fed Educ Ciencia \& Tecn";;"COVID-19; educational data mining; machine learning; student dropout";WILEY;0007-1013;English;;Variable objetivo no es Deserción
+Early Detection of Students at High Risk of Academic Failure usingArtificial Intelligence;Nunez, Antonio alvarez and Diaz, Maria del Carmen Santiago and Vazquez,Ana Claudia Zenteno and Marcial, Judith Perez and Linares, GustavoTrinidad Rubin;INTERNATIONAL JOURNAL OF COMBINATORIAL OPTIMIZATION PROBLEMS ANDINFORMATICS;2024;Web of Science (WoS);155-160;15.0;"The academic performance of students in Mexico has a great impact on the
+social and economic development of the country. Early detection of
+students at academic risk is necessary to improve educational quality
+and reduce school dropouts. This work presents a proposal that uses a
+predictive model based on Logistic Regression to identify students at
+high risk of academic failure and its usefulness to provide proactive
+and personalized support to those who need it. In addition, an overview
+of the impact of Artificial Intelligence and Machine Learning in
+education is presented, especially in predicting student dropout and
+supporting academic performance, allowing us to take an important step
+towards a more promising and successful educational future for students.
+students.";Article;10.61467/2007.1558.2024.v15i5.573;;"Núnez, AA (Corresponding Author), Benemerita Univ Autonoma Puebla, Fac Ciencias Comp, Av 14 \& San Claudio, Puebla 72570, Pue, Mexico.Nunez, Antonio alvarez; Diaz, Maria del Carmen Santiago; Vazquez, Ana Claudia Zenteno; Marcial, Judith Perez; Linares, Gustavo Trinidad Rubin, Benemerita Univ Autonoma Puebla, Fac Ciencias Comp, Av 14 \& San Claudio, Puebla 72570, Pue, Mexico.";;"Failure; School Dropout; Academic Performance; Artificial Intelligence;Logistic Regression";INT JOURNAL COMBINATORIAL OPTIMIZATION PROBLEMS \& INFORMATICS;2007-1558;English;;Revisiones / Meta-análisis
+Selection of Candidates in the Absence of a College Entrance Exam;Zuniga, Luis Horacio Pedroza and Garcia, Alma Yadhira Lopez and Cetzal,Rubi Surema Peniche and Saucedo, Jessica Najera;REVISTA ELECTRONICA DE INVESTIGACION EDUCATIVA;2022;Web of Science (WoS);ene-15;24.0;"Given the exceptional circumstances of the COVID-19 pandemic and the
+problems faced in conducting mass student examinations, this article
+explores alternatives to an in-person exam to select candidates hoping
+to gain admission to higher education institutions, based on available
+information about students and their schools. Census-based information
+on entrance evaluations for six annual cohorts is used to obtain a
+predictive model that incorporates candidates' average grades and the
+historical performance of their schools of origin, measured through
+EXANI II. The results allow us to identify a model able to correlate to
+.69 the estimated and actual scores; additional scenarios were proposed
+with greater levels of prediction (r= .86). A discussion is offered on
+the implications of using high school grades, in light of their power to
+predict academic performance in higher education.";Article;10.24320/redie.2022.24.e14.4611;;"Zúñiga, LHP (Corresponding Author), Univ Autonoma Baja Calif, Ensenada, Baja California, Mexico.Zuniga, Luis Horacio Pedroza, Univ Autonoma Baja Calif, Ensenada, Baja California, Mexico.Garcia, Alma Yadhira Lopez, Learning Bar, Toronto, ON, Canada.Cetzal, Rubi Surema Peniche; Saucedo, Jessica Najera, Univ Autonoma Aguascalientes, Aguascalientes, Aguascalientes, Mexico.";;"academic achievement; entrance examination; admission requirements;prior learning evaluation; regression analysis";UNIV AUTONOMA BAJA CALIFORNIA, INST INVESTIGACION \& DESARROLLOEDUCATIVO;;Spanish;;No pertenece a Educación Superior
+THE ROLE OF POSITIVE EMOTIONS IN PSYCHOLOGICAL CAPITAL, ENGAGEMENT ANDACADEMIC PERFORMANCE: A STUDY IN THE CHILEAN SCHOOL CONTEXT;Carmona-Halty, Marcos and Miguel Villegas-Robertson, Jose andMarin-Gutierrez, Mauricio;INTERCIENCIA;2019;Web of Science (WoS);586-592;44.0;"The study examines the predictive role of positive emotions in
+psychological capital, engagement and academic performance, in a sample
+of 1142 Chilean secondary school adolescents aged 14-17 (M=15.83;
+SD=1.78). For this purpose, the three psychological constructs were
+measured in the middle of a regular academic semester and then, at the
+end of that semester, the students' academic performance was recorded.
+Through the analysis of structural equations, the adjustment of a
+predictive model of latent variables was examined. The results show
+significant effects for the three dependent variables considered. The
+theoretical and practical implications of the results are discussed, the
+main limitations of the study are declared, and future directions of
+research are proposed.";Article;;;Carmona-Halty, M (Corresponding Author), Univ Tarapaca, Escuela Psicol \& Filosofia, Avda 18 Septiembre 2222, Arica, Chile.Carmona-Halty, Marcos, Univ Tarapaca, Escuela Psicol \& Filosofia, Avda 18 Septiembre 2222, Arica, Chile.Miguel Villegas-Robertson, Jose, Univ Tarapaca, Iquique, Chile.Marin-Gutierrez, Mauricio, Univ Tarapaca, Psicol, Iquique, Chile.;;;INTERCIENCIA;0378-1844;Spanish;;No pertenece a Educación Superior
+Use of Machine Learning to Measure the Influence of Behavioral andPersonality Factors on Academic Performance of Higher Education Students;Martinez, R. and Alvarez-Xochihua, O. and Mejia, O. and Jordan, A. andGonzalez-Fraga, J.;IEEE LATIN AMERICA TRANSACTIONS;2019;Web of Science (WoS);633-641;17.0;"Quality of education and improvement of school achievement has been
+linked to students' cognitive, behavioral and personality trait factors.
+Several researchers have investigated the correlation between these
+factors and students' academic performance. Particularly, it is assumed
+that behavioral and personality factors, such as study habits and
+self-esteem, have a positive and high relationship with students'
+academic achievement. However, research studies have shown a weak and
+inconsistent linear correlation level. Hence, research about better
+representation methods is needed. In this article we present and discuss
+the results from two studies on the influence of study habits and
+self-esteem on the academic performance of 153 college freshman
+students. First, we analyzed the linear correlation between our target
+variables; similar to previous work, we found a weak positive
+correlation between academic performance and study habits (r=0.283) and
+self-esteem (r=0.214). In addition, multiple linear regression was used
+to explain the relationship between these variables; it was found that
+the independent variables only explain the academic performance in
+6.18\%. Second, we propose to use K-means, an unsupervised clustering
+algorithm, as a better method to explain the influence of behavioral and
+personality factors and students' academic performance. Through the use
+of this method: 1) a predictive model of the academic performance is
+proposed, 2) it was achieved a better representation about the influence
+among the target variables, and 3) a set of students' academic profiles
+was created: low, medium and high. We found that 80\% of the students
+with a high level of self-esteem and study habits (high academic
+profile) obtained a good or outstanding academic performance;
+outperforming students within the medium and low academic profiles by a
+significantly margin.";Article;10.1109/TLA.2019.8891928;;"Martínez, R (Corresponding Author), Univ Autonoma Baja California, Fac Ciencias, Mexicali, BC, Mexico.Martinez, R.; Alvarez-Xochihua, O.; Jordan, A.; Gonzalez-Fraga, J., Univ Autonoma Baja California, Fac Ciencias, Mexicali, BC, Mexico.Mejia, O., Univ Autonoma Baja California, Fac Ciencias Adm \& Sociales, Mexicali, BC, Mexico.";;"Academic performance; behavioral and personality factors; clustering;machine learning";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;1548-0992;English;;Variable objetivo no es Deserción
+Machine Learning Model through Ensemble Bagged Trees in PredictiveAnalysis of University Teaching Performance;Chamorro-Atalaya, Omar and Chavez-Herrera, Carlos and Anton-De losSantos, Marco and Anton-De los Santos, Juan and Torres-Quiroz, Almintorand Leva-Apaza, Antenor and Tasayco-Jala, Abel and Peralta-Eugenio,Gutember;INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS;2021;Web of Science (WoS);367-373;12.0;"The objective of this study is to analyze and discuss the metrics of the
+Machine Learning model through the Ensemble Bagged Trees algorithm,
+which will be applied to data on satisfaction with teaching performance
+in the virtual environment. Initially the classification analysis
+through the Matlab R2021a software, identified an Accuracy of 81.3\%,
+for the Ensemble Bagged Trees algorithm. When performing the validation
+of the collected data, and proceeding with the obtaining of the
+predictive model, for the 4 classes (satisfaction levels), total
+precision values of 82.21\%, Sensitivity of 73.40\%, Specificity of
+91.02\% and of 90.63\% Accuracy. In turn, the highest level of the area
+under the curve (AUC) by means of the Receiver operating characteristic
+(ROC) is 0.93, thus considering a sensitivity of the predictive model of
+93\%. The validation of these results will allow the directors of the
+higher institution to have a database, to be used in the process of
+improving the quality of the educational service in relation to teaching
+performance.";Article;;;"Chamorro-Atalaya, O (Corresponding Author), Univ Nacl Tecnol Lima Sur, Fac Ingn \& Gest, Lima, Peru.Chamorro-Atalaya, Omar, Univ Nacl Tecnol Lima Sur, Fac Ingn \& Gest, Lima, Peru.Chavez-Herrera, Carlos, Univ Nacl Mayor San Marcos, Fac Ingn Sistemas \& Informat, Lima, Peru.Anton-De los Santos, Marco; Anton-De los Santos, Juan, Univ Nacl Federico Villarreal, Fac Ciencias Econ, Lima, Peru.Torres-Quiroz, Almintor, Univ Nacl Callao, Fac Ciencias Econ, Lima, Peru.Leva-Apaza, Antenor, Univ Tecnol";;"Machine learning; ensemble; bagged trees; predictive analysis; teachingperformance";SCIENCE \& INFORMATION SAI ORGANIZATION LTD;2158-107X;English;;Variable objetivo no es Deserción
+Early and Dynamic Socio-Academic Variables Related to Dropout Intention:A Predictive Model Made during the Pandemic;Maluenda-Albornoz, Jorge and Infante-Villagran, Valeria andGalve-Gonzalez, Celia and Flores-Oyarzo, Gabriela and Berrios-Riquelme,Jose;SUSTAINABILITY;2022;Web of Science (WoS);;14.0;"Social and academic integration variables have been shown to be relevant
+for the understanding of university dropout. However, there is less
+evidence regarding the influence of these variables on dropout
+intention, as well as the predictive models that explain their
+relationships. Improvements in this topic become relevant considering
+that dropout intention stands as a useful measure to anticipate and
+intervene this phenomenon. The objective of the present study was to
+evaluate a predictive model for university dropout intention that
+considers the relationships between social and academic variables during
+the first university semester of 2020. The research was conducted using
+a cross-sectional associative-predictive design, with a convenience
+sampling (n = 711) due to the restrictions of the pandemic period. The
+results showed a good fit of the proposed hypothetical model that
+explained 38.7\% of dropout intention. Both social support and perceived
+social isolation predicted the sense of belonging and, through it,
+engagement. Previous academic performance predicted early academic
+performance and, through it, engagement. The set of variables predicted
+the intention to quit through engagement. These results are a
+contribution both to the understanding of the phenomenon and to guide
+potential interventions in the early stages of the university
+experience.";Article;10.3390/su14020831;;Maluenda-Albornoz, J (Corresponding Author), Univ San Sebastian, Fac Psicol, Concepcion 4080871, Chile.Maluenda-Albornoz, Jorge, Univ San Sebastian, Fac Psicol, Concepcion 4080871, Chile.Infante-Villagran, Valeria, Univ Concepcion, Dept Psicol, Programa Doctorado Psicol, Concepcion 4070386, Chile.Galve-Gonzalez, Celia, Univ Oviedo, Dept Psicol, Oviedo 33003, Spain.Berrios-Riquelme, Jose, Univ Tarapaca, Dept Ciencias Sociales, Iquique 1113749, Chile.;;"dropout intention; perceived social isolation; perceived social support;engagement; sense of belonging; higher education";MDPI;;English;;Variable objetivo no es Deserción
+Analysis of Data Mining Techniques for Constructing a Predictive Modelfor Academic Performance;Merchan, S. M. and Duarte, J. A.;IEEE LATIN AMERICA TRANSACTIONS;2016;Web of Science (WoS);2783-2788;14.0;"This paper presents and analyzes the experience of applying certain data
+mining methods and techniques on 932 Systems Engineering students' data,
+from El Bosque University in Bogota, Colombia; effort which has been
+pursued in order to construct a predictive model for students' academic
+performance. Previous works were reviewed, related with predictive model
+construction within academic environments using decision trees,
+artificial neural networks and other classification techniques. As an
+iterative discovery and learning process, the experience is analyzed
+according to the results obtained in each of the process' iterations.
+Each obtained result is evaluated regarding the results that are
+expected, the data's input and output characterization, what theory
+dictates and the pertinence of the model obtained in terms of prediction
+accuracy. Said pertinence is evaluated taking into account particular
+details about the population studied, and the specific needs manifested
+by the institution, such as the accompaniment of students along their
+learning process, and the taking of timely decisions in order to prevent
+academic risk and desertion. Lastly, some recommendations and thoughts
+are laid out for the future development of this work, and for other
+researchers working on similar studies.";Article;10.1109/TLA.2016.7555255;;Merchán, SM (Corresponding Author), Univ El Bosque, Grp Invest OSIRIS\&BioAxis, Bogota, Colombia.Merchan, S. M., Univ El Bosque, Grp Invest OSIRIS\&BioAxis, Bogota, Colombia.Duarte, J. A., Univ El Bosque, Ingn Sistemas, Bogota, Colombia.;;"Data mining; Predictive modeling; Academic risk prevention; Academicperformance; Educational data mining";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;1548-0992;Spanish;;Revisiones / Meta-análisis
+Student Dropout Predictive Model Using Data Mining Techniques;Amaya, Y. and Barrientos, E. and Heredia, D.;IEEE LATIN AMERICA TRANSACTIONS;2015;Web of Science (WoS);3127-3134;13.0;"Data mining allows discover hidden information in large amounts of data,
+which is very difficult to visualize with traditional process. This
+topic of computer science permits manipulation and classification of
+huge amounts of data. C4.5 and ID3 decision tree, for example, have been
+proven to be efficient for specific prediction cases. This article shows
+the construction of a predictive model of student dropout,
+characterizing students at the University Simon Bolivar in order to
+predict the probability that a student drop out his/her an academic
+program, by means of two data mining techniques and comparison of
+results. To create the model was used WEKA that allows multiple and
+efficient tools for data processing.";Article;;;"Amaya, Y (Corresponding Author), Univ Francisco de Paula Santander, Ocana, Colombia.Amaya, Y.; Barrientos, E., Univ Francisco de Paula Santander, Ocana, Colombia.Heredia, D., Univ Simon Bolivar, Barranquilla, Colombia.";;"Data Mining; predictive model; Students; Student drop out";IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;1548-0992;Spanish;;Variable objetivo no es Deserción
+Exploring Behavioral Patterns in Chile's Higher Education: A Data-Driven Approach Using OLAP Techniques;Labarca, Carlos and Antunez, Sebastian and Peralta, Billy and Schwarzenberg, Pablo and Quinsacara, Paulo and Levano, Marcos;;2024;IEEE Xplore;1-jun;;Over the years, the issue of education in Chile has persisted, directly impacting national development, particularly in terms of the quality and quantity of professionals effectively integrating into society and contributing to the country's progress. Despite significant initiatives aimed at facilitating access to higher education, these measures seem to fall short of full effectiveness. To address this challenge, publicly available data from the Ministry of Education will be utilized, employing OLAP tools to identify behavioral patterns that can inform the construction of a predictive model regarding delays in graduation processes and dropout rates in higher education. The resulting data cube will be made publicly available to the scientific community, aiming to foster collaborative efforts in tackling these educational challenges.;;10.1109/ICSAI65059.2024.10893770;;;;"Data analysis;Education;Collaboration;Predictive models;Delays;Informatics;Higher education;OLAP;Graduation";;2689-7148;;;Variable objetivo no es Deserción
+Monitoring and Predicting Performance of Students in Degree Programs using Machine Learning;Kumar, G. Saravana and De la Cruz-Cámaco, Dante and Ravichand, M. and Joshi, Kapil and Gupta, Zatin and Gupta, Sakshi;;2023;IEEE Xplore;1311-1315;;In higher education, it is frequently necessary to find a solution to the issue of student retention. Managers and scholars in the field frequently rely entirely and expertise to recognise potential risk factors and students. This study looks at the research on the approaches and metrics being used now in learning analytics. While there are techniques available, our research shows that they are not focused on identifying difficult pupils as soon as possible. With the use of contemporary computer vision tools and methodologies, we design a novel statistical tool for class participation and develop a predictive model. It shows how pupils may be identified with 97% accuracy as early about week three. Additionally, we place this finding in a suitable pedagogical framework to support its application as a component of a more complete student assistance system. There is a wealth of publicly available learning data that can be utilised to analyse individual student behaviour, address their issues, improve the instructional climate, and enable data-driven choices, thanks to the support of software learning platforms. Based on that, the paper focuses on developing a system that can effectively monitor and predict the performance of students in degree programs by using the evolving machine learning. As retention of students has becoming a serious concern, it was necessary to develop performance monitoring and predicting system. Using a comprehensive research methodology this study has analysed all relevant information to the topic to draw an effective conclusion at the end.;;;;;;"Measurement;Systematics;Machine learning;Predictive models;Data models;Software;Indexes;Machine Learning;Matrix factorization";;;;;Variable objetivo no es Deserción
+Analysis of Student Dropout in Industrial Engineering Students Using Computational Intelligence Techniques;Tenjo-García, Jhoan Sebastian and Figueroa-García, Juan Carlos;;2024;IEEE Xplore;1-jun;;"Industrial Engineering attracts diverse students because it offers versatile career opportunities; however, student attrition remains a significant concern. This study employs computational intelligence techniques to analyze a data set from the U niversidad Distrital Francisco Jose de Caldas. Through data refinement processes, including statistical analysis, clustering methods and predictive modeling, our goal is to ensure data integrity and unveil the dynamics of student dropout in Industrial Engineering. We also present the effectiveness of computational intelligence in understanding dropout behavior. The study provides valuable information for education professionals and policymakers.";;10.1109/EDUNINE60625.2024.10500602;;;;"Analytical models;Statistical analysis;Computational modeling;Industrial engineering;Predictive models;Data models;Robustness;Student Dropout;Computational Intelligence;Clustering Techniques;Data Refinement;Predictive Modeling;Educational Insights";;;;;Variable objetivo no es Deserción
+Model for the Prediction of Dropout in Higher Education in Peru applying Machine Learning Algorithms: Random Forest, Decision Tree, Neural Network and Support Vector Machine;Jiménez, Omar and Jesús, Ashley and Wong, Lenis;;2023;IEEE Xplore;116-124;;University dropout is a problem that not only affects students, but also families, universities, society, and others. This problem has a global character, so it is common to identify it in different parts of the world. However, there are few solutions that efficiently take advantage of available technology and information. Therefore, this study implements a predictive analysis model to identify students at risk of dropout in Peruvian universities and the variables that influence it. For this purpose, the Cross Industry Standard Process for Data Mining (CRISP - DM) methodology is used to develop the model and four Machine Learning algorithms. The methodology consists of five phases: business understanding, data understanding, data preparation, modeling, and evaluation. The experiment was carried out by conducting a survey to 385 students from different public and private universities in Peru, where cognitive, affective, family environment, pre-university, career and university variables were considered. The results showed that the most influential variables in the prediction of university dropout were “age”, “term” and the student's “financing method”. We also found that the Random Forest algorithm obtained the best performance, with an AUC of 0.9623 in the prediction of college dropout.;;10.23919/FRUCT58615.2023.10143068;;;;"Surveys;Support vector machines;Technological innovation;Machine learning algorithms;Predictive models;Prediction algorithms;Data models";;2305-7254;;;Revisiones / Meta-análisis
+Model based on Machine Learning to alert early on the academic performance that a Systems Engineering student would have upon graduation;Zelada-Valdivieso, Héctor;;2021;IEEE Xplore;1-abr;;Academic performance is very important evidence that shows the quality of educational programs, because many interest groups expect universities to adequately prepare their students. However, there are different studies that show that recent graduates do not have the skills required by the labor market. In this sense, a review of the literature was made regarding technological solutions related to alerts, prediction or early measurement of the graduate's academic performance, finding that the vast majority of research focused on predicting academic performance in classroom or classroom courses. virtual or in the prediction of student dropout, but the issue of early prediction of the academic performance that a student should upon graduation has not been studied much. Due to this, a computational model based on Machine Learning was developed that allows early warning of the academic performance that a Systems Engineering student would have upon graduation and in this way improvement actions can be proposed before the students leave the university. For this, the CRISP-DM methodology were used, arriving to determine that the model trained with Ensemble (Subspace discriminant) obtained greater precision: 81.4%.;;10.1109/ICALTER54105.2021.9675117;;;;"Mathematical models;Matlab;Machine learning;Support vector machines;Computational modeling;Data mining;Visualization;Prediction;Academic Performance;Graduate;Machine Learning";;;;;Revisiones / Meta-análisis
+Predictive Analysis of Student Dropout in the Computer Science Program at the University of Brasilia;Garcia, Giovana Pinho and Holanda, Maristela and Mandelli, Marcelo and Moreira, Jonathan Rosa and Da Silva, Dilma;;2025;IEEE Xplore;1-ago;;Student dropout is a major challenge in Brazilian public higher education, particularly in computer science programs, where rates can exceed 40%. As most of Brazil's top universities are public and tuition-free, high dropout rates not only affect individual academic paths but also strain the broader educational system. This study investigates dropout factors beyond academic performance, incorporating socioeconomic variables, university admission methods, and the effects of the 2012 Quota Law, which reserves 25% of university admission slots for low-income students. This research explores how educational data mining, enhanced by socio-economic data, could identify key predictors of dropout in computer science programs. Using student data collected from a top federal university over the period 2013-2020, the study applies three machine learning algorithms - Gradient Boosting Machine (GBM), Support Vector Machine (SVM), and Random Forest (RF) - to build predictive models. The results show that the models achieved over 90% accuracy in predicting dropout. The most significant predictors include Grade Point Average (GPA), performance in introductory programming courses, and the mode of admission. These findings offer valuable insights for university administrators seeking to reduce dropout rates. While the study focuses on one institution, its implications extend across Brazil's federal university system, where similar admission and evaluation policies are employed. The findings suggest that combining academic and socio-economic data can inform more effective retention strategies in computer science programs.;;10.1109/FIE63693.2025.11328687;;;;"Support vector machines;Radio frequency;Machine learning algorithms;Predictive models;Data mining;Socioeconomics;Predictive analytics;Random forests;Programming profession;Strain;Educational data mining;dropout rates;predictive models;dropout in Computer Science";;2377-634X;;;Variable objetivo no es Deserción
+AI-Based Application to Predict Student Dropout in the National Learning Service SENA;Cabrera, Erika and Ramírez, Gabriel M. and Diaz, Jaime and Moreira, Fernando;;2023;IEEE Xplore;1-abr;;We created a web application for the National Learning Service (NLS) in Colombia to identify students who are at risk of dropping out. This application helps the Student Welfare Department offer support to those who need it. We collected data on socio-economic variables that contributed to academic dropout and used it to develop the software. We explored different artificial intelligence techniques in the Machine Learning area and selected the best algorithm to integrate into the software. The resulting software has improved processes at NLS and can benefit other higher education institutions.;;10.1109/JICV59748.2023.10565734;;;;"Machine learning algorithms;Software algorithms;Education;Machine learning;Prediction algorithms;Software;School dropout;Higher Education;Colombia;Artificial Intelligence;Machine Learning";;;;;No pertenece a Educación Superior
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
