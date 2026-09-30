@@ -1,0 +1,11 @@
+﻿ID,Type,Description,Methodological_Rationale
+"I1,Inclusion,""Published in peer-reviewed journals or conference proceedings between January 2020 and March 2026"",""Guarantees methodological and technological currency."""
+"I2,Inclusion,""Evaluates empirical machine learning, educational data mining, or statistical classification models to predict undergraduate student dropout"",""Ensures direct domain alignment with the research scope."""
+"I3,Inclusion,""Explicit reporting of quantitative classification performance metrics (e.g., Accuracy, F1-Score, Recall, AUC-ROC, PR-AUC)"",""Enables rigorous quantitative evidence synthesis."""
+"I4,Inclusion,""Focuses on undergraduate higher education student cohorts in tertiary institutions"",""Delimits the target educational level."""
+"I5,Inclusion,""Empirical dataset and predictive models originate from Latin American higher education institutions"",""Guarantees regional, contextual, and institutional relevance."""
+"E1,Exclusion,""Primary studies published prior to 2020"",""Excludes obsolete predictive architectures and legacy methodologies."""
+"E2,Exclusion,""Systematic reviews, opinion papers, short abstracts, books, or non-peer-reviewed preprints"",""Ensures peer-reviewed empirical validation."""
+"E3,Exclusion,""Studies lacking algorithmic implementation details, feature definitions, or clear performance evaluation metrics"",""Guarantees reproducibility and extraction integrity."""
+"E4,Exclusion,""Studies focused exclusively on primary, secondary, or vocational K-12 education cohorts"",""Enforces strict higher education scope boundary."""
+"E5,Exclusion,""Empirical datasets originating exclusively from non-Latin American institutions (e.g., USA, Europe, Asia)"",""Ensures geographic and structural context consistency."""
