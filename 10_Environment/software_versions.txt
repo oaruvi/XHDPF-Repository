@@ -1,0 +1,36 @@
+================================================================================
+XHDPF EXPERIMENTAL COMPUTING ENVIRONMENT SPECIFICATIONS
+================================================================================
+
+1. HARDWARE ARCHITECTURE
+--------------------------------------------------------------------------------
+- Central Processing Unit (CPU): Intel(R) Xeon(R) Gold 6226R @ 2.90GHz
+  * Physical Cores: 16
+  * Logical Threads: 32
+  * L3 Cache: 22 MB
+- System Memory (RAM): 64 GB DDR4 @ 2933 MHz
+- Graphics Processing Unit (GPU): NVIDIA GeForce RTX 4090
+  * VRAM: 24 GB GDDR6X
+  * CUDA Cores: 16,384
+  * Memory Bus: 384-bit
+
+2. OPERATING SYSTEM & KERNEL
+--------------------------------------------------------------------------------
+- OS Distribution: Ubuntu 22.04.3 LTS (Jammy Jellyfish)
+- Linux Kernel: 5.15.0-91-generic (x86_64)
+- System Architecture: x86_64
+
+3. GPU DRIVERS & ACCELERATION STACK
+--------------------------------------------------------------------------------
+- NVIDIA Display Driver: 535.129.03
+- CUDA Toolkit: 12.1.1
+- cuDNN Library: 8.9.2.26
+- NCCL Version: 2.18.3
+
+4. CORE SOFTWARE & RUNTIME
+--------------------------------------------------------------------------------
+- Python Interpreter: 3.10.12 (GCC 11.4.0, 64-bit)
+- PyTorch Framework: 2.1.2+cu121
+- Conda Package Manager: 23.10.0
+- Pip Version: 23.3.1
+================================================================================
