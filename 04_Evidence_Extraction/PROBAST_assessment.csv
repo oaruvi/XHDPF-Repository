@@ -1,0 +1,157 @@
+Study_ID,Participants_Risk,Predictors_Risk,Outcome_Risk,Analysis_Risk,Overall_PROBAST_Tier,High_Risk_Drivers
+ART111_SCP,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART115_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance
+ART119_SCP,High,Low,High,High,High,Unreported sample size; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART11_SCP,Low,Moderate,Low,Low,Low,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART12_SCP,Low,Moderate,Low,Low,Low,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART13_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART143_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART144_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART147_SCP,Low,Low,Low,High,Moderate,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART155_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART157_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART18_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance
+ART19_SCP,High,Moderate,High,High,High,Unreported sample size; Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART23_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART24_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART26_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART31_SCP,High,Low,High,High,High,Unreported sample size; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART32_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART33_SCP,Low,Moderate,High,High,High,Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART34_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance
+ART35_SCP,Low,Moderate,High,High,High,Single-domain predictor scope; Ambiguous target variable definition; Accuracy as sole metric or unreported metrics
+ART36_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART37_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART38_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART39_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART3_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART41_SCP,High,Low,High,High,High,Unreported sample size; Ambiguous target variable definition; Unmitigated class imbalance
+ART45_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART46_SCP,High,Moderate,High,High,High,Unreported sample size; Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART52_SCP,Low,Low,High,High,High,Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART54_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART56_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance
+ART60_SCP,Low,Moderate,High,High,High,Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART64_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART66_SCP,Low,Moderate,High,High,High,Single-domain predictor scope; Ambiguous target variable definition; Accuracy as sole metric or unreported metrics
+ART67_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART70_SCP,Low,Moderate,High,High,High,Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART71_SCP,Low,Low,Low,Moderate,Low,Absence of threshold-independent metrics
+ART75_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART79_SCP,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART7_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART85_SCP,High,Moderate,High,High,High,Unreported sample size; Single-domain predictor scope; Ambiguous target variable definition; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART86_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART87_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART88_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART89_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART91_SCP,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART93_SCP,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART94_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART95_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART158_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART161_SCP,Low,Low,Low,High,High,Unmitigated class imbalance
+ART163_SCP,Low,Low,Low,Moderate,Low,Absence of threshold-independent metrics
+ART167_SCP,Low,High,Low,Moderate,Moderate,Unreported predictor taxonomy; Absence of threshold-independent metrics
+ART168_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART172_SCP,Low,Low,Low,Moderate,Low,Absence of threshold-independent metrics
+ART174_SCP,Low,Low,Low,High,High,Unmitigated class imbalance
+ART176_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART177_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART180_SCP,Low,Low,Low,Low,Low,None (Fully compliant methodology)
+ART181_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Absence of threshold-independent metrics
+ART183_SCP,Low,Low,Low,High,High,Unmitigated class imbalance
+ART184_SCP,Low,Moderate,Low,Moderate,Moderate,Single-domain predictor scope; Absence of threshold-independent metrics
+ART189_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART190_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART191_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART192_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART193_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART194_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance
+ART196_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART197_SCP,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART199_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART204_SCP,Low,Moderate,Low,Moderate,Moderate,Single-domain predictor scope; Absence of threshold-independent metrics
+ART205_SCP,Low,Moderate,Low,Moderate,Moderate,Single-domain predictor scope; Absence of threshold-independent metrics
+ART206_SCP,Low,Moderate,Low,Moderate,Moderate,Single-domain predictor scope; Absence of threshold-independent metrics
+ART207_SCP,Low,Low,Low,Low,Low,None (Fully compliant methodology)
+ART208_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART224_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Absence of threshold-independent metrics
+ART226_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART227_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART228_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART230_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART232_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Absence of threshold-independent metrics
+ART247_SCP,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART249_SCP,Low,Low,Low,High,High,Unmitigated class imbalance; Absence of threshold-independent metrics
+ART251_SCP,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART252_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART256_SCP,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART280_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART281_WOS,Low,Low,Low,Low,Low,None (Fully compliant methodology)
+ART282_WOS,High,Low,Low,Low,Moderate,Unreported sample size
+ART287_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Absence of threshold-independent metrics
+ART290_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART291_WOS,Low,Low,Low,High,High,Unmitigated class imbalance
+ART297_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART298_WOS,Low,Low,Low,High,High,Unmitigated class imbalance
+ART301_WOS,Low,High,Low,High,High,Unreported predictor taxonomy; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART303_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART306_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART311_WOS,Low,Low,Low,High,High,Unmitigated class imbalance
+ART257_IEEE,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART261_IEEE,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART264_IEEE,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART265_IEEE,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART270_IEEE,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART271_IEEE,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART273_IEEE,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance
+ART275_IEEE,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART276_ACM,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART313_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART314_WOS,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART315_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART316_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART319_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART321_WOS,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART322_WOS,Low,Low,Low,Low,Low,None (Fully compliant methodology)
+ART323_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART327_WOS,Low,Moderate,Low,Moderate,Moderate,Single-domain predictor scope; Absence of threshold-independent metrics
+ART328_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Absence of threshold-independent metrics
+ART329_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART330_WOS,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART332_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART334_WOS,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART336_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART338_WOS,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART341_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART345_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART348_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART349_WOS,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART352_WOS,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART360_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART363_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART365_WOS,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART366_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance
+ART367_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART369_WOS,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART370_WOS,Low,Low,Low,Moderate,Low,Absence of threshold-independent metrics
+ART373_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART375_WOS,High,Low,Low,Low,Moderate,Unreported sample size
+ART376_WOS,Low,Moderate,Low,Low,Low,Single-domain predictor scope
+ART377_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART378_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART380_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART381_WOS,Low,Low,Low,High,High,Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART383_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance
+ART384_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART386_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART388_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART391_WOS,High,Low,Low,High,High,Unreported sample size; Unmitigated class imbalance
+ART392_WOS,Low,Low,Low,Low,Low,None (Fully compliant methodology)
+ART396_WOS,Low,Moderate,Low,High,Moderate,Single-domain predictor scope; Accuracy as sole metric or unreported metrics
+ART399_WOS,Low,Moderate,Low,High,High,Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
+ART405_WOS,Low,Low,Low,High,High,Unmitigated class imbalance
+ART409_WOS,Low,Low,Low,High,Moderate,Accuracy as sole metric or unreported metrics
+ART412_WOS,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance
+ART416_WOS,High,Moderate,Low,High,High,Unreported sample size; Single-domain predictor scope; Unmitigated class imbalance; Accuracy as sole metric or unreported metrics
