@@ -1,0 +1,5 @@
+Attribute_ID,Protected_Attribute,Unprivileged_Group,Privileged_Reference_Group,Sample_Size_n,Context_Description
+ATT01,Gender,Female (F),Male (M),5820,"Evaluates gender parity in STEM and general retention trajectories."
+ATT02,Socioeconomic_Status,Low-Income (Tier 1-2),High-Income (Tier 3-5),4150,"Assess scholarship dependency and socio-financial vulnerability."
+ATT03,Age_Cohort,Mature Students (>=25 years),Standard Entry (<25 years),1890,"Evaluates non-traditional adult learner attrition risk."
+ATT04,School_Origin,Public / State High School,Private High School,6340,"Assesses prior academic preparation inequalities at university entry."

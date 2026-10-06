@@ -1,0 +1,5 @@
+Attribute_ID,Protected_Attribute,TPR_Unprivileged,TPR_Privileged,FPR_Unprivileged,FPR_Privileged,Delta_EOD,Fairness_Status
+ATT01,Gender,0.895,0.902,0.021,0.018,0.0100,OPTIMAL (<= 0.05)
+ATT02,Socioeconomic_Status,0.888,0.905,0.025,0.017,0.0245,OPTIMAL (<= 0.05)
+ATT03,Age_Cohort,0.890,0.900,0.022,0.019,0.0130,OPTIMAL (<= 0.05)
+ATT04,School_Origin,0.892,0.901,0.023,0.018,0.0140,OPTIMAL (<= 0.05)

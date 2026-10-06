@@ -1,0 +1,5 @@
+Attribute_ID,Protected_Attribute,Unprivileged_Group,Base_Model_DI,CTGAN_Balanced_DI,XHDPF_LateFusion_DI,Threshold_Status
+ATT01,Gender,Female (F),0.720,0.850,0.912,PASS (>= 0.80)
+ATT02,Socioeconomic_Status,Low-Income (Tier 1-2),0.640,0.820,0.875,PASS (>= 0.80)
+ATT03,Age_Cohort,Mature Students (>=25 years),0.680,0.810,0.880,PASS (>= 0.80)
+ATT04,School_Origin,Public High School,0.710,0.840,0.895,PASS (>= 0.80)
