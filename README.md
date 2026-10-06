@@ -83,6 +83,8 @@ XHDPF-Repository/
 │   ├── subgroup_definitions.csv        <- Demographic and protected cohort definitions
 │   ├── DI.csv                          <- Disparate Impact ratio calculations
 │   └── EOD.csv                         <- Equalized Odds Difference metric evaluations
+│   ├── compute_fairness_metrics.py     <- Módulo de cálculo matemático de DI y \Delta EOD
+│   └── fairness_audit.py               <- Script de ejecución y verificación de umbrales éticos
 │
 ├── 09_Transferability/                 <- Cross-institutional transferability suite
 │   ├── protocol.pdf                    <- Formal 4-phase institutional transferability protocol
