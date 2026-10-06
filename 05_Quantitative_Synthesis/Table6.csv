@@ -1,0 +1,6 @@
+Imbalance_Mitigation_Strategy,Study_Count_n,Percentage_Share,Methodological_Type,Impact_on_Accuracy_Paradox,Layer_2_XHDPF_Adoption
+None / Unreported,115,73.72,Unmitigated Imbalance,High risk of optimistic Accuracy Paradox bias; inflates majority class recall,Rejected (Primary source of bias in literature)
+SMOTE / Linear Oversampling,34,21.79,Heuristic Linear Interpolation,Partial PR-AUC improvement; risks synthetic noise in non-linear decision boundaries,Baseline comparison benchmark
+Random Undersampling,6,3.85,Majority Class Pruning,Reduces majority bias but discards critical administrative student records,Rejected (Information loss)
+Cost-Sensitive Learning,1,0.64,Algorithmic Loss Weighting,Improves minority class penalty without generating synthetic instances,Complementary baseline
+CTGAN / Deep Tabular Generative Oversampling,3,1.92,Conditional Tabular GAN,Resolves class imbalance while preserving complex feature correlations,Adopted (Layer 2 Generative Core)

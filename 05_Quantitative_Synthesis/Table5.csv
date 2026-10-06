@@ -1,0 +1,11 @@
+Algorithmic_Family,Evaluated_Studies_n,Evaluated_Prevalence_Pct,Top_Performer_Count_n,Top_Performer_Pct,Primary_Performance_Metric,Observed_AUC_ROC_Range
+Random Forest (RF),71,45.51,43,27.56,AUC-ROC / F1-Score / Accuracy,0.780 - 0.965
+Gradient Boosted Trees (XGBoost / LightGBM),41,26.28,19,12.18,AUC-ROC / PR-AUC,0.820 - 0.975
+Neural Networks & Deep Learning (ANN / MLP / DL),44,28.21,17,10.9,AUC-ROC / Accuracy,0.710 - 0.950
+Decision Trees (DT / J48),52,33.33,14,8.97,Accuracy / F1-Score,0.650 - 0.890
+Logistic Regression (LR),51,32.69,13,8.33,Accuracy / AUC-ROC,0.620 - 0.850
+Hybrid Ensembles & Late Fusion Stacking,14,8.97,11,7.05,AUC-ROC / PR-AUC,0.880 - 0.978
+Support Vector Machines (SVM),46,29.49,6,3.85,Accuracy / F1-Score,0.680 - 0.870
+K-Nearest Neighbors (KNN),28,17.95,4,2.56,Accuracy,0.600 - 0.820
+Naive Bayes (NB),29,18.59,3,1.92,Accuracy / Recall,0.580 - 0.790
+Unreported / Incomplete Specification,25,16.03,25,16.03,Unreported,N/A

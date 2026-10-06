@@ -1,0 +1,6 @@
+Data_Source_Category,Study_Count_n,Percentage_Share,Primary_Data_Attributes,Predictive_Utility_Level
+Academic Records (SIS),117,75.0,"GPA, term grades, enrolled/approved credits, high school average, enrollment status",High static discrimination; primary input for Layer 1 and static Layer 3 XGBoost branch
+Virtual Learning Environments (LMS),19,12.18,"Logins, forum posts, assignment submission timestamps, resource clicks",High dynamic sequence sensitivity; primary input for Layer 3 Stacked LSTM branch
+Socioeconomic & Demographic Surveys,17,10.9,"Household income, parental education, scholarship status, commuting distance",Essential for Layer 4 subgroup fairness audits (EOD and Disparate Impact)
+Unreported Data Origin,2,1.28,Generic unclassified features without domain provenance,Low reproducibility; flagged as high risk in PROBAST Analysis domain
+Multi-Source Integrated Records (SIS + Financial),1,0.64,"Combined academic GPA, financial debt, grant status, tuition payments",Comprehensive multi-domain feature coverage for longitudinal tracking
